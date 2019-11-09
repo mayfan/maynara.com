@@ -1,9 +1,8 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: May Fanucci - UX/UI Designer
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: I'm May, a UX/UI Designer Based in London
 mainpitch:
   title: Why Kaldi
   description: >

@@ -1,14 +1,41 @@
 @import "~bulma/sass/utilities/initial-variables"
+@import url('https://fonts.googleapis.com/css?family=Lora&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Cabin:500,500i&display=swap');
 
 // Config vars
 // Kaldi logo brand color: #FD461E
-$kaldi-red: #D64000
+$kaldi-red: #D64000 
 $kaldi-red-invert: #fff
+ 
+$primary: $kaldi-red 
+$primary-invert: $kaldi-red-invert 
+$body-color: #333 
+$black: #2b2523 
+$pink: #E86A92 
+$yellow: #ffdb97 
 
-$primary: $kaldi-red
-$primary-invert: $kaldi-red-invert
-$body-color: #333
-$black: #2b2523
+.content 
+  a
+    border-bottom: solid 4px $pink 
+    padding-bottom: 2px 
+    margin-bottom: 4px 
+    a:hover 
+      border-bottom: solid 2px $pink 
+      padding-bottom: 4px 
+
+a:hover 
+  color: $pink 
+  
+body 
+  font-family: 'Cabin', sans-serif
+
+h1, h2, h3, h4, h5, h6 
+  font-family: 'Lora', serif
+  font-weight: normal 
+
+.header
+  h1
+    color: $yellow !important
 
 .navbar .navbar-menu
   box-shadow:none !important
@@ -122,9 +149,18 @@ $menu-label-color: $white-ter
   flex-basis: 35%;
   margin: 0 1.5em 0 0;
 
+.contact
+  p
+    color: white
+    margin-bottom: 0.5em;
+    text-align: right
+    
+    a
+      color: white 
+    a:hover
+      color: $pink
 
 @import "~bulma"
-
 
 // responsiveness
 +tablet-only

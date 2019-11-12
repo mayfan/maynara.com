@@ -4,8 +4,9 @@ import { graphql } from "gatsby";
 
 import Contact from "../components/Contact";
 import Layout from "../components/Layout";
+import Portfolio from "../components/Portfolio";
 
-export const IndexPageTemplate = ({ heading }) => (
+export const IndexPageTemplate = ({ heading, portfolio }) => (
   <div>
     <section
       className="section section--gradient"
@@ -15,9 +16,13 @@ export const IndexPageTemplate = ({ heading }) => (
     >
       <div className="container">
         <div className="columns">
-          <div className="column is-10 is-offset-1">
+          <div className="column is-3 is-offset-9 content">
+            <Contact />
+          </div>
+        </div>
+        <div className="columns">
+          <div className="column is-9">
             <div className="content header">
-              <Contact />
               <h1 className="is-size-3-mobile is-size-2-tablet is-size-1-widescreen">
                 {heading}
               </h1>
@@ -26,18 +31,15 @@ export const IndexPageTemplate = ({ heading }) => (
         </div>
       </div>
     </section>
+    <Portfolio items={portfolio.blurbs} />
   </div>
 );
 
 IndexPageTemplate.propTypes = {
-  image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   title: PropTypes.string,
   heading: PropTypes.string,
-  subheading: PropTypes.string,
-  mainpitch: PropTypes.object,
-  description: PropTypes.string,
-  intro: PropTypes.shape({
-    blurbs: PropTypes.array
+  portfolio: PropTypes.arrayOf({
+    blurbs: PropTypes.object
   })
 };
 
@@ -47,13 +49,9 @@ const IndexPage = ({ data }) => {
   return (
     <Layout>
       <IndexPageTemplate
-        image={frontmatter.image}
         title={frontmatter.title}
         heading={frontmatter.heading}
-        subheading={frontmatter.subheading}
-        mainpitch={frontmatter.mainpitch}
-        description={frontmatter.description}
-        intro={frontmatter.intro}
+        portfolio={frontmatter.portfolio}
       />
     </Layout>
   );
@@ -77,10 +75,12 @@ export const pageQuery = graphql`
         heading
         portfolio {
           blurbs {
+            backgroundColor
             title
             column1
             column2
             column3
+            link
           }
         }
       }

@@ -4,15 +4,8 @@ import { graphql } from "gatsby";
 
 import Contact from "../components/Contact";
 import Layout from "../components/Layout";
-import Features from "../components/Features";
 
-export const IndexPageTemplate = ({
-  image,
-  heading,
-  mainpitch,
-  description,
-  intro
-}) => (
+export const IndexPageTemplate = ({ heading }) => (
   <div>
     <section
       className="section section--gradient"
@@ -28,35 +21,6 @@ export const IndexPageTemplate = ({
               <h1 className="is-size-3-mobile is-size-2-tablet is-size-1-widescreen">
                 {heading}
               </h1>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <section className="section section--gradient">
-      <div className="container">
-        <div className="section">
-          <div className="columns">
-            <div className="column is-10 is-offset-1">
-              <div className="content">
-                <div className="content">
-                  <div className="tile">
-                    <h1 className="title">{mainpitch.title}</h1>
-                  </div>
-                  <div className="tile">
-                    <h3 className="subtitle">{mainpitch.description}</h3>
-                  </div>
-                </div>
-                <div className="columns">
-                  <div className="column is-12">
-                    <h3 className="has-text-weight-semibold is-size-2">
-                      {heading}
-                    </h3>
-                    <p>{description}</p>
-                  </div>
-                </div>
-                <Features gridItems={intro.blurbs} />
-              </div>
             </div>
           </div>
         </div>
@@ -110,33 +74,14 @@ export const pageQuery = graphql`
     markdownRemark(frontmatter: { templateKey: { eq: "index-page" } }) {
       frontmatter {
         title
-        image {
-          childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
         heading
-        subheading
-        mainpitch {
-          title
-          description
-        }
-        description
-        intro {
+        portfolio {
           blurbs {
-            image {
-              childImageSharp {
-                fluid(maxWidth: 240, quality: 64) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
-            text
+            title
+            column1
+            column2
+            column3
           }
-          heading
-          description
         }
       }
     }

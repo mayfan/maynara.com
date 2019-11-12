@@ -68,6 +68,7 @@ collections:
                         { label: Column 1, name: column1, widget: "markdown" },
                         { label: Column 2, name: column2, widget: "markdown" },
                         { label: Column 3, name: column3, widget: "markdown" },
+                        { label: Link, name: link, widget: string },
                       ],
                   },
                 ],

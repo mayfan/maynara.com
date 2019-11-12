@@ -5,7 +5,10 @@ heading: 'I''m May, a UX/UI Designer Based in London'
 portfolio:
   blurbs:
     - backgroundColor: '#E2E2E2'
-      column1: Col1 is here.
+      column1: |-
+
+
+        Col1
       column2: >-
         **Role**: UX/UI/Interaction Design (Group Project)
 

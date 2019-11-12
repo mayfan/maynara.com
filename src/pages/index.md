@@ -6,8 +6,22 @@ portfolio:
   blurbs:
     - backgroundColor: '#E2E2E2'
       column1: Col1 is here.
-      column2: Now col2
+      column2: >-
+        **Role**: UX/UI/Interaction Design (Group Project)
+
+        Duration: 2 weeks
+
+
+        UX Techniques
+
+        User Research | Competitive Analysis | Sketching | Sitemaps | User Flows
+        | User Testing| Wireframing | Prototyping
+
+
+        Tools
+
+        Sketch | inVision | Photoshop | Pen and Paper
       column3: AND 3!!!
-      title: Elpis
+      title: 'An early stage social media platform: Elpis'
 ---
 

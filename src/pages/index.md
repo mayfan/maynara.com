@@ -34,7 +34,7 @@ portfolio:
       link: 'http://bbc.co.uk/'
       title: Case study 2
     - backgroundColor: '#E2E2E2'
-      column1: Image
+      column1: '![](/img/lime_1.png)'
       column2: >-
         In a two-week sprint, I worked in a team of four to integrate a new
         feature for the exiting Lime bike mobile application creating a hi-fi

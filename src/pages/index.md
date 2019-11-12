@@ -25,11 +25,13 @@ portfolio:
 
         Sketch | inVision | Photoshop | Pen and Paper
       column3: AND 3!!!
+      link: 'https://bbc.co.uk/'
       title: 'An early stage social media platform: Elpis'
     - backgroundColor: '#f00'
       column1: Words
       column2: Pic here
       column3: WWOOOOOORDS
+      link: 'http://bbc.co.uk/'
       title: Case study 2
 ---
 

@@ -44,15 +44,15 @@ portfolio:
         experience as a way to retain current customers and attract potential
         users.
       column3: >-
-        Role: UX/UI/Interaction Design (Group Project)
+        **Role:** UX/UI/Interaction Design (Group Project)
 
 
-        Duration: 2 weeks
+        **Duration:** 2 weeks
 
 
 
 
-        UX Techniques
+        **UX Techniques**
 
 
         User Research | Competitive Analysis | Sketching | Sitemaps | User Flows
@@ -61,7 +61,7 @@ portfolio:
 
 
 
-        Tools
+        **Tools**
 
 
         Sketch | inVision | Photoshop | Pen and Paper

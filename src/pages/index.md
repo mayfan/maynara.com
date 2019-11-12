@@ -26,5 +26,10 @@ portfolio:
         Sketch | inVision | Photoshop | Pen and Paper
       column3: AND 3!!!
       title: 'An early stage social media platform: Elpis'
+    - backgroundColor: '#f00'
+      column1: Words
+      column2: Pic here
+      column3: WWOOOOOORDS
+      title: Case study 2
 ---
 

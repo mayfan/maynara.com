@@ -1,7 +1,7 @@
 import React from "react";
 
 const Contact = () => (
-  <div class="contact">
+  <div className="contact">
     <p>
       Email: <a href="mailto:hello@maynara.com">hello@maynara.com</a>
     </p>

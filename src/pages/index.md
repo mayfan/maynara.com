@@ -43,6 +43,18 @@ portfolio:
         attractions, secure rental bikes nearby and a more personalised app
         experience as a way to retain current customers and attract potential
         users.
+
+
+        CHALLENGES:
+
+
+        * Onboarding for new users 
+
+        * A new annual membership option
+
+        * Ability to choose or create a multi-point sightseeing tour
+
+        * Ability to view/browse sight details for major attractions
       column3: >-
         **Role:** UX/UI/Interaction Design (Group Project)
 

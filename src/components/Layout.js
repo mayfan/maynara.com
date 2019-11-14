@@ -11,7 +11,9 @@ const TemplateWrapper = ({ children }) => {
     <div>
       <Helmet>
         <html lang="en" />
-        <title>{title}</title>
+        <title>
+          {title} - {description}
+        </title>
         <meta name="description" content={description} />
 
         <link

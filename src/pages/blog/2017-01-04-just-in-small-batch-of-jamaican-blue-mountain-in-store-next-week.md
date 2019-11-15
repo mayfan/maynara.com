@@ -6,9 +6,9 @@ description: >-
   We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
   Mountain coffee beans in our store next week.
 row:
-  - backgroundColor: '#000'
+  - backgroundColor: '#ccc'
     column:
-      - content: Col 1
+      - content: '**Col 1**'
       - content: Col 2
   - backgroundColor: '#fff'
     column:

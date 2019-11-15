@@ -1,72 +1,53 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { kebabCase } from "lodash";
 import Helmet from "react-helmet";
-import { graphql, Link } from "gatsby";
+import { graphql } from "gatsby";
+import ReactMarkdown from "react-markdown";
+
 import Layout from "../components/Layout";
-import Content, { HTMLContent } from "../components/Content";
 
 export const Rows = ({ rows }) => {
   return (
-    <div className="container content">
-      {rows.map(({ column }) => (
-        <div className="columns" key={column}>
-          {column.map(({ content }) => (
-            <div className="column" key={content}>
-              {content}
+    <div>
+      {rows.map(({ backgroundColor, column }) => (
+        <section className="section" style={{ backgroundColor }}>
+          <div className="container content" key={column}>
+            <div className="columns">
+              {column.map(({ content }) => (
+                <div className="column" key={content}>
+                  <ReactMarkdown source={content} />
+                </div>
+              ))}
             </div>
-          ))}
-        </div>
+          </div>
+        </section>
       ))}
     </div>
   );
 };
 
-export const BlogPostTemplate = ({
-  content,
-  contentComponent,
-  description,
-  tags,
-  title,
-  helmet,
-  row
-}) => {
-  const PostContent = contentComponent || Content;
-
+export const BlogPostTemplate = ({ description, title, helmet, row }) => {
   return (
-    <section className="section">
-      {helmet || ""}
-      <div className="container content">
-        <div className="columns">
-          <div className="column is-12">
-            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-              {title}
-            </h1>
-            <p>{description}</p>
-            <PostContent content={content} />
-            {tags && tags.length ? (
-              <div style={{ marginTop: `4rem` }}>
-                <h4>Tags</h4>
-                <ul className="taglist">
-                  {tags.map(tag => (
-                    <li key={tag + `tag`}>
-                      <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            ) : null}
+    <div>
+      <section className="section">
+        {helmet || ""}
+        <div className="container content">
+          <div className="columns">
+            <div className="column is-12">
+              <h1 className="title is-size-1 has-text-weight-bold">{title}</h1>
+              <p className="title is-size-3 has-text-weight-bold">
+                {description ? description : null}
+              </p>
+            </div>
           </div>
         </div>
-      </div>
+      </section>
       {row && row.length ? <Rows rows={row} /> : null}
-    </section>
+    </div>
   );
 };
 
 BlogPostTemplate.propTypes = {
-  content: PropTypes.node.isRequired,
-  contentComponent: PropTypes.func,
   description: PropTypes.string,
   title: PropTypes.string,
   helmet: PropTypes.object,
@@ -79,8 +60,6 @@ const BlogPost = ({ data }) => {
   return (
     <Layout>
       <BlogPostTemplate
-        content={post.html}
-        contentComponent={HTMLContent}
         description={post.frontmatter.description}
         helmet={
           <Helmet titleTemplate="%s | Blog">
@@ -91,7 +70,6 @@ const BlogPost = ({ data }) => {
             />
           </Helmet>
         }
-        tags={post.frontmatter.tags}
         title={post.frontmatter.title}
         c={post.frontmatter.title}
         row={post.frontmatter.row}
@@ -112,15 +90,14 @@ export const pageQuery = graphql`
   query BlogPostByID($id: String!) {
     markdownRemark(id: { eq: $id }) {
       id
-      html
       frontmatter {
         title
         description
-        tags
         row {
           column {
             content
           }
+          backgroundColor
         }
       }
     }

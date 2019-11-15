@@ -40,6 +40,11 @@ collections:
                 widget: "list",
                 fields: [{ label: Content, name: content, widget: "markdown" }],
               },
+              {
+                label: Background Colour,
+                name: backgroundColor,
+                widget: string,
+              },
             ],
         }
 

@@ -89,6 +89,26 @@ collections:
                   },
                 ],
             }
+          - {
+            label: "Row",
+            name: "row",
+            widget: "list",
+            fields:
+              [
+                {
+                  label: "Column",
+                  name: "column",
+                  widget: "list",
+                  fields: [{ label: Content, name: content, widget: "markdown" }],
+                },
+                {
+                  label: Background Colour,
+                  name: backgroundColor,
+                  widget: string,
+                },
+              ],
+          }
+
       - file: "src/pages/about/index.md"
         label: "About"
         name: "about"
@@ -101,3 +121,22 @@ collections:
             }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
+          - {
+            label: "Row",
+            name: "row",
+            widget: "list",
+            fields:
+              [
+                {
+                  label: "Column",
+                  name: "column",
+                  widget: "list",
+                  fields: [{ label: Content, name: content, widget: "markdown" }],
+                },
+                {
+                  label: Background Colour,
+                  name: backgroundColor,
+                  widget: string,
+                },
+              ],
+          }

@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: May Fanucci - UX/UI Designer
-heading: 'I''m May, a UX/UI Designer Based in London'
+heading: 'I''m May, a UX/UI Designer based in London'
 portfolio:
   blurbs:
     - backgroundColor: '#E2E2E2'

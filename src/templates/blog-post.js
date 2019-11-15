@@ -5,26 +5,7 @@ import { graphql } from "gatsby";
 import ReactMarkdown from "react-markdown";
 
 import Layout from "../components/Layout";
-
-export const Rows = ({ rows }) => {
-  return (
-    <div>
-      {rows.map(({ backgroundColor, column }) => (
-        <section className="section" style={{ backgroundColor }}>
-          <div className="container content" key={column}>
-            <div className="columns">
-              {column.map(({ content }) => (
-                <div className="column" key={content}>
-                  <ReactMarkdown source={content} />
-                </div>
-              ))}
-            </div>
-          </div>
-        </section>
-      ))}
-    </div>
-  );
-};
+import Rows from "../components/Rows";
 
 export const BlogPostTemplate = ({ description, title, helmet, row }) => {
   return (

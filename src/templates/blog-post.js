@@ -2,7 +2,6 @@ import React from "react";
 import PropTypes from "prop-types";
 import Helmet from "react-helmet";
 import { graphql } from "gatsby";
-import ReactMarkdown from "react-markdown";
 
 import Layout from "../components/Layout";
 import Rows from "../components/Rows";

@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import ReactMarkdown from "react-markdown";
 
-export const Rows = ({ rows }) => {
+const Rows = ({ rows }) => {
   return (
     <div>
       {rows.map(({ backgroundColor, column }) => (
@@ -25,3 +25,5 @@ export const Rows = ({ rows }) => {
 Rows.propTypes = {
   rows: PropTypes.array
 };
+
+export default Rows;

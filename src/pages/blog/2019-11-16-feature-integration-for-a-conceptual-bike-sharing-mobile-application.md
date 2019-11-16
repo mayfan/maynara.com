@@ -394,6 +394,7 @@ row:
       - content: >-
           [InVision
           Prototype](https://projects.invisionapp.com/share/5RUMS8AXSK9#/screens)
+      - content: '![](/img/lb_gif.gif)'
     title: Final Prototype
   - backgroundColor: E2E2E2
     column: []

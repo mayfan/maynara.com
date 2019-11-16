@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Feature integration for a conceptual bike sharing mobile application
+title: New feature for Lime - an electric bike renting mobile app
 date: 2019-11-16T13:50:10.312Z
 description: ' '
 row:

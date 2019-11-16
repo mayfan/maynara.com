@@ -2,11 +2,18 @@ import React from "react";
 import PropTypes from "prop-types";
 import Helmet from "react-helmet";
 import { graphql } from "gatsby";
+import ReactMarkdown from "react-markdown";
 
 import Layout from "../components/Layout";
 import Rows from "../components/Rows";
 
-export const BlogPostTemplate = ({ description, title, helmet, row }) => {
+export const BlogPostTemplate = ({
+  content,
+  description,
+  title,
+  helmet,
+  row
+}) => {
   return (
     <div>
       <section className="section">
@@ -22,12 +29,16 @@ export const BlogPostTemplate = ({ description, title, helmet, row }) => {
           </div>
         </div>
       </section>
+      <section className="section">
+        {content ? <ReactMarkdown source={content} /> : null}
+      </section>
       {row && row.length ? <Rows rows={row} /> : null}
     </div>
   );
 };
 
 BlogPostTemplate.propTypes = {
+  content: PropTypes.string,
   description: PropTypes.string,
   title: PropTypes.string,
   helmet: PropTypes.object,
@@ -50,6 +61,7 @@ const BlogPost = ({ data }) => {
             />
           </Helmet>
         }
+        content={post.html}
         title={post.frontmatter.title}
         c={post.frontmatter.title}
         row={post.frontmatter.row}
@@ -70,6 +82,7 @@ export const pageQuery = graphql`
   query BlogPostByID($id: String!) {
     markdownRemark(id: { eq: $id }) {
       id
+      html
       frontmatter {
         title
         description

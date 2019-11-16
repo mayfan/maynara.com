@@ -8,6 +8,6 @@ row:
 ---
 ### UX/UI Designer
 
-maynara.com/linkedin
+[maynara.com/linkedin](https://maynara.com/linkedin)
 
 hello@maynara.com

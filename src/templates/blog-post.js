@@ -2,8 +2,8 @@ import React from "react";
 import PropTypes from "prop-types";
 import Helmet from "react-helmet";
 import { graphql } from "gatsby";
-import ReactMarkdown from "react-markdown";
 
+import { HTMLContent } from "../components/Content";
 import Layout from "../components/Layout";
 import Rows from "../components/Rows";
 
@@ -30,7 +30,13 @@ export const BlogPostTemplate = ({
         </div>
       </section>
       <section className="section">
-        {content ? <ReactMarkdown source={content} /> : null}
+        <div className="container content">
+          <div className="columns">
+            <div className="column is-12">
+              {content ? <HTMLContent content={content} /> : null}
+            </div>
+          </div>
+        </div>
       </section>
       {row && row.length ? <Rows rows={row} /> : null}
     </div>

@@ -296,7 +296,7 @@ row:
       - content: |-
           ### App Map
 
-          ![](/img/appmap.png)
+          ![](/img/lb_img3.png)
       - content: >-
           We also created the sitemap indicating where they would be placed –
           according to user’s feedback.

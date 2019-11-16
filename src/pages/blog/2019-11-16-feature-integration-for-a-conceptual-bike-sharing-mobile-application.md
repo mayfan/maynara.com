@@ -396,7 +396,7 @@ row:
           Prototype](https://projects.invisionapp.com/share/5RUMS8AXSK9#/screens)
       - content: '![](/img/lb_gif.gif)'
     title: Final Prototype
-  - backgroundColor: E2E2E2
+  - backgroundColor: '#E2E2E2'
     column:
       - content: >-
           To continue to grow Lime, a few new features are considered to be

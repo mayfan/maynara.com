@@ -72,6 +72,7 @@ export const pageQuery = graphql`
         title
         heading
         row {
+          title
           column {
             content
           }

@@ -70,6 +70,7 @@ export const aboutPageQuery = graphql`
       frontmatter {
         title
         row {
+          title
           column {
             content
           }

@@ -155,6 +155,9 @@ row:
           How to be more healthy and balance work with her personal life but
           finds particularly difficult to be more active as she usually needs to
           use Google/apps to find classes that will fit in her time and budget.
-      - content: '![](/img/wmo_3.png)'
+      - content: |-
+          ![](/img/wmo_3.png)
+
+          ![](/img/wmo_5.png)
 ---
 

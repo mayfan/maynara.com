@@ -209,5 +209,13 @@ row:
           process.
 
           * People are less likely to cycle during winter conditions.
+  - backgroundColor: '#FFF'
+    column:
+      - content: >-
+          ### Experience Mapping
+
+
+          To understand a bit more about our user’s pain points when hiring a
+          bike through a mobile app, we created an Experience Map.
 ---
 ![](/img/lime_main_2.png)

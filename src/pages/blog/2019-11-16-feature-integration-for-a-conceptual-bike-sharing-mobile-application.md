@@ -371,5 +371,9 @@ row:
     column:
       - content: '![](/img/18.png)'
       - content: '![](/img/15.png)'
+  - backgroundColor: '#FFF'
+    column:
+      - content: '![](/img/16.png)'
+      - content: '![](/img/17.png)'
 ---
 ![](/img/lime_main_2.png)

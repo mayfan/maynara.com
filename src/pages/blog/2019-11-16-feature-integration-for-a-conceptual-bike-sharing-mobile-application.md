@@ -328,8 +328,7 @@ row:
 
           Lo-fi clickable prototype was tested. The scenario given to users was
           the following:
-
-
+      - content: >-
           #### **“Imagine two friends are coming to visit you in London. You
           want to show them the city by bike, as it’s a fun way to get around.
           You know that Lime has a new feature that allows you to plan your

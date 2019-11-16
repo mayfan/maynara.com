@@ -151,10 +151,10 @@ row:
           commute behaviours in London and if they were used to hiring bikes for
           themselves. Through this method, we were able to filter and recruit
           research participants to conduct more in-depth interviews further on.
+  - backgroundColor: '#FFF'
+    column:
+      - content: '![](/img/survey.png)'
       - content: >-
-          ![](/img/survey.png)
-
-
           35 people responded in total but only 9 matched our criteria to move
           forward with personal user interviews. We tried to recruit two groups
           of interviewees; we wanted to talk to frequent and non-frequent

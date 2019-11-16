@@ -37,7 +37,7 @@ row:
           \- Ability to view/browse sight details for major attractions (e.g.
           opening hours, prices, description, map, etc.)
     title: The brief
-  - backgroundColor: '#FFF'
+  - backgroundColor: '#E2E2E2'
     column:
       - content: '![](/img/title.png)'
   - backgroundColor: '#FFF'
@@ -56,6 +56,22 @@ row:
     column:
       - content: '![Direct Competitors](/img/direct_comp.png "Direct Competitors")'
       - content: '![Indirect Competitors](/img/indirect_comp.png "Indirect Competitors")'
+  - backgroundColor: '#FFF'
+    column:
+      - content: >-
+          **Findings**
+
+
+          * When it comes to Map Features and Reserving the bikes, only two
+          direct competitors were offering those services to clients. I will
+          explore both of them later on and explain why we decided to focus on
+          them to develop the new feature. Santander also has an advantage as
+          the only rental bike service with docking stations – which makes it
+          easier for you to rent more than one bike at a time.
+      - content: >-
+          * Google Trip was the only indirect competitor that offered all the
+          services we selected from our original brief so we decided to use it
+          as an inspiration of how we could solve our main problems.
 ---
 In a two-week sprint, I worked in a team of four to integrate a new feature for the exiting Lime bike mobile application creating a hi-fi clickable prototype. The new feature is added to help customers creating a multi-point sightseeing tour, browse sight details for major attractions, secure rental bikes nearby and a more personalised app experience as a way to retain current customers and attract potential users.
 

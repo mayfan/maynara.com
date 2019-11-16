@@ -291,5 +291,19 @@ row:
           experience if they proceeded to convert without any deviation during
           the process.
       - content: '![](/img/lb_img2.png)'
+  - backgroundColor: '#E2E2E2'
+    column:
+      - content: |-
+          ### App Map
+
+          ![](/img/appmap.png)
+      - content: >-
+          We also created the sitemap indicating where they would be placed –
+          according to user’s feedback.
+
+
+          (The area highlighted in grey (on the left) indicates the new feature
+          we designed for the app – and where it would sit according to the
+          current app map.)
 ---
 ![](/img/lime_main_2.png)

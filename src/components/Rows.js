@@ -9,12 +9,14 @@ const Rows = ({ rows }) => {
         <section className="section" style={{ backgroundColor }}>
           <div className="container content" key={column}>
             <div className="columns">
-              {column.map(({ content }) => (
-                <div className="column" key={content}>
-                  <ReactMarkdown source={content} />
-                </div>
-              ))}
               {title && <h3>{title}</h3>}
+              {column && column.length
+                ? column.map(({ content }) => (
+                    <div className="column" key={content}>
+                      <ReactMarkdown source={content} />
+                    </div>
+                  ))
+                : null}
             </div>
           </div>
         </section>

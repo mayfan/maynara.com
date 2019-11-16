@@ -386,6 +386,7 @@ row:
           Lime. The look and feel of the app follows the original designs and we
           added some illustrations and a few other additional icons to help
           users navigate in the app.
+      - content: '![](/img/lb_img4.png)'
   - backgroundColor: '#E2E2E2'
     column:
       - content: '![](/img/lb_img4.png)'

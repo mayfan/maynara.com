@@ -40,7 +40,7 @@ row:
   - backgroundColor: '#FFF'
     column:
       - content: '![](/img/title.png)'
-  - backgroundColor: '#E2E2E2'
+  - backgroundColor: '#FFF'
     column:
       - content: >-
           ### Competitive Analysis

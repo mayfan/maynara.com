@@ -78,6 +78,14 @@ row:
   - backgroundColor: '#FFF'
     column:
       - content: >-
+          ### On Site Visit
+
+
+          To understand the experience of hiring a Lime bike, we conducted a
+          site visit and made some interviews to localise the pain points for
+          users.
+
+
           **Findings:**
 
 
@@ -91,16 +99,6 @@ row:
           * Google Trip was the only indirect competitor that offered all the
           services we selected from our original brief so we decided to use it
           as an inspiration of how we could solve our main problems.
-  - backgroundColor: '#E2E2E2'
-    column:
-      - content: >-
-          ### On Site Visit
-
-
-          To understand the experience of hiring a Lime bike, we conducted a
-          site visit and made some interviews to localise the pain points for
-          users.
-    title: ''
   - backgroundColor: '#E2E2E2'
     column:
       - content: >-

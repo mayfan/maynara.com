@@ -160,5 +160,25 @@ row:
           of interviewees; we wanted to talk to frequent and non-frequent
           cyclists to understand why and how they started cycling so that we
           could address their issues in our product.
+  - backgroundColor: '#E2E2E2'
+    column:
+      - content: >-
+          ### User interviews/Qualitative Survey
+
+
+          During the interviews, we asked individuals about their travel and
+          commute behaviours in more depth. We wanted to understand how they
+          travelled and the reason behind their behaviour. Further to this, they
+          were also specifically asked about their attitude and feelings towards
+          cycling in London or when on holidays.
+      - content: >-
+          ### Discover Trends and Identify Problems
+
+
+          **Affinity map** was generated with a large amount of data and quotes
+          from the user interviews and online reviews, a few common trends and
+          pain points were identified. After the problem statement was formed,
+          we were able to focus on finding solutions and opportunity areas that
+          guided our project.
 ---
 ![](/img/lime_main_2.png)

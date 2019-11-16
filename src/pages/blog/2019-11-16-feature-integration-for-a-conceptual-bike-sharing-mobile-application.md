@@ -61,7 +61,7 @@ row:
     title: The brief
   - backgroundColor: '#E2E2E2'
     column:
-      - content: '![](/img/title.png)'
+      - content: '![](/img/lb_img1.png)'
   - backgroundColor: '#FFF'
     column:
       - content: >-
@@ -81,9 +81,6 @@ row:
   - backgroundColor: '#FFF'
     column:
       - content: >-
-          **Findings**
-
-
           * When it comes to Map Features and Reserving the bikes, only two
           direct competitors were offering those services to clients. I will
           explore both of them later on and explain why we decided to focus on
@@ -103,7 +100,8 @@ row:
           To understand the experience of hiring a Lime bike, we conducted a
           site visit and made some interviews to localise the pain points for
           users.
-      - content: >-
+
+
           **Findings:**
 
 
@@ -125,10 +123,41 @@ row:
           * The hiring price was confusing as they were not sure how long it
           would take or how much they would spend more or less before paying to
           unlock the bike.
-      - content: >-
+
+
           #### _“When I’m cycling, I always need to keep at least two apps open:
           Lime and Google Maps. It’s hard to cycle when you need to check the
           route somewhere else if you are unfamiliar with the location you are
           going to.”_
+    title: ''
+  - backgroundColor: '#FFFFFF'
+    column:
+      - content: >-
+          * People were on a rush and couldn’t stop to talk to us – a reason why
+          most of them were hiring Lime Bikes.
+
+          * Some users felt frustrated because the nearest bikes were not
+          charged.
+
+          * The cycle hire scheme was very confusing to some users as they were
+          missing an initial onboarding process.
+      - content: >-
+          * Users were not able to calculate routes on the current app so they
+          had to keep another app open (e.g. Google Maps).
+
+          * Some of the available bikes showing on the app were actually on some
+          people’s gardens.
+
+          * The hiring price was confusing as they were not sure how long it
+          would take or how much they would spend more or less before paying to
+          unlock the bike.
+
+
+          #### __
+      - content: >-
+          #### “When I’m cycling, I always need to keep at least two apps open:
+          Lime and Google Maps. It’s hard to cycle when you need to check the
+          route somewhere else if you are unfamiliar with the location you are
+          going to.”
 ---
 ![](/img/lime_main_2.png)

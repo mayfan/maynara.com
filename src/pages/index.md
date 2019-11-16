@@ -80,7 +80,7 @@ portfolio:
       link: 'https://bbc.co.uk'
       title: Feature integration for a bike sharing mobile application
 row:
-  - backgroundColor: '#000'
+  - backgroundColor: '#E2E2E2'
     column:
       - content: '![](/img/wmo_3.png)'
       - content: >-

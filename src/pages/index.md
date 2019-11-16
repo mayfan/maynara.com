@@ -99,6 +99,6 @@ row:
 
 
           Sketch | inVision | Photoshop | Pen and paper
-    title: BBBBB
+    title: 'Yo-Shelf: designing an e-commerce website for a local groceries shop'
 ---
 

@@ -233,7 +233,7 @@ row:
   - backgroundColor: '#E2E2E2'
     column:
       - content: >-
-          ### How might we…?
+          ### HMW?
 
 
           How-Might-We questions are a way to frame your ideation, and often

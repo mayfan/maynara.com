@@ -158,6 +158,6 @@ row:
       - content: |-
           ![](/img/wmo_3.png)
 
-          ![](/img/wmo_5.png)
+          ![](/img/wmo_1.png)
 ---
 

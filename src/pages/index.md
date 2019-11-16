@@ -123,7 +123,6 @@ row:
           Sketch | inVision | Photoshop | Pen and Paper
   - backgroundColor: '#FFF'
     column:
-      - content: '![](/img/wmo_3.png)'
       - content: >-
           A UX case study on improving the User’s Experience when booking gym
           classes nearby
@@ -156,5 +155,6 @@ row:
           How to be more healthy and balance work with her personal life but
           finds particularly difficult to be more active as she usually needs to
           use Google/apps to find classes that will fit in her time and budget.
+      - content: '![](/img/wmo_3.png)'
 ---
 

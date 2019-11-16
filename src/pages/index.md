@@ -137,7 +137,7 @@ row:
           **UX Techniques**
 
 
-          Competitor analysis | User interviews | User persona | Experience
+          Competitive analysis | User interviews | User persona | Experience
           mapping | User flows | Wire-flows| SiteMap | Sketching | Prototyping |
           User testing | Brand Personality & Statements | Elevator Pitch | Style
           guide

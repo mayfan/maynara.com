@@ -43,7 +43,7 @@ row:
   - backgroundColor: '#E2E2E2'
     column:
       - content: >-
-          ## Competitive Analysis
+          ### Competitive Analysis
 
 
           To understand the transport market a bit further, we conducted a

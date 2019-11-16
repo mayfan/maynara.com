@@ -397,7 +397,51 @@ row:
       - content: '![](/img/lb_gif.gif)'
     title: Final Prototype
   - backgroundColor: E2E2E2
-    column: []
+    column:
+      - content: >-
+          To continue to grow Lime, a few new features are considered to be
+          added. They focus on improving customer service and giving users a
+          more personal experience.
+      - content: >-
+          * Explore the membership options. Considering users are less likely to
+          cycle during winter due to weather conditions, maybe offering
+          discounts during specific seasons.
+
+          * Add the audio directions for users who have hearing loss or cyclists
+          who want to hear the route while riding their bikes (using only one
+          side of their earphones so they can still pay attention to the
+          traffic).
+
+          * Messaging feature will be considered to connect other Lime users.
+          This is beneficial for the users to be able to navigate when
+          collecting bikes for a large group of people so they communicate
+          between each other as well.
+      - content: >-
+          * Developing the social media aspect of the app will help the business
+          raise brand awareness and continue to grow Lime culture as a brand to
+          attract new users.
+
+          * Instant chat and customer service within the app will also help Lime
+          users to access instant help and information.
+
+          * More flows and more testing to keep improving our product.
+    title: Next Steps
   - backgroundColor: '#FFF'
+    column:
+      - content: >-
+          ### Great team work makes the dream work
+
+
+          I truly enjoyed the project and appreciate my supportive teammates who
+          were very committed to the excellence we wanted to achieve. We were
+          able to brainstorm and express our creative ideas and I felt we were
+          all deeply involved in the project. In the end, we combined all of our
+          great ideas to the final solutions based only in the research we’ve
+          intensively done. Timeline and file-management were also very
+          important to the project due to the short project time frame. The
+          cross-functional team helped each of the members strictly follow the
+          deadline and deliver what we had on the original brief – with clear
+          steps of what to do in the next phase of the project.
+    title: What I’ve learnt...
 ---
 ![](/img/lime_main_2.png)

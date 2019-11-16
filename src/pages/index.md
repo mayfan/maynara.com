@@ -38,7 +38,7 @@ row:
 
 
           **Tools:** Sketch | inVision | Photoshop | Pen and Paper
-    title: Lime Bike
+    title: New feature for Lime - an electric bike renting mobile app
   - backgroundColor: '#E2E2E2'
     column:
       - content: >-

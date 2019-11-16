@@ -35,6 +35,12 @@ collections:
           fields:
             [
               {
+                label: "Title",
+                name: title,
+                widget: string,
+                require: false,
+              },
+              {
                 label: "Column",
                 name: "column",
                 widget: "list",
@@ -70,6 +76,12 @@ collections:
             fields:
               [
                 {
+                  label: "Title",
+                  name: title,
+                  widget: string,
+                  require: false,
+                },
+                {
                   label: "Column",
                   name: "column",
                   widget: "list",
@@ -101,6 +113,12 @@ collections:
             widget: "list",
             fields:
               [
+                {
+                  label: "Title",
+                  name: title,
+                  widget: string,
+                  require: false,
+                },
                 {
                   label: "Column",
                   name: "column",

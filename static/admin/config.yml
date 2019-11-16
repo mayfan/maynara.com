@@ -64,32 +64,6 @@ collections:
           - { label: Title, name: title, widget: string }
           - { label: Heading, name: heading, widget: string }
           - {
-              label: Portfolio,
-              name: portfolio,
-              widget: object,
-              fields:
-                [
-                  {
-                    label: Blurbs,
-                    name: blurbs,
-                    widget: list,
-                    fields:
-                      [
-                        { label: Title, name: title, widget: string },
-                        {
-                          label: Background Colour,
-                          name: backgroundColor,
-                          widget: string,
-                        },
-                        { label: Column 1, name: column1, widget: "markdown" },
-                        { label: Column 2, name: column2, widget: "markdown" },
-                        { label: Column 3, name: column3, widget: "markdown" },
-                        { label: Link, name: link, widget: string },
-                      ],
-                  },
-                ],
-            }
-          - {
             label: "Row",
             name: "row",
             widget: "list",

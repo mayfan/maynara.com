@@ -375,5 +375,19 @@ row:
     column:
       - content: '![](/img/16.png)'
       - content: '![](/img/17.png)'
+  - backgroundColor: '#E2E2E2'
+    column:
+      - content: >-
+          ### Visual Guideline
+
+
+          In order to apply the new features following the current branding of
+          our client, we created a design guide with the visual elements of
+          Lime. The look and feel of the app follows the original designs and we
+          added some illustrations and a few other additional icons to help
+          users navigate in the app.
+  - backgroundColor: '#E2E2E2'
+    column:
+      - content: '![](/img/lb_img4.png)'
 ---
 ![](/img/lime_main_2.png)

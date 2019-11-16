@@ -54,8 +54,8 @@ row:
     title: Research
   - backgroundColor: '#FFF'
     column:
-      - content: '![](/img/direct_comp.png)'
-      - content: '![](/img/indirect_comp.png)'
+      - content: '![Direct Competitors](/img/direct_comp.png "Direct Competitors")'
+      - content: '![Indirect Competitors](/img/indirect_comp.png "Indirect Competitors")'
 ---
 In a two-week sprint, I worked in a team of four to integrate a new feature for the exiting Lime bike mobile application creating a hi-fi clickable prototype. The new feature is added to help customers creating a multi-point sightseeing tour, browse sight details for major attractions, secure rental bikes nearby and a more personalised app experience as a way to retain current customers and attract potential users.
 

@@ -175,10 +175,39 @@ row:
           ### Discover Trends and Identify Problems
 
 
-          **Affinity map** was generated with a large amount of data and quotes
-          from the user interviews and online reviews, a few common trends and
-          pain points were identified. After the problem statement was formed,
-          we were able to focus on finding solutions and opportunity areas that
-          guided our project.
+          An **Affinity map** was generated with a large amount of data and
+          quotes from the user interviews and online reviews, a few common
+          trends and pain points were identified. After the problem statement
+          was formed, we were able to focus on finding solutions and opportunity
+          areas that guided our project.
+  - backgroundColor: '#E2E2E2'
+    column:
+      - content: |-
+          ![](/img/group_1-2.jpg)
+
+          ![](/img/pic_2.jpg)
+  - backgroundColor: '#E2E2E2'
+    column:
+      - content: >-
+          From those insights, we realised we would need to focus on some
+          problems we could solve on the app. Many of the user’s feedback were
+          about the quality and physical conditions of the bikes or how they
+          were feeling unsafe knowing they would need to cycle without a helmet
+          – considering it’s something you don’t necessarily have when hiring a
+          bike ocasionally. They were also very vocal about issues they’ve had
+          when it comes to pick-up and drop-off (e.g. mentioning the red zones –
+          places they are not allowed to park and can be charged a fee if they
+          do).
+      - content: >-
+          **Findings:**
+
+
+          * People need an easy way to check the route when cycling in an
+          unfamiliar environment.
+
+          * Those who do not hire bike on holiday are discouraged by set up
+          process.
+
+          * People are less likely to cycle during winter conditions.
 ---
 ![](/img/lime_main_2.png)

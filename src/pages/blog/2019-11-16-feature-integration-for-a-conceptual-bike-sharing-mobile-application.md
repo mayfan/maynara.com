@@ -347,12 +347,23 @@ row:
       - content: >-
           With all the instructions given to users, a few common problems were
           pointed out and addressed in the second iteration – and refined
-          further on the final iteration.
+          further on the final iteration. The main problems were:
+
+
+          * Users would like to have the option to skip the onboarding process
+          if they wanted.
+
+          * "Create Journey" was expected to be on the main screen, not on the
+          burger menu.
+
+          * Users were confused about adding stops to their journey.
+
+          * Map interaction wasn't intuitive to users.
       - content: >-
           ![](/img/group_2.jpg)
 
 
-          To better understand the feedback we received from V1, we’ve done an
+          To better understand all feedback we received from V1, we’ve done an
           **Affinity Map** with the main issues and used post-its to find
           patterns on the possible changes we would need to do. That was very
           helpful when you have a lot of feedback and you want to put them

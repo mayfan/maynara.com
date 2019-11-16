@@ -182,10 +182,8 @@ row:
           areas that guided our project.
   - backgroundColor: '#E2E2E2'
     column:
-      - content: |-
-          ![](/img/group_1-2.jpg)
-
-          ![](/img/pic_2.jpg)
+      - content: '![](/img/group_1-2.jpg)'
+      - content: '![](/img/pic_2.jpg)'
   - backgroundColor: '#E2E2E2'
     column:
       - content: >-

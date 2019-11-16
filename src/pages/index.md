@@ -84,5 +84,27 @@ row:
           ![](/img/wmo_3.png)
 
           ![](/img/wmo_2.png)
+  - backgroundColor: '#FFF'
+    column:
+      - content: '![]()'
+      - content: >-
+          **Role:** UX/UI/Interaction Design (Solo Project)
+
+
+          **Duration:** 2 weeks
+
+
+          **UX Techniques**
+
+
+          Competitor analysis | User interviews | User persona | Experience
+          mapping | User flows | Wire-flows| SiteMap | Sketching | Prototyping |
+          User testing
+
+
+          **Tools**
+
+
+          Sketch | inVision | Photoshop | Pen and paper
 ---
 

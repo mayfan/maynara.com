@@ -298,7 +298,7 @@ row:
 
           ![](/img/lb_img3.png)
       - content: >-
-          We also created the sitemap indicating where they would be placed –
+          We also created the app map indicating where they would be placed –
           according to user’s feedback.
 
 

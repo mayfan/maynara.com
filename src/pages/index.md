@@ -2,8 +2,6 @@
 templateKey: index-page
 title: May Fanucci - UX/UI Designer
 heading: 'I''m May, a UX/UI Designer based in London'
-portfolio:
-  blurbs: []
 row:
   - backgroundColor: '#FFFFFF'
     column:
@@ -40,6 +38,7 @@ row:
 
 
           **Tools:** Sketch | inVision | Photoshop | Pen and Paper
+    title: Lime Bike
   - backgroundColor: '#E2E2E2'
     column:
       - content: >-
@@ -75,6 +74,7 @@ row:
           finds particularly difficult to be more active as she usually needs to
           use Google/apps to find classes that will fit in her time and budget.
       - content: '![](/img/wmo_6.png)'
+    title: AAAA
   - backgroundColor: '#FFF'
     column:
       - content: '![](/img/mockup2.png)'
@@ -97,5 +97,6 @@ row:
 
 
           Sketch | inVision | Photoshop | Pen and paper
+    title: BBBBB
 ---
 

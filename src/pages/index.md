@@ -37,13 +37,11 @@ row:
 
           **UX Techniques**
 
-
           User Research | Competitive Analysis | Sketching | Sitemaps | User
           Flows | User Testing| Wireframing | Prototyping
 
 
           **Tools**
-
 
           Sketch | inVision | Photoshop | Pen and Paper
   - backgroundColor: '#E2E2E2'

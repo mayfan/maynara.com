@@ -36,7 +36,7 @@ row:
 
           \- Ability to view/browse sight details for major attractions (e.g.
           opening hours, prices, description, map, etc.)
-    title: The Brief
+    title: The brief
   - backgroundColor: '#FFF'
     column:
       - content: '![](/img/title.png)'

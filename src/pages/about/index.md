@@ -3,8 +3,8 @@ templateKey: about-page
 title: May Fanucci
 row:
   - backgroundColor: '#ccc'
-    column:
-      - content: Col
+    column: []
+    title: PPPPP
 ---
 ### UX/UI Designer
 

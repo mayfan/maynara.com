@@ -143,5 +143,24 @@ row:
           Lime and Google Maps. It’s hard to cycle when you need to check the
           route somewhere else if you are unfamiliar with the location you are
           going to.”
+  - backgroundColor: '#FFF'
+    column:
+      - content: >-
+          ### Quantitative Survey
+
+
+          We sent out a short survey online asking people about their travel and
+          commute behaviours in London and if they were used to hiring bikes for
+          themselves. Through this method, we were able to filter and recruit
+          research participants to conduct more in-depth interviews further on.
+      - content: >-
+          ![](/img/survey.png)
+
+
+          35 people responded in total but only 9 matched our criteria to move
+          forward with personal user interviews. We tried to recruit two groups
+          of interviewees; we wanted to talk to frequent and non-frequent
+          cyclists to understand why and how they started cycling so that we
+          could address their issues in our product.
 ---
 ![](/img/lime_main_2.png)

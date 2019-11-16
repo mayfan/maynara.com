@@ -5,7 +5,7 @@ import ReactMarkdown from "react-markdown";
 const Rows = ({ rows }) => {
   return (
     <div>
-      {rows.map(({ backgroundColor, column }) => (
+      {rows.map(({ backgroundColor, column, title }) => (
         <section className="section" style={{ backgroundColor }}>
           <div className="container content" key={column}>
             <div className="columns">
@@ -14,6 +14,7 @@ const Rows = ({ rows }) => {
                   <ReactMarkdown source={content} />
                 </div>
               ))}
+              {title && <h3>{title}</h3>}
             </div>
           </div>
         </section>

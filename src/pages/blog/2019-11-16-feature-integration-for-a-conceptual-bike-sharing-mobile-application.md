@@ -218,5 +218,17 @@ row:
 
 
           ![](/img/expmap.png)
+  - backgroundColor: '#FFF'
+    column:
+      - content: .
+  - backgroundColor: '#E2E2E2'
+    column:
+      - content: >-
+          ### Persona
+
+
+          The insights synthesised from the user interview data has shaped our
+          persona for Lime bike, Alex.
+      - content: '![]()'
 ---
 ![](/img/lime_main_2.png)

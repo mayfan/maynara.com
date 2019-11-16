@@ -8,8 +8,14 @@ const Rows = ({ rows }) => {
       {rows.map(({ backgroundColor, column, title }) => (
         <section className="section" style={{ backgroundColor }}>
           <div className="container content" key={column}>
+            {title && (
+              <div className="columns">
+                <div className="column">
+                  <h1>{title}</h1>
+                </div>
+              </div>
+            )}
             <div className="columns">
-              {title && <h3>{title}</h3>}
               {column && column.length
                 ? column.map(({ content }) => (
                     <div className="column" key={content}>

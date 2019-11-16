@@ -40,6 +40,18 @@ row:
   - backgroundColor: '#FFF'
     column:
       - content: '![](/img/title.png)'
+  - backgroundColor: '#E2E2E2'
+    column:
+      - content: >-
+          ## Competitive Analysis
+
+
+          To understand the transport market a bit further, we conducted a
+          competitive analysis of direct and indirect competitors of Lime. We
+          also compared some imporant features from traveling apps as we would
+          like to optimise the experience of users when it comes to planning
+          holidays and bike tours.
+    title: Research
 ---
 In a two-week sprint, I worked in a team of four to integrate a new feature for the exiting Lime bike mobile application creating a hi-fi clickable prototype. The new feature is added to help customers creating a multi-point sightseeing tour, browse sight details for major attractions, secure rental bikes nearby and a more personalised app experience as a way to retain current customers and attract potential users.
 

@@ -233,11 +233,52 @@ row:
   - backgroundColor: '#E2E2E2'
     column:
       - content: >-
+          ### How might we…?
+
+
+          How-Might-We questions are a way to frame your ideation, and often
+          used for launching brainstorms. This worksheet gives some strategies
+          to use your current perspective on the challenge to create different
+          How-Might-We questions that may prompt an array of fruitful ideas. The
+          goal is to create questions that provoke meaningful and relevant
+          ideas; do so by keeping the questions insightful and nuanced.
+
+
+          Suggests that a solution is possible and because they offer you the
+          chance to answer them in a variety of ways. A properly framed How
+          Might We doesn't suggest a particular solution, but gives you the
+          perfect frame for innovative thinking.
+      - content: |-
+          ### How might we…?
+
+          … help people navigate a new city in an efficient way?
+
+
+
+          … help people create a bike group activity whilst travelling?
+  - backgroundColor: '#FFF'
+    column:
+      - content: >-
           ### Persona
 
 
           The insights synthesised from the user interview data has shaped our
           persona for Lime bike, Alex.
-      - content: '![]()'
+
+
+          ![](/img/alex.jpg)
+  - backgroundColor: '#E2E2E2'
+    column:
+      - content: >-
+          ### Problem Statement
+
+
+          An integral part of the design thinking process is the definition of a
+          meaningful and actionable problem statement, which the design thinker
+          will focus on solving.
+      - content: >-
+          ### "Alex needs an easy way to organise itineraries by bike to
+          discover the city because he currently struggles to find all the
+          information in one place."
 ---
 ![](/img/lime_main_2.png)

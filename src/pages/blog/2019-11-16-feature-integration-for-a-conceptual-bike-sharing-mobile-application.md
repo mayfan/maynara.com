@@ -230,32 +230,6 @@ row:
           also takes time to juggle between apps. If you look back to check the
           other competitors, they were not offering any alternatives when it
           comes to solving this problem either.
-  - backgroundColor: '#E2E2E2'
-    column:
-      - content: >-
-          ### HMW?
-
-
-          How-Might-We questions are a way to frame your ideation, and often
-          used for launching brainstorms. This worksheet gives some strategies
-          to use your current perspective on the challenge to create different
-          How-Might-We questions that may prompt an array of fruitful ideas. The
-          goal is to create questions that provoke meaningful and relevant
-          ideas; do so by keeping the questions insightful and nuanced.
-
-
-          Suggests that a solution is possible and because they offer you the
-          chance to answer them in a variety of ways. A properly framed How
-          Might We doesn't suggest a particular solution, but gives you the
-          perfect frame for innovative thinking.
-      - content: |-
-          ### How might we…?
-
-          … help people navigate a new city in an efficient way?
-
-
-
-          … help people create a bike group activity whilst travelling?
   - backgroundColor: '#FFF'
     column:
       - content: >-
@@ -302,8 +276,49 @@ row:
           according to user’s feedback.
 
 
-          (The area highlighted in grey (on the left) indicates the new feature
-          we designed for the app – and where it would sit according to the
-          current app map.)
+          (The area highlighted in **black** (left) indicates the new feature we
+          designed for the app – and where it would sit according to the current
+          app map.)
+  - backgroundColor: '#FFF'
+    column:
+      - content: '![](/img/ideation2.jpg)'
+      - content: >-
+          With the problem statement and our persona in mind, our team
+          brainstormed for various potential solutions. Due to the balance of
+          time and resources, create route, reserve bikes and add multiple stops
+          were the priorities of the new feature integration. We started
+          sketching and creating wireframes for our low-fi prototype.
+
+
+          **Key point: We knew how important it was to test the low-fi prototype
+          straight away as we wanted to collect some feedback from users and see
+          if we were moving on the right direction.**
+    title: 'Ideation, Prototyping and Testing'
+  - backgroundColor: '#E2E2E2'
+    column:
+      - content: >-
+          ### HMW?
+
+
+          How-Might-We questions are a way to frame your ideation, and often
+          used for launching brainstorms. This worksheet gives some strategies
+          to use your current perspective on the challenge to create different
+          How-Might-We questions that may prompt an array of fruitful ideas. The
+          goal is to create questions that provoke meaningful and relevant
+          ideas; do so by keeping the questions insightful and nuanced.
+
+
+          Suggests that a solution is possible and because they offer you the
+          chance to answer them in a variety of ways. A properly framed How
+          Might We doesn't suggest a particular solution, but gives you the
+          perfect frame for innovative thinking.
+      - content: |-
+          ### How might we…?
+
+          … help people navigate a new city in an efficient way?
+
+
+
+          … help people create a bike group activity whilst travelling?
 ---
 ![](/img/lime_main_2.png)

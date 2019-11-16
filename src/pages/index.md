@@ -74,7 +74,9 @@ row:
           finds particularly difficult to be more active as she usually needs to
           use Google/apps to find classes that will fit in her time and budget.
       - content: '![](/img/wmo_6.png)'
-    title: AAAA
+    title: >-
+      If you think you can design a User Experience and prototype it in 5 days,
+      you’re right
   - backgroundColor: '#FFF'
     column:
       - content: '![](/img/mockup2.png)'

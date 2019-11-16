@@ -349,7 +349,7 @@ row:
           pointed out and addressed in the second iteration – and refined
           further on the final iteration.
       - content: >-
-          ![]()
+          ![](/img/group_2.jpg)
 
 
           To better understand the feedback we received from V1, we’ve done an

@@ -294,6 +294,40 @@ row:
           if we were moving on the right direction.**
       - content: '![](/img/ideation2.jpg)'
     title: 'Ideation, Prototyping and Testing'
+  - backgroundColor: '#FFF'
+    column:
+      - content: >-
+          ### Feature Prioritisation
+
+
+          With the problem statement and our persona in mind, our team
+          brainstormed for various potential solutions. Due to the balance of
+          time and resources, we decided to do a feature prioritisation matrix,
+          that has an impact axis and an effort axis. We plotted all of the
+          ideas that were produce from the second design studio.
+    title: ''
+  - backgroundColor: '#FFF'
+    column:
+      - content: '![](/img/featprior.png)'
+      - content: >-
+          As a group, we placed the features on this matrix, and decided to use
+          the features that were high impact for the MVP. These are shown in the
+          top two quadrants (in green). These included:
+
+
+          * **Create route:** Provide a map with the option of creating a route
+          with the full route so users can focus on their journey while cycling
+          to reach their goal destination.
+
+          * **Group booking:** Book more than one bike in just one process.
+
+          * **Add multiple points:** To ensure users don’t need to create a new
+          route every time they want to go to a new place, they will be able to
+          add multiple stops during their journey.
+
+          * **Location Radius:** The app will automatically select the nearest
+          bikes considering the user’s current location.
+    title: ''
   - backgroundColor: '#E2E2E2'
     column:
       - content: >-

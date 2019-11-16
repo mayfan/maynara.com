@@ -80,7 +80,7 @@ portfolio:
       link: 'https://bbc.co.uk'
       title: Feature integration for a bike sharing mobile application
 row:
-  - backgroundColor: '#E2E2E2'
+  - backgroundColor: '#FFFFFF'
     column:
       - content: '![](/img/lime_3.png)'
       - content: >-
@@ -121,7 +121,7 @@ row:
 
 
           Sketch | inVision | Photoshop | Pen and Paper
-  - backgroundColor: '#FFF'
+  - backgroundColor: '#E2E2E2'
     column:
       - content: >-
           A UX case study on improving the User’s Experience when booking gym

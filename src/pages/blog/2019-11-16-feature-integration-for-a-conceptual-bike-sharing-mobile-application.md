@@ -212,10 +212,13 @@ row:
   - backgroundColor: '#FFF'
     column:
       - content: >-
-          ### Experience Mapping
+          ### Experience Map
 
 
           To understand a bit more about our user’s pain points when hiring a
-          bike through a mobile app, we created an Experience Map.
+          bike through a mobile app, we created an **Experience Map**.
+
+
+          ![](/img/expmap.png)
 ---
 ![](/img/lime_main_2.png)

@@ -82,7 +82,7 @@ portfolio:
 row:
   - backgroundColor: '#E2E2E2'
     column:
-      - content: '![](/img/wmo_3.png)'
+      - content: '![](/img/lime_3.png)'
       - content: >-
           In a two-week sprint, I worked in a team of four to integrate a new
           feature for the exiting Lime bike mobile application creating a hi-fi
@@ -121,5 +121,32 @@ row:
 
 
           Sketch | inVision | Photoshop | Pen and Paper
+  - backgroundColor: '#FFF'
+    column:
+      - content: '![](/img/wmo_3.png)'
+      - content: >-
+          A UX case study on improving the User’s Experience when booking gym
+          classes nearby
+
+
+          **Role:** UX/UI/Interaction Design (Solo Project)
+
+
+          **Duration:** 5 days
+
+
+          **UX Techniques**
+
+
+          Competitor analysis | User interviews | User persona | Experience
+          mapping | User flows | Wire-flows| SiteMap | Sketching | Prototyping |
+          User testing | Brand Personality & Statements | Elevator Pitch | Style
+          guide
+
+
+          **Tools**
+
+
+          Sketch | inVision | Photoshop
 ---
 

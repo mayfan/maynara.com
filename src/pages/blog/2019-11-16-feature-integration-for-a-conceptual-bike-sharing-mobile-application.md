@@ -281,7 +281,6 @@ row:
           app map.)
   - backgroundColor: '#FFF'
     column:
-      - content: '![](/img/ideation2.jpg)'
       - content: >-
           With the problem statement and our persona in mind, our team
           brainstormed for various potential solutions. Due to the balance of
@@ -293,6 +292,7 @@ row:
           **Key point: We knew how important it was to test the low-fi prototype
           straight away as we wanted to collect some feedback from users and see
           if we were moving on the right direction.**
+      - content: '![](/img/ideation2.jpg)'
     title: 'Ideation, Prototyping and Testing'
   - backgroundColor: '#E2E2E2'
     column:
@@ -320,5 +320,39 @@ row:
 
 
           … help people create a bike group activity whilst travelling?
+  - backgroundColor: '#FFF'
+    column:
+      - content: >-
+          ### Usability Testing and Iterations
+
+
+          Lo-fi clickable prototype was tested. The scenario given to users was
+          the following:
+
+
+          #### **“Imagine two friends are coming to visit you in London. You
+          want to show them the city by bike, as it’s a fun way to get around.
+          You know that Lime has a new feature that allows you to plan your
+          itinerary and hire multiple bikes.”**
+      - content: |-
+          ### Tasks
+
+          They had to complete 3 main tasks:
+
+          * Set up the App.
+          * Plan a multi-point journey.
+          * Book three bikes.
+  - backgroundColor: '#FFF'
+    column:
+      - content: >-
+          With all the instructions given to users, a few common problems were
+          pointed out and addressed in the second iteration – and refined
+          further on the final iteration.
+      - content: >-
+          To better understand the feedback we received from V1, we’ve done an
+          **Affinity Map** with the main issues and used post-its to find
+          patterns on the possible changes we would need to do. That was very
+          helpful when you have a lot of feedback and you want to put them
+          together to have a visual and better understanding of your next steps.
 ---
 ![](/img/lime_main_2.png)

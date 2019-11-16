@@ -73,7 +73,7 @@ row:
           How to be more healthy and balance work with her personal life but
           finds particularly difficult to be more active as she usually needs to
           use Google/apps to find classes that will fit in her time and budget.
-      - content: '![](/img/wmo_6.png)'
+      - content: '![](/img/wmo_7.png)'
     title: >-
       If you think you can design a User Experience and prototype it in 5 days,
       you’re right

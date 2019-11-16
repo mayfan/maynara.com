@@ -280,5 +280,16 @@ row:
           ### "Alex needs an easy way to organise itineraries by bike to
           discover the city because he currently struggles to find all the
           information in one place."
+  - backgroundColor: '#FFF'
+    column:
+      - content: >-
+          ### Happy Path
+
+
+          After defining our persona and understanding his problem, we created
+          the happy path: the default user journey that a customer would
+          experience if they proceeded to convert without any deviation during
+          the process.
+      - content: '![](/img/lb_img2.png)'
 ---
 ![](/img/lime_main_2.png)

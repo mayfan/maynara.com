@@ -72,7 +72,45 @@ row:
           * Google Trip was the only indirect competitor that offered all the
           services we selected from our original brief so we decided to use it
           as an inspiration of how we could solve our main problems.
+  - backgroundColor: '#E2E2E2'
+    column:
+      - content: >-
+          ### On Site Visit
+
+
+          To understand the experience of hiring a Lime bike, we conducted a
+          site visit and made some interviews to localise the pain points for
+          users.
+      - content: >-
+          **Findings:**
+
+
+          * People were on a rush and couldn’t stop to talk to us – a reason why
+          most of them were hiring Lime Bikes.
+
+          * Some users felt frustrated because the nearest bikes were not
+          charged.
+
+          * The cycle hire scheme was very confusing to some users as they were
+          missing an initial onboarding process.
+
+          * Users were not able to calculate routes on the current app so they
+          had to keep another app open (e.g. Google Maps).
+
+          * Some of the available bikes showing on the app were actually on some
+          people’s gardens.
+
+          * The hiring price was confusing as they were not sure how long it
+          would take or how much they would spend more or less before paying to
+          unlock the bike.
+      - content: >-
+          #### _“When I’m cycling, I always need to keep at least two apps open:
+          Lime and Google Maps. It’s hard to cycle when you need to check the
+          route somewhere else if you are unfamiliar with the location you are
+          going to.”_
 ---
+![](/img/lime_main_2.png)
+
 In a two-week sprint, I worked in a team of four to integrate a new feature for the exiting Lime bike mobile application creating a hi-fi clickable prototype. The new feature is added to help customers creating a multi-point sightseeing tour, browse sight details for major attractions, secure rental bikes nearby and a more personalised app experience as a way to retain current customers and attract potential users.
 
 **Role:** UX/UI/Interaction Design (Group Project)

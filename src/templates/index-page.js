@@ -4,9 +4,9 @@ import { graphql } from "gatsby";
 
 import Contact from "../components/Contact";
 import Layout from "../components/Layout";
-import Portfolio from "../components/Portfolio";
+import Rows from "../components/Rows";
 
-export const IndexPageTemplate = ({ heading, portfolio }) => (
+export const IndexPageTemplate = ({ heading, row }) => (
   <div>
     <section
       className="section section--gradient"
@@ -31,16 +31,14 @@ export const IndexPageTemplate = ({ heading, portfolio }) => (
         </div>
       </div>
     </section>
-    <Portfolio items={portfolio.blurbs} />
+    <Rows rows={row} />
   </div>
 );
 
 IndexPageTemplate.propTypes = {
   title: PropTypes.string,
   heading: PropTypes.string,
-  portfolio: PropTypes.arrayOf({
-    blurbs: PropTypes.object
-  })
+  row: PropTypes.array
 };
 
 const IndexPage = ({ data }) => {
@@ -51,7 +49,7 @@ const IndexPage = ({ data }) => {
       <IndexPageTemplate
         title={frontmatter.title}
         heading={frontmatter.heading}
-        portfolio={frontmatter.portfolio}
+        row={frontmatter.row}
       />
     </Layout>
   );
@@ -73,15 +71,11 @@ export const pageQuery = graphql`
       frontmatter {
         title
         heading
-        portfolio {
-          blurbs {
-            backgroundColor
-            title
-            column1
-            column2
-            column3
-            link
+        row {
+          column {
+            content
           }
+          backgroundColor
         }
       }
     }

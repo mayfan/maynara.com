@@ -368,5 +368,9 @@ row:
           patterns on the possible changes we would need to do. That was very
           helpful when you have a lot of feedback and you want to put them
           together to have a visual and better understanding of your next steps.
+  - backgroundColor: '#FFF'
+    column:
+      - content: '![](/img/18.png)'
+      - content: '![](/img/15.png)'
 ---
 ![](/img/lime_main_2.png)

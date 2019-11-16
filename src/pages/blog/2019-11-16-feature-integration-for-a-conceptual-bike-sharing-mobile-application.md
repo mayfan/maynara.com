@@ -220,7 +220,16 @@ row:
           ![](/img/expmap.png)
   - backgroundColor: '#FFF'
     column:
-      - content: .
+      - content: >-
+          **Findings:**
+
+          It was clear that stopping to check directions was the main
+          opportunity for us to stand out as a product. When cycling, users need
+          to stop every once in a while to check the suggested route and see if
+          they are following the right path. That’s not only dangerous but it
+          also takes time to juggle between apps. If you look back to check the
+          other competitors, they were not offering any alternatives when it
+          comes to solving this problem either.
   - backgroundColor: '#E2E2E2'
     column:
       - content: >-

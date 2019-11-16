@@ -387,9 +387,6 @@ row:
           added some illustrations and a few other additional icons to help
           users navigate in the app.
       - content: '![](/img/lb_img4.png)'
-  - backgroundColor: '#E2E2E2'
-    column:
-      - content: '![](/img/lb_img4.png)'
   - backgroundColor: '#FFF'
     column:
       - content: >-
@@ -429,10 +426,8 @@ row:
     title: Next Steps
   - backgroundColor: '#FFF'
     column:
+      - content: '### Great team work makes the dream work'
       - content: >-
-          ### Great team work makes the dream work
-
-
           I truly enjoyed the project and appreciate my supportive teammates who
           were very committed to the excellence we wanted to achieve. We were
           able to brainstorm and express our creative ideas and I felt we were

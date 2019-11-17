@@ -111,7 +111,9 @@ row:
           With the map (on the right), I could clearly see which were the areas
           with a lot of room for improvement and also an opportunity to build
           something that could help Valeria to achieve her goals.
-      - content: '![](/img/wmo_9.jpg)'
+
+
+          ![](/img/wmo_9.jpg)
     title: Research
 ---
 ![](/img/wmo_7.png)

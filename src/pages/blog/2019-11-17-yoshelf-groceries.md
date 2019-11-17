@@ -299,9 +299,11 @@ row:
       - content: >-
           After that, I created the **Happy Path** for John — steps he would
           need to take to complete all given tasks according to the scenario:
-      - content: '![](/img/happypath2.png)'
-  - backgroundColor: '#E2E2E2'
-    column:
+
+
+
+
+          ![](/img/happypath2.png)
       - content: >-
           My first couple of testing insights were:
 
@@ -316,8 +318,9 @@ row:
 
           * We would need to have a page confirming your purchase/order
           confirmation will be sent via e-mail
-
-
+  - backgroundColor: '#E2E2E2'
+    column:
+      - content: >-
           Over the course of a week, I did over 15 usability tests over five
           prototype iterations. My mid-fidelity homepage (on the left) to a
           high-fidelity (on the right):
@@ -326,13 +329,13 @@ row:
           ![](/img/yo_1.png)
   - backgroundColor: '#E2E2E2'
     column:
-      - content: |-
+      - content: >-
           ### Solutions
+
 
           If we take a closer look to the Homepage:
 
-          ![](/img/yo_2.png)
-      - content: >-
+
           1) Global Navigation Menu: An easy way for you to find yourself
           through the website — it will appear on every single page in case you
           want to use one of the Menu options.
@@ -359,5 +362,35 @@ row:
           can also get in touch if they want (via phone, or social media). The
           main point here is to establish a connection between the business and
           the customer.
+
+
+          [InVision
+          Prototype](https://may183485.invisionapp.com/console/GA-E-commerce-Week-2-3-ck1g6o8501bu30186ixfww661/ck1g6o8oo1bu40186s8tnxnxi/play)
+      - content: '![](/img/yo_2.png)'
+  - backgroundColor: '#FFF'
+    column:
+      - content: '![](/img/yo_3.png)'
+    title: Homepage – Hi-Fi Prototype as an example
+  - backgroundColor: '#FFF'
+    column:
+      - content: |-
+          ## Next Steps
+
+          * Develop the “Guided Shopping” tool
+          * Apply colours to all screens and create a high-fidelity prototype
+          * Continue testing with users
+      - content: >-
+          ## What I’ve learnt…
+
+
+          I’ve learned how important it is to document every single step of the
+          whole process. As a UX Designer, the amount of data we can collect is
+          impressive and it’s quite important to keep a track of the whole
+          process. As it was a solo project, it was a Research and Ideation
+          process I’ve had full control over from the brief until final
+          delivery. Working on a brief like this was both challenging and
+          incredibly rewarding! As this was a concept project, I was unable to
+          go back to the client with our findings and had to find a way to
+          incorporate user insights with the brief.
 ---
 ![](/img/mockup2.png)

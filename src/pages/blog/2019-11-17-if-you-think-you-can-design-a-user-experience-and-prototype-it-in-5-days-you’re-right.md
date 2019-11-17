@@ -67,5 +67,45 @@ row:
           * **VALERIA WANTS TO EXERCISE MORE + HAVE A PROPER ROUTINE**
           * **FIND GYM CLASSES/FITNESS ACTIVITIES NEARBY**
           * **TRACK FOOD + STEPS + SLEEP + WATER + MEDITATION TIME**
+  - backgroundColor: '#FFF'
+    column:
+      - content: >-
+          Once I’ve collected so many useful insights on the first stage, I’ve
+          realised I would need to narrow my ideas to start solving one of her
+          main problems.
+      - content: >-
+          **My first learning: Focus on solving one of your user’s problems
+          instead of all of them. It’s a way for you not to lose yourself during
+          the process and also understanding which features will be necessary
+          for an MVP. Users will usually bring many problems and expectations
+          saying they know what they to solve (and how they want to do it) but
+          you need to choose one topic and explore it to understand what the
+          user truly need.**
+  - backgroundColor: '#E2E2E2'
+    column:
+      - content: >-
+          The next step was to focus on the second bullet point above and came
+          up with the following **Problem Statement**:
+
+
+          ### Valeria is trying to be more healthy and balance work with her
+          personal life but finds particularly difficult to be more active as
+          she usually needs to use Google/apps to find classes that will fit in
+          her time and budget.
+      - content: >-
+          **What could be the solution?**
+
+
+          An App that can easily show Valeria all available fitness classes
+          nearby so she can quickly apply all her criteria and compare the best
+          options for her — and make the right decision keeping her excitement
+          on point.
+  - backgroundColor: '#FFF'
+    column:
+      - content: >-
+          I’ve started creating an Experience Mapping to understand what are the
+          usual steps Valeria takes when booking a gym class online.
+      - content: '![](/img/wmo_9.jpg)'
+    title: Research
 ---
 ![](/img/wmo_7.png)

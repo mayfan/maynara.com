@@ -174,5 +174,13 @@ row:
           different user types that might use our client’s service — it helps us
           to understand the users’ needs, experiences, behaviours and goals.
       - content: '![](/img/persona4.png)'
+  - backgroundColor: '#FFF'
+    column:
+      - content: >-
+          John’s journey map was also created to show how his behaviour and pain
+          points while buying groceries online.
+
+
+          ![]()
 ---
 ![](/img/mockup2.png)

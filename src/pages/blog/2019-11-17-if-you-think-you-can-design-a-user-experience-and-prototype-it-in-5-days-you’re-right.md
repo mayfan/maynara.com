@@ -39,21 +39,23 @@ row:
   - backgroundColor: '#E2E2E2'
     column:
       - content: >-
-          ![](/img/profile.png)
-
-
           Valeria is a 31 years old woman who wants to be more active and
           healthy having a better work-life balance.
 
 
-          Pain points: She is often busy due to her daily activities and spends
-          a lot of time trying to find gym classes nearby as she usually uses
-          Google to search for places – having to make a decision between all
-          the open tabs on her browser on websites she is not registered yet.
+          **Pain points:** She is often busy due to her daily activities and
+          spends a lot of time trying to find gym classes nearby as she usually
+          uses Google to search for places – having to make a decision between
+          all the open tabs on her browser on websites she is not registered
+          yet.
       - content: >-
-          > ### _**“I want to be healthier but I loose my motivation and
+          > ![](/img/profile.png)
+
+          >
+
+          > ### **_“I want to be healthier but I loose my motivation and
           excitement as soon as I start searching for options near me as it
-          requires a lot of time and effort.”**_
+          requires a lot of time and effort.”_**
   - backgroundColor: '#E2E2E2'
     column:
       - content: >-

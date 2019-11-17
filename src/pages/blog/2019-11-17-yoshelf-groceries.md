@@ -1,0 +1,126 @@
+---
+templateKey: blog-post
+title: YoShelf Groceries
+date: 2019-11-17T17:45:58.566Z
+description: 'Conceptual Project: designing an e-commerce website for a local grocery shop'
+row:
+  - backgroundColor: '#FFF'
+    column:
+      - content: |-
+          **Role:** UX/UI/Interaction Design (Solo Project)
+
+          **Duration:** 2 weeks
+      - content: >-
+          **UX Techniques:** Competitor analysis | User interviews | User
+          persona | Experience mapping | User flows | Wire-flows| SiteMap |
+          Sketching | Prototyping | User testing
+
+
+
+
+          **Tools:** Sketch | inVision | Photoshop | Pen and paper
+  - backgroundColor: '#FFF'
+    column:
+      - content: >-
+          For my second project as part of the User Experience course at General
+          Assembly in London, I was tasked with creating a mid-fidelity
+          e-commerce website for a local independent grocery shop. My client was
+          **YoShelf** groceries. They’ve been the City’s neighbourhood grocery
+          store since 1998. Located near Liverpool Street Station, they are
+          proud of being part of a dynamic community.
+      - content: >-
+          Their business model is based on customer service, reasonable pricing
+          and keeping it local — employing local staff and supporting the
+          community they serve.
+
+
+          Through a new e-commerce desktop website, YoShelf wants to showcase
+          their products while maintaining their brand image.
+      - content: >-
+          **CHALLENGES**
+
+
+          YoShelf defined a few priorities on their brief. The new website must:
+
+
+          * Have clear ways of locating specific products
+
+          * Support a single page for each product which can be linked to
+          directly
+
+          * Have an efficient means of purchasing one or more products
+
+          * Steer costumers toward popular products
+
+          * Establish the brand and its points of difference
+
+          * Allow customers to contact the business (including to request a
+          product not otherwise stocked)
+    title: The Brief
+  - backgroundColor: '#E2E2E2'
+    column:
+      - content: >-
+          ### Contextual Inquiry
+
+
+          To understand the problem scope and the experience of users when
+          buying groceries, I went to Planet Organic and As Nature Intended to
+          understand what were the pain points of customers during their
+          shopping process. Both shops were near Liverpool Street Station –
+          where YoShelf is also located. I conducted some Contextual Inquiry
+          observations and interviews with customers and staff to collect some
+          feedback that could help with my research.
+
+
+          ![](/img/sitevisit.png)
+    title: Research
+  - backgroundColor: '#E2E2E2'
+    column:
+      - content: >-
+          **Insights:**
+
+
+          * Customers were asking for a specific product from a brand to the
+          staff members  —showing the requested product with their phones.
+
+          * They were comparing prices in-store with prices they were browsing
+          online —knowing they were making the best deal was also important.
+
+          * They were browsing products but were not sure of what they actually
+          needed —some of them were wishing they’ve brought a shopping list
+          instead of randomly wandering around the aisles.
+      - content: >-
+          **Note:** 
+
+
+          This exercise confirmed that there was an opportunity to make
+          YoShelf’s website a unique offering in the groceries market by
+          showcasing their expert advice and also creating an experience on the
+          website that costumers could have some help when it comes to buying
+          what they want to serve their purposes.
+  - backgroundColor: '#FFF'
+    column:
+      - content: >-
+          ### Competitive Analysis
+
+
+          The second step of the process was to do a Competitive Analysis so we
+          could understand what the competitors were doing. I was also looking
+          for potential gaps so we could explore and stand out as a groceries
+          e-commerce.
+
+
+          I conducted a research of YoShelf’s direct and indirect competitors
+          using the following methods:
+
+
+          * Features Analysis of competitor’s websites
+
+          * Contextual Inquiry & Site visits to local competitor shops
+
+          * Interviews with shoppers & staff at these competitor shops
+
+
+          ![](/img/competanal.png)
+---
+![](/img/mockup2.png)

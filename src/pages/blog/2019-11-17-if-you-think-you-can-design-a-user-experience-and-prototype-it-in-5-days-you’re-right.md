@@ -191,5 +191,27 @@ row:
           functionality.
 
           * The layout looks fine but it seems a bit heavy.
+  - backgroundColor: '#E2E2E2'
+    column:
+      - content: >-
+          I’ve done a good amount of user testing sessions and collected
+          valuable feedback. It was about time to implement the final changes
+          after all the iterative process and move on with the high-fidelity
+          prototype on Sketch.
+      - content: >-
+          When I started to create the hi-fi prototype, I thought the whole
+          layout was still too blocked will all the lines around buttons and
+          structures. The content below the map was also making the whole app
+          experience look a bit too busy for a mobile screen.
+    title: 'Day 4 – 9:45AM: Okay, let’s do the mid-fi prototype'
+  - backgroundColor: '#E2E2E2'
+    column:
+      - content: '![](/img/sketches_v2jpeg2.jpg)'
+      - content: >-
+          I decided to do something: start the whole concept from a blank Sketch
+          document – and iterate it again. I once heard that in order for us to
+          deconstruct something, we need to have a solid base – and I felt I had
+          everything in place to do it. And I will show the final screens and
+          user flow a bit later.
 ---
 ![](/img/wmo_7.png)

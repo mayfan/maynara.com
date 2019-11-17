@@ -18,7 +18,7 @@ const Rows = ({ rows }) => {
             <div className="columns">
               {column && column.length
                 ? column.map(({ content }) => (
-                    <div className="column" key={content}>
+                    <div className="column content" key={content}>
                       <ReactMarkdown source={content} />
                     </div>
                   ))

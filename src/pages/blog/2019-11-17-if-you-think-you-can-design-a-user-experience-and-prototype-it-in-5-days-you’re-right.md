@@ -132,6 +132,37 @@ row:
           My first sketches helped me to highlight some tools I thought would be
           important so I could build my first prototype and iterate it during
           some user testing interviews.
+
+
+          ![](/img/sketches_v1jpeg.jpg)
+
+
+          After doing 4 user testing sessions with different people (Valeria was
+          one of them), I’ve collected some valuable feedback that was showing
+          what wasn’t working:
+
+
+
+
+          * Users were expecting the map would know already where they were as
+          soon as the app was loaded;
+
+          * “Postcode” on top was confusing;
+
+          * Valeria was missing an easy way where she could check how many
+          people will attend a class;
+
+          * The user icon on the top left was looking like a keyhole;
+
+          * Users were missing the taskbar at the bottom.
+
+          * Users were expecting the map to be bigger.
+
+
+          The feedback collected from all four different users were pretty
+          similar so it was easy to understand what I would need to change on
+          the prototype. So I’ve created the second version  – also the one I’ve
+          decided to move forward with.
     title: >-
       Day 2 – 9AM: Sketching my first ideas and preparing for the first testing
       session

@@ -49,13 +49,12 @@ row:
           all the open tabs on her browser on websites she is not registered
           yet.
       - content: >-
-          > ![](/img/profile.png)
+          ![](/img/profile.png)
 
-          >
 
-          > ### **_“I want to be healthier but I loose my motivation and
+          > ### _**“I want to be healthier but I loose my motivation and
           excitement as soon as I start searching for options near me as it
-          requires a lot of time and effort.”_**
+          requires a lot of time and effort.”**_
   - backgroundColor: '#E2E2E2'
     column:
       - content: >-

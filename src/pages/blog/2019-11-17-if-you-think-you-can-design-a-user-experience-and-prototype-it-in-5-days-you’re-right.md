@@ -114,6 +114,15 @@ row:
 
 
           ![](/img/wmo_9.jpg)
+
+
+          With the map above, I could clearly see which were the areas with a
+          lot of room for improvement and also an opportunity to build something
+          that could help Valeria to achieve her goals.
     title: Research
+  - backgroundColor: '#E2E2E2'
+    title: >-
+      Day 2 – 9AM: Sketching my first ideas and preparing for the first testing
+      session
 ---
 ![](/img/wmo_7.png)

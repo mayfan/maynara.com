@@ -270,5 +270,60 @@ row:
           I really wanted to explore the place between Colourful and Gentle as
           the app was meant to give this soft atmosphere while motivating users
           to exercise.
+  - backgroundColor: '#FFF'
+    column:
+      - content: |-
+          ### Style Guide
+
+          ![](/img/style_guide_final.jpg)
+  - backgroundColor: '#FFF'
+    column:
+      - content: |-
+          ### App Map
+
+          ![](/img/sitemap_ok.png)
+  - backgroundColor: '#E2E2E2'
+    column:
+      - content: >-
+          ![](/img/comparing.png)
+
+
+          1) App icon gave space to the profile picture – giving access to your
+          account, saved and history.
+
+
+          2) Wallet/Balance: Moved from the bottom top to sit next to the
+          profile.
+
+
+          3) Map is bigger: as the main feature on the homepage, users can
+          quickly explore places nearby.
+
+
+          4) Filters were removed from the homepage so they are now options that
+          will appear once you click on the button.
+
+
+          5) Recommended and Popular options are now on the main menu bar at the
+          bottom.
+
+
+          6) “Find places near me” is no longer necessary once app will
+          automatically do it for users.
+
+
+          7) Profile moved to the top where the logo was previously placed.
+
+
+          8) Added the current location on the map so users will know where they
+          are.
+
+
+          9) “Saved Places” is now a section of your personal profile.
+    title: Wireframe Changes
+  - backgroundColor: '#FFF'
+    column:
+      - content: '![](/img/wmo_10.png)'
+    title: Final Prototype
 ---
 ![](/img/wmo_7.png)

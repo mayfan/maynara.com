@@ -213,5 +213,47 @@ row:
           deconstruct something, we need to have a solid base – and I felt I had
           everything in place to do it. And I will show the final screens and
           user flow a bit later.
+  - backgroundColor: '#FFF'
+    column:
+      - content: >-
+          I’ve spent days 5-9 focused on the Brand Vision for the app – the
+          whole visual and UI concept after solving the previous problems. Now
+          it was time to implement the concepts and create a meaningful product
+          combining both UX and UI findings. It was a good break for myself to
+          deconstruct the blocked layout I’ve had previously and move further to
+          create something better.
+    title: 'Day 9 – 7AM: What happened to the other 4 days?'
+  - backgroundColor: '#FFF'
+    column:
+      - content: |-
+          ### Elevator pitch
+
+          If I could summarise the app in 1 minute, what would I say?
+      - content: >-
+          **Work Me Out is an app for busy people who need to include some
+          exercise/activities into their routines and budget. Work Me Out leads
+          to quickly booking gym classes nearby that will fit your purpose and
+          will save you time and money. Unlike the competitors, our product
+          offers all booking services you need in one place.**
+  - backgroundColor: '#FFF'
+    column:
+      - content: |-
+          ### Brand Personality & Statements
+
+          Work Me Out is…
+
+          – Flexible but not Messy.
+
+          – Clean but not Empty.
+
+          – Charming but not Pretentious.
+
+          – Calm but not Boring.
+
+          – Fitness but not Niche.
+      - content: |-
+          ### Moodboard
+
+          ![]()
 ---
 ![](/img/wmo_7.png)

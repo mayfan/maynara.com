@@ -166,5 +166,30 @@ row:
     title: >-
       Day 2 – 9AM: Sketching my first ideas and preparing for the first testing
       session
+  - backgroundColor: '#FFF'
+    column:
+      - content: >-
+          Well, I wasn’t sure if I was on the right track after the changes I’ve
+          done since Day #2 so I still had to validate my previous findings
+          applying all necessary changes to a new prototype and… **TEST TEST
+          TEST TEST**!
+
+
+          ![](/img/sketches_oldjpeg.jpg)
+    title: 'Day 3 – 10:15AM: Am I following the right path?'
+  - backgroundColor: '#FFF'
+    column:
+      - content: >-
+          After testing this last version, users were able to complete their
+          tasks smoothly. Some feedbacks were still important to improve the
+          whole experience and flow:
+      - content: >-
+          * Buttons below the map (Find my home/work address) were not necessary
+          as they were using the map’s space.
+
+          * The map could still be bigger as it’s part of the app’s main
+          functionality.
+
+          * The layout looks fine but it seems a bit heavy.
 ---
 ![](/img/wmo_7.png)

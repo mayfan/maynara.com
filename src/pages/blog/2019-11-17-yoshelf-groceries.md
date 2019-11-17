@@ -218,16 +218,15 @@ row:
           2. By lifestyle (e.g. Low-Carb, Gluten-Free)
   - backgroundColor: '#E2E2E2'
     column:
+      - content: '![](/img/cardsorting.jpg)'
       - content: >-
-          ![](/img/cardsorting.jpg)
-
-
           During a **Card Sorting** session, participants are asked to organise
           topics/products from the shop inventory into categories that make
-          sense to them which could help us to label these groups making the
+          sense to them which could help us label these groups making the
           content more accessible and easy to find. This would be crucial to
           create categories on the website.
-      - content: >-
+
+
           **Insights:**
 
 

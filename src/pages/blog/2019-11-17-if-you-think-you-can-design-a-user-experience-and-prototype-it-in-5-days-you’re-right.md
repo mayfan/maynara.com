@@ -103,8 +103,13 @@ row:
   - backgroundColor: '#FFF'
     column:
       - content: >-
-          I’ve started creating an Experience Mapping to understand what are the
+          I’ve started creating an Experience Map to understand what are the
           usual steps Valeria takes when booking a gym class online.
+
+
+          With the map (on the right), I could clearly see which were the areas
+          with a lot of room for improvement and also an opportunity to build
+          something that could help Valeria to achieve her goals.
       - content: '![](/img/wmo_9.jpg)'
     title: Research
 ---

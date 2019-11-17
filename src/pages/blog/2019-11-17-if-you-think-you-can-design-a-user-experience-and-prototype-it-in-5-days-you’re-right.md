@@ -254,6 +254,15 @@ row:
       - content: |-
           ### Moodboard
 
-          ![]()
+          ![](/img/moodboard_final_low.jpg)
+  - backgroundColor: '#FFF'
+    column:
+      - content: >-
+          ### Brand Positioning
+
+
+          When it comes to sensations, colours and general communication, Work
+          Me Out would be placed on the matrix:
+      - content: '![](/img/competitors_final2.jpg)'
 ---
 ![](/img/wmo_7.png)

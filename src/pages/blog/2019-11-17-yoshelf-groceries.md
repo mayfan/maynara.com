@@ -300,5 +300,64 @@ row:
           After that, I created the **Happy Path** for John — steps he would
           need to take to complete all given tasks according to the scenario:
       - content: '![](/img/happypath2.png)'
+  - backgroundColor: '#E2E2E2'
+    column:
+      - content: >-
+          My first couple of testing insights were:
+
+
+          * It wasn’t clear to users what “Lifestyle” meant
+
+          * Delivery Option — you need to know the shipping cost will be added
+          later — it should be mentioned somehow
+
+          * Users were confused about the menu — words were too close with no
+          separation between them
+
+          * We would need to have a page confirming your purchase/order
+          confirmation will be sent via e-mail
+
+
+          Over the course of a week, I did over 15 usability tests over five
+          prototype iterations. My mid-fidelity homepage (on the left) to a
+          high-fidelity (on the right):
+
+
+          ![](/img/yo_1.png)
+  - backgroundColor: '#E2E2E2'
+    column:
+      - content: |-
+          ### Solutions
+
+          If we take a closer look to the Homepage:
+
+          ![](/img/yo_2.png)
+      - content: >-
+          1) Global Navigation Menu: An easy way for you to find yourself
+          through the website — it will appear on every single page in case you
+          want to use one of the Menu options.
+
+
+          2) Browse Your Lifestyle: an easy way to help the customers finding
+          what they need. The pictures and words help users to understand what
+          “Lifestyle” means.
+
+
+          3) Meet our staff: To keep the sense of a local business where you can
+          meet the staff and get in touch if customers want to. Once they click
+          and are redirected to the staff page, customers will be able to read
+          some recommendations and interesting content produced by the
+          staff — for example, interesting recipes or recommended products.
+
+
+          4) Hand-Picked selections: The importance of highlighting the business
+          cares about what they sell — quality over quantity. 
+
+
+          5) Bottom Menu: Customers can sign in to the newsletter and receive
+          offers and news (about the shop or the local community) and clients
+          can also get in touch if they want (via phone, or social media). The
+          main point here is to establish a connection between the business and
+          the customer.
 ---
 ![](/img/mockup2.png)

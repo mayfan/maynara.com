@@ -263,6 +263,12 @@ row:
 
           When it comes to sensations, colours and general communication, Work
           Me Out would be placed on the matrix:
-      - content: '![](/img/competitors_final2.jpg)'
+      - content: >-
+          ![](/img/competitors_final2.jpg)
+
+
+          I really wanted to explore the place between Colourful and Gentle as
+          the app was meant to give this soft atmosphere while motivating users
+          to exercise.
 ---
 ![](/img/wmo_7.png)

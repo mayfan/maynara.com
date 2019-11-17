@@ -181,6 +181,80 @@ row:
           points while buying groceries online.
 
 
-          ![]()
+          ![](/img/expmap_john.png)
+  - backgroundColor: '#FFF'
+    column:
+      - content: >-
+          ### Findings:
+
+
+          * John doesn’t always shop online because he needs to know what to buy
+          and what he wants to eat — so he usually wastes some time browsing for
+          random stuff.
+
+          * He’s currently on a Low-Carb Diet — which links to our “Lifestyle”
+          idea that will be introduced later.
+
+          * He would like to buy more on Waitrose but he doesn’t find shops
+          nearby — a great opportunity to introduce our e-commerce service.
+
+          * He values great quality and product selection — which YoShelf
+          groceries currently offer.
+  - backgroundColor: '#E2E2E2'
+    column:
+      - content: >-
+          ### Site Structure & Navigation
+
+
+          With Information Architecture being an integral part of a customer’s
+          experience of a website, I conducted a card sorting exercise using a
+          sample inventory of YoShelf’s products. My main finding from this was
+          that it was necessary to have two ways of searching for a product:
+
+
+          1. By product category (e.g. Bakery, Vegetables)
+
+
+          2. By lifestyle (e.g. Low-Carb, Gluten-Free)
+  - backgroundColor: '#E2E2E2'
+    column:
+      - content: >-
+          ![](/img/cardsorting.jpg)
+
+
+          During a **Card Sorting** session, participants are asked to organise
+          topics/products from the shop inventory into categories that make
+          sense to them which could help us to label these groups making the
+          content more accessible and easy to find. This would be crucial to
+          create categories on the website.
+      - content: >-
+          **Insights:**
+
+
+          * Cultural/Language barriers are a challenge as people come from
+          different backgrounds— which leads them to categorise items according
+          to their personal experiences/cultures
+
+          * Not all categories are the same to everyone as people have different
+          criteria— they are not that obvious
+
+          * If you have a serious allergy conditions/specific diet, you would
+          want to shop the products you can consume (e.g. dairy-free/vegan)
+  - backgroundColor: '#E2E2E2'
+    column:
+      - content: >-
+          One of my card sorting participants was Vegan so she gave me a very
+          precious insight. When it comes to buying groceries, we should
+          consider some people follow different lifestyles and they would like
+          to feel like there’s somebody paying attention to their needs and life
+          choices. Instead of categorising the inventory in
+          Meat/Fish/Bakery/etc, the vegan user classified as:
+      - content: >-
+          ![](/img/vegan2.png)
+
+
+          My main learning from this feedback is that buying groceries can be
+          actually painful for some people with dietary restrictions. So **why
+          not change it so we can make those users feel cared and respected?**
 ---
 ![](/img/mockup2.png)

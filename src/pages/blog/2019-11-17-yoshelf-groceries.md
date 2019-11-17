@@ -122,5 +122,57 @@ row:
 
 
           ![](/img/competanal.png)
+  - backgroundColor: '#FFF'
+    column:
+      - content: >-
+          Waitrose is one of the UK’s biggest groceries shop and it was
+          interesting to understand what they were doing. They have a “Recipes”
+          section on their website with many different categories but there are
+          no actions the users can take from there with the actual products.
+          According to the brief, a big and corporate e-commerce website wasn’t
+          what my client would want as YoShelf wants to keep its brand image as
+          a local small shop focusing on hand-picked quality over quantity.
+      - content: >-
+          Planet Organic and As Nature Intended were good shops to compare as
+          they have some physical shops in East London — and they do offer great
+          hand-picked selections for their customers.
+  - backgroundColor: '#E2E2E2'
+    column:
+      - content: >-
+          ### User Interviews
+
+
+          Based on surveys and interviews with customers to understand their
+          shopping behaviours, I identified the main needs I wanted to address
+          in the website while also taking into consideration the needs of
+          YoShelf.
+      - content: >-
+          * Clear product organisation for a seamless shopping experience
+
+          * Product search to easily find products
+
+          * Helpful Product Suggestions that reflects YoShelf expertise and
+          focus on the local area
+
+          * Customer brand relationship to establish trust
+
+          * Detailed product information to ensure proper product selection
+
+          * Product reviews to help make informed buying decisions and allow for
+          user input
+
+          * Efficient checkout process to save users time and allow for easy
+          purchase of products
+  - backgroundColor: '#FFF'
+    column:
+      - content: >-
+          ### Persona
+
+
+          From my interviews, I’ve synthesised the data collected and created my
+          persona. **John** was based upon my research in order to represent the
+          different user types that might use our client’s service — it helps us
+          to understand the users’ needs, experiences, behaviours and goals.
+      - content: '![]()'
 ---
 ![](/img/mockup2.png)

@@ -256,5 +256,50 @@ row:
           My main learning from this feedback is that buying groceries can be
           actually painful for some people with dietary restrictions. So **why
           not change it so we can make those users feel cared and respected?**
+  - backgroundColor: '#FFF'
+    column:
+      - content: >-
+          ### Sitemap
+
+
+          A Sitemap is a diagrammatic representation of a hierarchical system.
+          It usually depicts the parent-sibling relationship between pages in a
+          website, showing how subpages might be arranged underneath their
+          parent groupings. So I’ve created YoShelf’s **sitemap**:
+      - content: '![](/img/sitemap_ok-1024x436.png)'
+  - backgroundColor: '#FFF'
+    column:
+      - content: |-
+          ### Global Navigation
+
+          How users would find what they need in the website
+      - content: '![](/img/nav.png)'
+  - backgroundColor: '#E2E2E2'
+    column:
+      - content: '![](/img/iterative.png)'
+      - content: >-
+          To understand if we were on the right path for this project, we tested
+          the first prototype with some users following the iterative process. 
+
+
+          Once, through user research, you have identified a user need and have
+          generated ideas to meet that need, you develop a prototype. Test,
+          collect feedback and refine. Following that, you create a new
+          prototype and begin the process all over again until you are satisfied
+          that you’ve reached the best possible product for release to the
+          market as an MVP.
+    title: User Testing & Iterations
+  - backgroundColor: '#E2E2E2'
+    column:
+      - content: >-
+          During my testing sessions, I gave the users a scenario and **three
+          tasks** for them to complete — imagining they were John:
+      - content: '![](/img/tasks.png)'
+  - backgroundColor: '#E2E2E2'
+    column:
+      - content: >-
+          After that, I created the **Happy Path** for John — steps he would
+          need to take to complete all given tasks according to the scenario:
+      - content: '![](/img/happypath2.png)'
 ---
 ![](/img/mockup2.png)

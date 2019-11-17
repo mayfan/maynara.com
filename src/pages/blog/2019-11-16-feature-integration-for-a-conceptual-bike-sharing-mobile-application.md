@@ -119,9 +119,6 @@ row:
 
           * Some of the available bikes showing on the app were actually on some
           people’s gardens.
-
-
-          #### __
       - content: >-
           * The hiring price was confusing as they were not sure how long it
           would take or how much they would spend more or less before paying to

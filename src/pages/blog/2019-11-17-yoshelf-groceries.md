@@ -173,6 +173,6 @@ row:
           persona. **John** was based upon my research in order to represent the
           different user types that might use our client’s service — it helps us
           to understand the users’ needs, experiences, behaviours and goals.
-      - content: '![]()'
+      - content: '![](/img/persona4.png)'
 ---
 ![](/img/mockup2.png)

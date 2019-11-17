@@ -121,6 +121,17 @@ row:
           that could help Valeria to achieve her goals.
     title: Research
   - backgroundColor: '#E2E2E2'
+    column:
+      - content: >-
+          Valeria was spending too much time researching the classes and
+          activities she was interested in and still couldn’t find all the
+          information she wanted (e.g. booking classes that are not too busy or
+          almost full).
+
+
+          My first sketches helped me to highlight some tools I thought would be
+          important so I could build my first prototype and iterate it during
+          some user testing interviews.
     title: >-
       Day 2 – 9AM: Sketching my first ideas and preparing for the first testing
       session

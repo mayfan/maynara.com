@@ -2,10 +2,33 @@
 templateKey: about-page
 title: May Fanucci
 row:
-  - backgroundColor: '#ccc'
+  - backgroundColor: '#E2E2E2'
     column:
+      - content: |-
+          ## Education
+
+          BA: **Communications** - Radio, TV and Internet
+
+          Casper Libero University
+
+          Sao Paulo
+
+
+
+          Nanodegree: **Marketing**
+
+          Udacity
+
+
+
+          **UX/UI Design Immersive**
+
+          General Assembly
       - content: >-
-          **Elpis**
+          ## **UX/UI Experience**
+
+
+          **Elpis** (June 2018 - present)
 
 
           _Co-Founder/UX/UI Designer_
@@ -15,8 +38,20 @@ row:
           (qualitative and quantitative), brand identity, prototyping, user
           testing and content creation. Product design sprint run for early
           iteration.
-      - content: June 2018 - present
-    title: UX/UI Experience
+    title: ''
+  - backgroundColor: '#E2E2E2'
+    column:
+      - content: >-
+          **Alzheimer’s Society UK**
+
+
+          _UX/UI Designer_
+
+
+          Attracting customers to their online shop to purchase daily living
+          aids. Optimising users’ experience so they are able to choose the
+          right product for them or the person they care for.
+      - content: 2 weeks project
 ---
 ### UX/UI Designer
 

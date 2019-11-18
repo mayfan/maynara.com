@@ -52,6 +52,45 @@ row:
           Attracting customers to their online shop to purchase daily living
           aids. Optimising users’ experience so they are able to choose the
           right product for them or the person they care for.
+  - backgroundColor: '#E2E2E2'
+    column:
+      - content: \
+      - content: >-
+          ### Conceptual Projects
+
+
+          **Lime Bikes** (2 weeks project)
+
+
+          _UX/UI Designer_
+
+
+          A new feature for a bike-sharing mobile app to improve how and when
+          customers use it. All stages from research to high fidelity prototype.
+  - backgroundColor: '#E2E2E2'
+    column:
+      - content: \
+      - content: >-
+          **WorkMeOut** (1 week project)
+
+
+          _UX/UI Designer_
+
+
+          A mobile app to improve the user experience of booking gym classes
+          nearby. Designed the experience and prototyped it in five days.
+  - backgroundColor: '#E2E2E2'
+    column:
+      - content: ' ****'
+      - content: >-
+          **YoShelf E-commerce** (2 weeks project)
+
+
+          _UX/UI Designer_
+
+
+          E-commerce website for a small local grocery shop. Maintaining their
+          brand values and showcasing their best hand-picked selections.
 ---
 ### UX/UI Designer
 

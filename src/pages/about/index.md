@@ -41,8 +41,9 @@ row:
     title: ''
   - backgroundColor: '#E2E2E2'
     column:
+      - content: ' ****'
       - content: >-
-          **Alzheimer’s Society UK**
+          **Alzheimer’s Society UK** (2 weeks project)
 
 
           _UX/UI Designer_
@@ -51,7 +52,6 @@ row:
           Attracting customers to their online shop to purchase daily living
           aids. Optimising users’ experience so they are able to choose the
           right product for them or the person they care for.
-      - content: 2 weeks project
 ---
 ### UX/UI Designer
 

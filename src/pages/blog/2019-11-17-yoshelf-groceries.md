@@ -226,14 +226,15 @@ row:
 
 
           * Cultural/Language barriers are a challenge as people come from
-          different backgrounds— which leads them to categorise items according
-          to their personal experiences/cultures
+          different backgrounds —  which leads them to categorise items
+          according to their personal experiences/cultures;
 
           * Not all categories are the same to everyone as people have different
-          criteria— they are not that obvious
+          criteria —  which are not always obvious;
 
-          * If you have a serious allergy conditions/specific diet, you would
-          want to shop the products you can consume (e.g. dairy-free/vegan)
+          * If you have a serious allergy conditions/specific diet, you need to
+          shop for products you can consume (e.g. dairy-free/vegan), as most
+          products aren't suitable.
   - backgroundColor: '#E2E2E2'
     column:
       - content: >-

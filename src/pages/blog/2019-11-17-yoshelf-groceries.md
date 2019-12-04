@@ -218,8 +218,8 @@ row:
       - content: >-
           During a **card sorting** session, participants were asked to organise
           products from the shop inventory into categories. This would later on
-          help me label these groups making all products more accessible and
-          easy to find on the website.
+          be crucial to label these groups making all products more accessible
+          and easy to find on the website.
 
 
           **Insights:**

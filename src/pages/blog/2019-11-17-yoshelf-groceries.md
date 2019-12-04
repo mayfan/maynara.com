@@ -105,19 +105,18 @@ row:
           ### Competitive Analysis
 
 
-          The second step of the process was to do a Competitive Analysis so we
-          could understand what the competitors were doing. I was also looking
-          for potential gaps so we could explore and stand out as a groceries
-          e-commerce.
+          The second step of the process was to do a Competitive Analysis to
+          understand what the competitors were doing. I was also looking for
+          potential gaps in the market to stand out.
 
 
-          I conducted a research of YoShelf’s direct and indirect competitors
+          I conducted research of YoShelf’s direct and indirect competitors
           using the following methods:
 
 
-          * Features Analysis of competitor’s websites
+          * Features analysis of competitor’s websites
 
-          * Contextual Inquiry & Site visits to local competitor shops
+          * Contextual inquiry & site visits to local competitor shops
 
           * Interviews with shoppers & staff at these competitor shops
 
@@ -126,44 +125,41 @@ row:
   - backgroundColor: '#FFF'
     column:
       - content: >-
-          Waitrose is one of the UK’s biggest groceries shop and it was
-          interesting to understand what they were doing. They have a “Recipes”
+          As one of the UK’s biggest groceries shop, Waitrose has a “Recipes”
           section on their website with many different categories but there are
-          no actions the users can take from there with the actual products.
-          According to the brief, a big and corporate e-commerce website wasn’t
-          what my client would want as YoShelf wants to keep its brand image as
-          a local small shop focusing on hand-picked quality over quantity.
+          no actions that users can take from there to the actual products. A
+          big and corporate e-commerce website wasn’t what my client wanted, it
+          wants to keep its brand image as a local small shop focusing on
+          hand-picked quality over quantity.
       - content: >-
           Planet Organic and As Nature Intended were good shops to compare as
-          they have some physical shops in East London — and they do offer great
-          hand-picked selections for their customers.
+          they had some physical shops in East London — and offered great
+          hand-picked selections for customers.
   - backgroundColor: '#E2E2E2'
     column:
       - content: >-
           ### User Interviews
 
 
-          Based on surveys and interviews with customers to understand their
+          _Based on surveys and interviews with customers to understand their
           shopping behaviours, I identified the main needs I wanted to address
           in the website while also taking into consideration the needs of
-          YoShelf.
+          YoShelf._
       - content: >-
           * Clear product organisation for a seamless shopping experience
 
-          * Product search to easily find products
+          * Easy product search
 
-          * Helpful Product Suggestions that reflects YoShelf expertise and
+          * Helpful product suggestions that reflects YoShelf expertise and
           focus on the local area
 
-          * Customer brand relationship to establish trust
-
-          * Detailed product information to ensure proper product selection
+          * Detailed product information to ensure customers are buying the
+          right product to attend their needs
 
           * Product reviews to help make informed buying decisions and allow for
           user input
 
-          * Efficient checkout process to save users time and allow for easy
-          purchase of products
+          * Efficient checkout process to save users time
   - backgroundColor: '#FFF'
     column:
       - content: >-

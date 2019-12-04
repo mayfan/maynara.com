@@ -167,15 +167,15 @@ row:
 
 
           From my interviews, I’ve synthesised the data collected and created my
-          persona. **John** was based upon my research in order to represent the
-          different user types that might use our client’s service — it helps us
-          to understand the users’ needs, experiences, behaviours and goals.
+          persona. **John** was based upon my research to represent the
+          different user types that might use our client’s service  —  helping
+          me to understand users’ needs, experiences, behaviours and goals.
       - content: '![](/img/persona4.png)'
   - backgroundColor: '#FFF'
     column:
       - content: >-
-          John’s journey map was also created to show how his behaviour and pain
-          points while buying groceries online.
+          John’s customer journey was also created to show how his behaviour and
+          the pain points while buying groceries online.
 
 
           ![](/img/expmap_john.png)
@@ -186,17 +186,17 @@ row:
 
 
           * John doesn’t always shop online because he needs to know what to buy
-          and what he wants to eat — so he usually wastes some time browsing for
-          random stuff.
+          and what he wants to eat  —  so he usually wastes time browsing
+          randomly.
 
-          * He’s currently on a Low-Carb Diet — which links to our “Lifestyle”
+          * He’s currently on a Low-Carb Diet  —  which links to my “Lifestyle”
           idea that will be introduced later.
 
-          * He would like to buy more on Waitrose but he doesn’t find shops
-          nearby — a great opportunity to introduce our e-commerce service.
+          * He would like to buy more at Waitrose but he doesn’t find shops
+          nearby  —  a great opportunity to introduce our e-commerce service.
 
-          * He values great quality and product selection — which YoShelf
-          groceries currently offer.
+          * He values great quality and product selection  —  which the client
+          offers.
   - backgroundColor: '#E2E2E2'
     column:
       - content: >-
@@ -205,23 +205,21 @@ row:
 
           With Information Architecture being an integral part of a customer’s
           experience of a website, I conducted a card sorting exercise using a
-          sample inventory of YoShelf’s products. My main finding from this was
-          that it was necessary to have two ways of searching for a product:
+          sample inventory of YoShelf’s products. My main finding was that it is
+          necessary to have two ways of browsing for a product:
 
 
           1. By product category (e.g. Bakery, Vegetables)
-
 
           2. By lifestyle (e.g. Low-Carb, Gluten-Free)
   - backgroundColor: '#E2E2E2'
     column:
       - content: '![](/img/cardsorting.jpg)'
       - content: >-
-          During a **Card Sorting** session, participants are asked to organise
-          topics/products from the shop inventory into categories that make
-          sense to them which could help us label these groups making the
-          content more accessible and easy to find. This would be crucial to
-          create categories on the website.
+          During a **card sorting** session, participants were asked to organise
+          products from the shop inventory into categories. This would later on
+          help me label these groups making all products more accessible and
+          easy to find on the website.
 
 
           **Insights:**

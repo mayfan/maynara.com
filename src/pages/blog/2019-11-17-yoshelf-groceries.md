@@ -98,8 +98,7 @@ row:
           This exercise confirmed that there was an opportunity to make
           YoShelf’s website a unique offering in the groceries market by
           showcasing their expert advice and also creating an experience on the
-          website that costumers could have some help when it comes to buying
-          what they want to serve their purposes.
+          website that supported costumers when buying.
   - backgroundColor: '#FFF'
     column:
       - content: >-

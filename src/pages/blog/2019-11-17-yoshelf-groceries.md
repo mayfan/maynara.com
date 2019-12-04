@@ -248,19 +248,19 @@ row:
           ![](/img/vegan2.png)
 
 
-          My main learning from this feedback is that buying groceries can be
-          actually painful for some people with dietary restrictions. So **why
-          not change it so we can make those users feel cared and respected?**
+          My main learning from this session is that buying groceries is painful
+          for customers with dietary restrictions. So **why not change it so we
+          can make those users feel cared and respected?**
   - backgroundColor: '#FFF'
     column:
       - content: >-
           ### Sitemap
 
 
-          A Sitemap is a diagrammatic representation of a hierarchical system.
+          A sitemap is a diagrammatic representation of a hierarchical system.
           It usually depicts the parent-sibling relationship between pages in a
           website, showing how subpages might be arranged underneath their
-          parent groupings. So I’ve created YoShelf’s **sitemap**:
+          parent groupings:
       - content: '![](/img/sitemap_ok-1024x436.png)'
   - backgroundColor: '#FFF'
     column:

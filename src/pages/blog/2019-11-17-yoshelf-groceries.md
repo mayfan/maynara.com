@@ -23,11 +23,13 @@ row:
     column:
       - content: >-
           For my second project as part of the User Experience course at General
-          Assembly in London, I was tasked with creating a mid-fidelity
-          e-commerce website for a local independent grocery shop. My client was
-          **YoShelf** groceries. They’ve been the City’s neighbourhood grocery
-          store since 1998. Located near Liverpool Street Station, they are
-          proud of being part of a dynamic community.
+          Assembly in London, I was tasked with creating an e-commerce website
+          for a local independent grocery shop. 
+
+
+          My client was **YoShelf** groceries. They’ve been the City’s
+          neighbourhood grocery store since 1998. Located near Liverpool Street
+          Station, they are proud of being part of a dynamic community.
       - content: >-
           Their business model is based on customer service, reasonable pricing
           and keeping it local — employing local staff and supporting the
@@ -67,8 +69,8 @@ row:
           buying groceries, I went to Planet Organic and As Nature Intended to
           understand what were the pain points of customers during their
           shopping process. Both shops were near Liverpool Street Station –
-          where YoShelf is also located. I conducted some Contextual Inquiry
-          observations and interviews with customers and staff to collect some
+          where YoShelf is also located. I conducted Contextual Inquiry
+          observations and interviews with customers and staff to collect
           feedback that could help with my research.
 
 
@@ -80,14 +82,14 @@ row:
           **Insights:**
 
 
-          * Customers were asking for a specific product from a brand to the
-          staff members  —showing the requested product with their phones.
+          * Customers would ask for a specific product from a brand showing
+          staff the requested product with their phones.
 
-          * They were comparing prices in-store with prices they were browsing
-          online —knowing they were making the best deal was also important.
+          * They would compare prices in-store with prices they were browsing
+          online  — knowing they were making the best deal was important.
 
-          * They were browsing products but were not sure of what they actually
-          needed —some of them were wishing they’ve brought a shopping list
+          * They would browse products but were not sure of what they actually
+          needed  — some of them were wishing they’ve brought a shopping list
           instead of randomly wandering around the aisles.
       - content: >-
           **Note:** 
@@ -299,8 +301,6 @@ row:
       - content: >-
           After that, I created the **Happy Path** for John — steps he would
           need to take to complete all given tasks according to the scenario:
-
-
 
 
           ![](/img/happypath2.png)

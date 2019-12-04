@@ -274,50 +274,49 @@ row:
       - content: '![](/img/iterative.png)'
       - content: >-
           To understand if we were on the right path for this project, we tested
-          the first prototype with some users following the iterative process. 
+          the first prototype with users. This followed the iterative process:
 
 
-          Once, through user research, you have identified a user need and have
-          generated ideas to meet that need, you develop a prototype. Test,
-          collect feedback and refine. Following that, you create a new
-          prototype and begin the process all over again until you are satisfied
-          that you’ve reached the best possible product for release to the
-          market as an MVP.
+          Once you have identified a user need and have generated ideas to meet
+          that need, develop a prototype. Test, collect feedback and refine.
+          Following that, you create a new prototype and begin the process all
+          over again until you are satisfied that you’ve reached the best
+          possible product for release to the market as a Minimum Viable
+          Product.
     title: User Testing & Iterations
   - backgroundColor: '#E2E2E2'
     column:
       - content: >-
-          During my testing sessions, I gave the users a scenario and **three
-          tasks** for them to complete — imagining they were John:
+          During my testing sessions, I gave the users a scenario with **three
+          tasks** for them to complete :
       - content: '![](/img/tasks.png)'
   - backgroundColor: '#E2E2E2'
     column:
       - content: >-
-          After that, I created the **Happy Path** for John — steps he would
-          need to take to complete all given tasks according to the scenario:
+          After that, I created the **happy path** for John (otherwise known as
+          the critical path)  — steps he would need to take to complete all
+          given tasks according to the scenario:
 
 
           ![](/img/happypath2.png)
       - content: >-
-          My first couple of testing insights were:
+          My first testing insights were:
 
 
-          * It wasn’t clear to users what “Lifestyle” meant
+          * It wasn’t clear to users what “Lifestyle” meant;
 
           * Delivery Option — you need to know the shipping cost will be added
-          later — it should be mentioned somehow
+          later — it should be mentioned somehow;
 
-          * Users were confused about the menu — words were too close with no
-          separation between them
+          * Users were confused about the menu — words were too close together;
 
-          * We would need to have a page confirming your purchase/order
-          confirmation will be sent via e-mail
+          * We would need to have a page confirming your purchase/order would be
+          sent via e-mail.
   - backgroundColor: '#E2E2E2'
     column:
       - content: >-
-          Over the course of a week, I did over 15 usability tests over five
-          prototype iterations. My mid-fidelity homepage (on the left) to a
-          high-fidelity (on the right):
+          Over the course of a week, I did more than 15 usability tests for five
+          prototype iterations:
 
 
           ![](/img/yo_1.png)
@@ -327,31 +326,27 @@ row:
           ### Solutions
 
 
-          If we take a closer look to the Homepage:
+          If we take a closer look at the Homepage:
 
 
-          1) Global Navigation Menu: An easy way for you to find yourself
-          through the website — it will appear on every single page in case you
-          want to use one of the Menu options.
+          1. Global Navigation Menu: An easy way for you to find yourself
+          throughout the website  —  it will appear on every page in case you
+          want to use one of the menu options.
 
-
-          2) Browse Your Lifestyle: an easy way to help the customers finding
-          what they need. The pictures and words help users to understand what
+          2. Browse Your Lifestyle: an easy way to help the customers find what
+          they need. The pictures and words help users to understand what
           “Lifestyle” means.
 
-
-          3) Meet our staff: To keep the sense of a local business where you can
+          3. Meet our staff: To keep the sense of a local business where you can
           meet the staff and get in touch if customers want to. Once they click
           and are redirected to the staff page, customers will be able to read
-          some recommendations and interesting content produced by the
-          staff — for example, interesting recipes or recommended products.
+          some recommendations and interesting content produced by the staff  — 
+          for example, interesting recipes or recommended products.
 
+          4. Hand-Picked selections: The importance of highlighting that the
+          business cares about what they sell — quality over quantity. 
 
-          4) Hand-Picked selections: The importance of highlighting the business
-          cares about what they sell — quality over quantity. 
-
-
-          5) Bottom Menu: Customers can sign in to the newsletter and receive
+          5. Bottom Menu: Customers can sign in to the newsletter and receive
           offers and news (about the shop or the local community) and clients
           can also get in touch if they want (via phone, or social media). The
           main point here is to establish a connection between the business and
@@ -370,7 +365,7 @@ row:
       - content: |-
           ## Next Steps
 
-          * Develop the “Guided Shopping” tool
+          * Develop the guided shopping tool
           * Apply colours to all screens and create a high-fidelity prototype
           * Continue testing with users
       - content: >-
@@ -381,10 +376,10 @@ row:
           whole process. As a UX Designer, the amount of data we can collect is
           impressive and it’s quite important to keep a track of the whole
           process. As it was a solo project, it was a Research and Ideation
-          process I’ve had full control over from the brief until final
-          delivery. Working on a brief like this was both challenging and
-          incredibly rewarding! As this was a concept project, I was unable to
-          go back to the client with our findings and had to find a way to
-          incorporate user insights with the brief.
+          process I had full control over from the brief until final delivery.
+          Working on a brief like this was both challenging and incredibly
+          rewarding. As this was a concept project, I was unable to go back to
+          the client with our findings and had to find a way to incorporate user
+          insights with the brief.
 ---
 ![](/img/mockup2.png)

@@ -506,5 +506,88 @@ row:
           relief applied to their purchase.
     title: How did we improve the homepage?
   - backgroundColor: '#E2E2E2'
+    column:
+      - content: >-
+
+
+          ## Design Elements
+
+
+          To apply visual elements to our prototype, we’ve used the existing
+          brand guidelines. Forms and buttons style were applied throughout all
+          pages for consistency. We kept the main blue colours but the light
+          blue was used to represent the call to action. On the previous
+          website, calls to action could either be blue, green or pink and that
+          was confusing to users.
+
+
+          ![Style Guide](/img/styleguide.png)
+
+
+          We added grey to the colour palette to counterbalance the bright
+          colours. Grey was already being used on the website but wasn’t
+          highlighted on the guidelines. New icons were also included following
+          the current brand style.
+    title: DELIVER
+  - backgroundColor: '#E2E2E2'
+    column:
+      - content: >-
+          To use the coral pink as an accent colour, we reviewed the typography
+          styles and sizes to make it accessible changing the font size to 18px.
+      - content: '![Colours](/img/colours.png)'
+  - backgroundColor: '#FFF'
+    column:
+      - content: >-
+          To connect with Holly’s problem and help her achieve her goal we
+          imagined the following scenario:
+
+
+          ![Scenario](/img/scenario.png)
+
+
+          ![Tasks](/img/tasksas.png)
+
+
+          [InVision Prototype](<InVision Prototype: https://bit.ly/2sjpuQE>)
+
+
+          ## Homepage – Mobile version
+
+
+          ![](/img/mobile.png)
+
+
+          ## Next Steps
+
+
+          * Think about segments – first-time visitors vs. regular customers.
+
+          * Develop the whole flow on mobile and iterate.
+
+          * Further card sorting to refine categories.
+
+          * Revisit tone & voice to soften the language and elevate brand
+          personality.
+
+          * Improve visibility of shop on mobile from the main Alzheimer's
+          Society homepage.
+    title: Final Prototype
+  - backgroundColor: '#E2E2E2'
+    column:
+      - content: >-
+          Working with the Alzheimer’s Society was very rewarding for me. I’ve
+          learnt more about the incredible work they do at the charity and how
+          they want to improve the lives of people living with dementia. The
+          charity’s main goal is that each individual affected by the disease
+          can live well and longer in their own homes. It was challenging to
+          deal with such a delicate subject to users – when it comes to buying
+          specialised products for their loved ones. Our UX Design group
+          received a lot of support from them with all the data provided to help
+          us guide our research. I believe these design changes will improve the
+          overall user experience and in particular streamline the donation
+          process. I’m hoping that those changes result in an increase in
+          donations and purchase of daily living aids. This will help more
+          people living with the disease and everyone around them.
+    title: What I've learnt...
 ---
 ![Alzheimer's Society UX project](/img/home.png)

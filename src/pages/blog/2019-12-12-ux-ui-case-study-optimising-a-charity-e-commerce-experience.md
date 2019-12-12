@@ -113,6 +113,157 @@ row:
           conducting internal reports for years. As part of their customer
           satisfaction research, we were able to utilise important feedback
           provided by their users.
+
+
+          All that data helped to guide us in understanding how we could start
+          the project by analysing the opportunities from each insight. My main
+          contribution here was the ability to synthesise user research and draw
+          valuable insights to inform our final solution. I provided
+          recommendations backed by real data and insights.
     title: Uncovering initial insights
+  - backgroundColor: '#FFFFFF'
+    column:
+      - content: '![Alzheimer''s Society Insights](/img/insights.png)'
+  - backgroundColor: '#FFFFFF'
+    column:
+      - content: >-
+          As a way to understand more about what competitors were doing when
+          selling daily living aids, we selected some examples of dos and
+          don’ts. Competitive analysis helps us to understand and explore
+          opportunities and gaps in the market.
+    title: Competitive Landscape
+  - backgroundColor: '#FFFFFF'
+    column:
+      - content: |-
+          Things competitors did **well**:
+
+          * Ability to search for daily living aids by specific needs
+          * Clearly communicating the VAT relief
+
+          ![Competitors](/img/competitors1.png)
+      - content: |-
+          **Bad** things competitors did:
+
+          * Cluttered homepage
+          * Product information not clearly highlighted
+
+          ![Competitors](/img/competitors2.png)
+  - backgroundColor: '#E2E2E2'
+    column:
+      - content: >-
+          To validate the data shared by our client, we wanted to understand
+          more about users’ motivations. We ran a short survey at the end of
+          Alzheimer’s Society checkout process helping us to track some pain
+          points throughout the journey.
+
+
+          We asked users:
+
+
+          * Why did they choose to shop at the Alzheimer’s Society online shop?
+
+          * How easy was it to find the product they were looking for?
+
+          * What would help to make their purchase decision?
+
+
+          We had **157 respondents** who have purchased from the online shop.
+          After filtering through the information collected, six points stood
+          out:
+
+
+          * Supporting the charity was the main reason why users chose to buy at
+          Alzheimer’s Society.
+
+          * Users bought from the shop as they were browsing for specialised
+          products.
+
+          * Videos and more product pictures would help me to understand how to
+          use the product.
+
+          * Product reviews and key features are important when it comes to
+          purchasing a daily living aid.
+
+          * Easier navigation would make the journey smoother.
+
+          * The checkout process was too long with too many steps.
+
+
+          Part of our discovery phase was to also conduct in-depth interviews.
+          People who recently bought living-aid products gave us important
+          feedback when it comes to purchasing with our client’s competitors.
+    title: DISCOVERY
+  - backgroundColor: '#E2E2E2'
+    column:
+      - content: >-
+          > _“My general thought about those sorts of sites (charities) its that
+          they are a bit clunky and difficult to use. There’s one major
+          incentive that would change my behaviour in that sense and make me
+          actively want to buy their products. I would do it to support the
+          charity because it makes sense to put money back into research to find
+          a cure for dementia.”_
+
+
+          To summarise our insights and quotes from users to understand patterns
+          an affinity map was created with our main findings.
+
+
+          The combination of both testing sessions and checkout survey helped us
+          to map the customer journey when using the current website. We also
+          ran testing sessions on the current website to create an emotional map
+          where we could see the main pain points. Users were asked to complete
+          the purchase of a specific product and talk about the steps taken
+          throughout.
+      - content: '![Affinity Map](/img/image0.jpeg)'
+  - backgroundColor: '#E2E2E2'
+    column:
+      - content: '![Customer Journey](/img/customer-journey.png)'
+  - backgroundColor: '#E2E2E2'
+    column:
+      - content: >-
+          * **Online shop not visible from the main website.** When visiting the
+          Alzheimer’s Society main website, customers mentioned the link to the
+          shop was not visible. The button that leads users to the online shop
+          wasn’t showing on the mobile responsive layout. That was a big problem
+          because many customers were not aware that our client had products to
+          sell online.
+
+          * **Customers were not aware that the shop offered more than gifts and
+          merchandise.** Most charities offer only gifts, cards and branded
+          merchandise as a way to customers show their support. It wasn’t clear
+          to users that Alzheimer’s Society had specialised products to offer to
+          help people living with dementia.
+      - content: >-
+          * **Users were confused about categories and sub-categories.** The
+          overwhelming amount of categories available to users were leading to
+          confusion. They were not aware of where to go first and some category
+          names didn’t link to what they really meant.
+
+          * **Product info wasn’t easy to scan.** Users would like to know more
+          about the products as they are specialised. When it comes to buying
+          daily living aids, users said it would be great to understand how they
+          can use what they’re purchasing.
+
+          * **The checkout process was a bit long.** Customers were a bit
+          disappointed due to a long checkout process – especially because there
+          was some confusion when it comes to applying for the VAT relief.
+    title: Insights
+  - backgroundColor: '#FFFFFF'
+    column:
+      - content: >-
+          To summarise all our research findings we created our persona – a
+          fictional representation of our users’ insights:
+      - content: '![Persona](/img/persona.png)'
+    title: DEFINE
+  - backgroundColor: '#FFFFFF'
+    column:
+      - content: >-
+          ## Let’s take a walk in Holly’s shoes
+
+
+          Holly needs to help her mum to be more independent because her mum is
+          suffering from memory loss and Holly can’t always be around to help
+          her.
+      - content: '![](/img/scene-living-room.png)'
 ---
 ![Alzheimer's Society UX project](/img/home.png)

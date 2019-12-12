@@ -253,7 +253,9 @@ row:
       - content: >-
           To summarise all our research findings we created our persona – a
           fictional representation of our users’ insights:
-      - content: '![Persona](/img/persona.png)'
+
+
+          ![Persona](/img/persona.png)
     title: DEFINE
   - backgroundColor: '#FFFFFF'
     column:
@@ -264,6 +266,245 @@ row:
           Holly needs to help her mum to be more independent because her mum is
           suffering from memory loss and Holly can’t always be around to help
           her.
+
+
+          To brainstorm ideas that could help solve users’ problems, we ran a
+          design studio session with our client.  It involves sketching possible
+          solutions, sharing and then refining the ideas.
+
+
+          To guide this process we considered the following “How Might We”
+          questions:
+
+
+
+
+          ## **How might we?**
+
+
+          * Communicate key product features and benefits so it’s easy for Holly
+          to read and understand?
+
+          * Communicate that the shop also offers daily living aids rather than
+          just gifts and branded merchandise?
+
+          * Better display labels and sub-categories for products so Holly can
+          easily find the right product?
       - content: '![](/img/scene-living-room.png)'
+  - backgroundColor: '#E2E2E2'
+    column:
+      - content: >-
+          According to our research, the categories were one of the main pain
+          points in the journey. So our next step was to consider what
+          categories would improve navigation. For that, we conducted a card
+          sorting activity. Users were asked to assign Alzheimer’s Society shop
+          inventory items into predefined categories. The suggested categories
+          were based on our audit of other charity websites. 
+
+
+          Card sorting activity also helped us to create sub-categories.
+      - content: '![Card sorting](/img/cartsorting.jpeg)'
+    title: Card Sorting
+  - backgroundColor: '#e2e2e2'
+    column:
+      - content: >-
+          13 users participated in the card sorting activity. From that, we
+          simplifying the categories into:
+      - content: '![Categories](/img/categories.png)'
+  - backgroundColor: '#e2e2e2'
+    column:
+      - content: |-
+          And that’s where they sit within the site map:
+
+          ![Site Map](/img/site-map.png)
+  - backgroundColor: '#FFF'
+    column:
+      - content: >-
+          ## Paper prototype
+
+
+          We took the "How might we?" questions to our design studio session
+          that was done with our client.
+      - content: '![Paper prototype](/img/designstudio1.jpg)'
+    title: DEVELOP
+  - backgroundColor: '#FFF'
+    column:
+      - content: '![Paper testing](/img/paper-test.jpeg)'
+      - content: >-
+          Next, we sketched combinations of our best and most voted ideas on
+          paper to run the first set of tests with users.
+  - backgroundColor: '#E2E2E2'
+    column:
+      - content: >-
+
+
+          ## Affinity map – V1
+
+
+          To group the survey results we collected, we created an affinity map
+          to help visualise the pages that would still need to be changed
+          through the iterative process. After testing the paper prototype, many
+          issues appeared in the flow.
+
+
+          ![Affinity Map](/img/afmap1.png)
+
+
+          _Homepage, product page and applying VAT relief info were the most
+          problematic parts of the flow._
+
+
+          After seeing the homepage was one of the most problematic pages in the
+          flow, the team had two different ideas so we conducted an A/B testing.
+
+
+          **A/B test:** experiment where two variants of a page are shown to
+          users at random to see which one performs better. We ran two rounds of
+          testing sessions with 12 users in total.
+
+
+          ![A/B testing](/img/ab-testing.png)
+
+
+          * **Concept A:** Focused on the “What we offer” section and then
+          showing users they can shop by product, need or stage of the disease.
+            * **Problem:** “Shop by” as a tab menu was too confusing as users thought the homepage was too cluttered and overwhelming.
+          * **Concept B:** Highlighting that users could shop by need, gifts or
+          from the printed catalogue.
+            * **Problem:** “Catalogue” concept was confusing to users and the “What we offer” section wasn’t looking like buttons as the copy wasn’t appropriate.
+
+          ## Affinity map – V2
+
+
+          ![Affinity map](/img/afmap2.png)
+
+
+          **User Testing Insights**
+
+
+          Most painful points on the flow:
+
+
+          * **Homepage.** It still wasn’t easy and intuitive for users to browse
+          as they had a few issues trying to find the right products.
+
+          * **Categories page.** Users thought the page was a repetition of the
+          dropdown menu.
+
+          * **Product detail page.** VAT relief and product key features were
+          not clear to users.
+
+          * **Applying VAT relief:** It wasn’t intuitive and clear to users when
+          they should apply the information about the patient in order to get
+          the VAT relief.
+
+
+          After collecting all feedback from testing sessions, we iterated the
+          prototype making the changes that would make the flow smoother to
+          users.
+
+
+          ![Paper changes](/img/paper-changes.jpg)
+  - backgroundColor: '#FFF'
+    column:
+      - content: >-
+
+
+
+
+
+
+
+
+
+
+          We combined A and B concepts to create our final homepage.
+
+
+          ![Before and After - Homepage](/img/before-and-after-home.png)
+
+
+          * Changed the daily living aids category title to “Specialised
+          products” – as a result of our card sorting and iterative process.
+
+          * Main categories on global navigation are clear and simply showing
+          what the shop offers – specialised products, gifts & cards and branded
+          products.
+
+          * Highlighting the “Donate” function with the accent colour.
+
+          * Dropdown menu to improve navigation being able to shop by product,
+          need or stage – from our research, most users were not sure what to
+          buy so “shop by need” was helpful when guiding them to the right
+          product.
+
+          * Adding context for the different ways to shop for daily living aids
+          (product, need and stage).
+
+
+          ![Before and After - Menu](/img/before-and-after-menu.png)
+
+
+          * Clear design for the bottom global navigation
+
+          * Giving the option so users can shop by product, need or stage
+
+
+          # Improving the product details page
+
+
+          When testing our paper prototype, users were confused when choosing
+          the right product. “What is it good for?” was an idea that came from
+          our design studio to highlight the different ways of using the product
+          with icons or pictures. Users thought icons could be quite confusing
+          and not really meaningful.
+
+
+          Delivery cost below the product price was also confusing. Users
+          thought that was the only delivery option. They were also not sure how
+          the website would know this information without their address
+          information.
+
+
+          ![Product page - paper prototype](/img/paperprot_product.png)
+
+
+          **Improvements:** 
+
+
+          * Prioritising the product benefits and key features above other
+          product information – both can be quickly scanned.
+
+          * Removed delivery price.
+
+          * De-cluttered the product page.
+
+          * Added info about the regular price (without VAT relief).
+
+
+          ![Before and After - Product](/img/before-and-after-product.png)
+
+
+          # Clearly communicating USP
+
+
+          ![Before and After - USP](/img/before-and-after-usp.png)
+
+
+          # VAT relief process
+
+
+          One of our suggestions for the website was immediately implemented to
+          their current website:
+
+
+          ![](/img/vat.png)
+
+
+          From our testing sessions with users, it was a clear way for them to
+          see where they would need to apply the information to get the VAT
+          relief applied to their purchase.
+    title: How did we improve the homepage?
+  - backgroundColor: '#E2E2E2'
 ---
 ![Alzheimer's Society UX project](/img/home.png)

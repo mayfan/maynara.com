@@ -336,8 +336,6 @@ row:
   - backgroundColor: '#E2E2E2'
     column:
       - content: >-
-
-
           ## Affinity map – V1
 
 

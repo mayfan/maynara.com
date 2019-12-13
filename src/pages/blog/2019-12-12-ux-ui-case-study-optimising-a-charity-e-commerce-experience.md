@@ -105,7 +105,7 @@ row:
     column:
       - content: >-
           ![Synthesising user research and previous data to communicate with
-          other members of the UX Design team](/img/afmap3.jpeg "Synthesising
+          other members of the UX Design team](/img/afmap3-s.jpg "Synthesising
           user research and previous data to communicate with other members of
           the UX Design team")
       - content: >-

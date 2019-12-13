@@ -214,7 +214,7 @@ row:
           where we could see the main pain points. Users were asked to complete
           the purchase of a specific product and talk about the steps taken
           throughout.
-      - content: '![Affinity Map](/img/image0.jpeg)'
+      - content: '![Affinity Map](/img/image0-s.jpg)'
   - backgroundColor: '#E2E2E2'
     column:
       - content: '![Customer Journey](/img/customer-journey.png)'
@@ -329,7 +329,7 @@ row:
     title: DEVELOP
   - backgroundColor: '#FFF'
     column:
-      - content: '![Paper testing](/img/paper-test.jpeg)'
+      - content: '![Paper testing](/img/paper-test-s.jpg)'
       - content: >-
           Next, we sketched combinations of our best and most voted ideas on
           paper to run the first set of tests with users.
@@ -377,8 +377,9 @@ row:
 
 
           ![Affinity map](/img/afmap2.png)
-
-
+  - backgroundColor: '#E2E2E2'
+    column:
+      - content: >-
           **User Testing Insights**
 
 
@@ -402,9 +403,7 @@ row:
           After collecting all feedback from testing sessions, we iterated the
           prototype making the changes that would make the flow smoother to
           users.
-
-
-          ![Paper changes](/img/paper-changes.jpg)
+      - content: '![Paper changes](/img/paper-changes.jpg)'
   - backgroundColor: '#FFF'
     column:
       - content: >-
@@ -508,8 +507,6 @@ row:
   - backgroundColor: '#E2E2E2'
     column:
       - content: >-
-
-
           ## Design Elements
 
 
@@ -522,16 +519,16 @@ row:
 
 
           ![Style Guide](/img/styleguide.png)
-
-
-          We added grey to the colour palette to counterbalance the bright
-          colours. Grey was already being used on the website but wasn’t
-          highlighted on the guidelines. New icons were also included following
-          the current brand style.
     title: DELIVER
   - backgroundColor: '#E2E2E2'
     column:
       - content: >-
+          We added grey to the colour palette to counterbalance the bright
+          colours. Grey was already being used on the website but wasn’t
+          highlighted on the guidelines. New icons were also included following
+          the current brand style.
+
+
           To use the coral pink as an accent colour, we reviewed the typography
           styles and sizes to make it accessible changing the font size to 18px.
       - content: '![Colours](/img/colours.png)'

@@ -10,7 +10,7 @@ row:
   - backgroundColor: '#E2E2E2'
     column:
       - content: >-
-          ##### CHALLENGES
+          #### CHALLENGES
 
 
           * Helping users better understand the products, including their
@@ -24,19 +24,19 @@ row:
 
           * Improvements to the overall UX and UI of the shop
       - content: >-
-          ##### **Role**
+          #### **Role**
 
 
           UX Researcher/UI Designer (Group Project)
 
 
-          ##### **Duration**
+          #### **Duration**
 
 
           2 weeks
 
 
-          ##### **UX Techniques**
+          #### **UX Techniques**
 
 
           User Research | Competitive Analysis | Data Analysis | Screening
@@ -44,7 +44,7 @@ row:
           Testing| Wireframing | Prototyping
 
 
-          ##### **Tools**
+          #### **Tools**
 
 
           Sketch | inVision | Photoshop | Pen and Paper
@@ -61,7 +61,7 @@ row:
           potential users.
 
 
-          ##### CHALLENGES
+          #### CHALLENGES
 
 
           * Onboarding for new users 
@@ -73,26 +73,26 @@ row:
           * Ability to view/browse sight details for major attractions
 
 
-          ##### **Role**
+          #### **Role**
 
 
           UX/UI/Interaction Design (Group Project)
 
 
-          ##### **Duration**
+          #### **Duration**
 
 
           2 weeks
 
 
-          ##### **UX Techniques**
+          #### **UX Techniques**
 
 
           User Research | Competitive Analysis | Sketching | Sitemaps | User
           Flows | User Testing| Wireframing | Prototyping
 
 
-          ##### **Tools**
+          #### **Tools**
 
 
           Sketch | inVision | Photoshop | Pen and Paper

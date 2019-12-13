@@ -323,17 +323,17 @@ row:
           ## Paper prototype
 
 
+          ![Design Studio](/img/designstudio-s.jpg)
+
+
           We took the "How might we?" questions to our design studio session
           that was done with our client.
-
-
-          ![](/img/designstudio-s.jpg)
       - content: >-
           Next, we sketched combinations of our best and most voted ideas on
           paper to run the first set of tests with users.
 
 
-          ![](/img/paper-test-s2.jpg)
+          ![Paper prototype being tested](/img/paper-test-s2.jpg)
     title: DEVELOP
   - backgroundColor: '#E2E2E2'
     column:

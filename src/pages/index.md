@@ -3,6 +3,10 @@ templateKey: index-page
 title: May Fanucci - UX/UI Designer
 heading: 'I''m May, a UX/UI Designer based in London'
 row:
+  - backgroundColor: '#E2E2E2'
+    column:
+      - content: '![](/img/home_transparent.png)'
+    title: Optimising a Charity e-Commerce Experience
   - backgroundColor: '#FFFFFF'
     column:
       - content: '![](/img/lime_3.png)'

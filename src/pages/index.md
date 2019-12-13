@@ -10,7 +10,7 @@ row:
   - backgroundColor: '#E2E2E2'
     column:
       - content: >-
-          CHALLENGES:
+          ##### CHALLENGES
 
 
           * Helping users better understand the products, including their
@@ -24,18 +24,30 @@ row:
 
           * Improvements to the overall UX and UI of the shop
       - content: >-
-          **Role:** UX Researcher/UI Designer (Group Project)
+          ##### **Role**
 
 
-          **Duration:** 2 weeks
+          UX Researcher/UI Designer (Group Project)
 
 
-          **UX Techniques:** User Research | Competitive Analysis | Data
-          Analysis | Screening survey | User interview | Sketching | Sitemaps |
-          User Flows | User Testing| Wireframing | Prototyping
+          ##### **Duration**
 
 
-          **Tools:** Sketch | inVision | Photoshop | Pen and Paper
+          2 weeks
+
+
+          ##### **UX Techniques**
+
+
+          User Research | Competitive Analysis | Data Analysis | Screening
+          survey | User interview | Sketching | Sitemaps | User Flows | User
+          Testing| Wireframing | Prototyping
+
+
+          ##### **Tools**
+
+
+          Sketch | inVision | Photoshop | Pen and Paper
   - backgroundColor: '#FFFFFF'
     column:
       - content: '![](/img/lime_3.png)'
@@ -49,7 +61,7 @@ row:
           potential users.
 
 
-          CHALLENGES:
+          ##### CHALLENGES
 
 
           * Onboarding for new users 
@@ -59,18 +71,31 @@ row:
           * Ability to choose or create a multi-point sightseeing tour
 
           * Ability to view/browse sight details for major attractions
-      - content: >-
-          **Role:** UX/UI/Interaction Design (Group Project)
 
 
-          **Duration:** 2 weeks
+          ##### **Role**
 
 
-          **UX Techniques:** User Research | Competitive Analysis | Sketching |
-          Sitemaps | User Flows | User Testing| Wireframing | Prototyping
+          UX/UI/Interaction Design (Group Project)
 
 
-          **Tools:** Sketch | inVision | Photoshop | Pen and Paper
+          ##### **Duration**
+
+
+          2 weeks
+
+
+          ##### **UX Techniques**
+
+
+          User Research | Competitive Analysis | Sketching | Sitemaps | User
+          Flows | User Testing| Wireframing | Prototyping
+
+
+          ##### **Tools**
+
+
+          Sketch | inVision | Photoshop | Pen and Paper
     title: New feature for Lime - an electric bike renting mobile app
   - backgroundColor: '#E2E2E2'
     column:
@@ -79,13 +104,19 @@ row:
           classes nearby
 
 
-          **Role:** UX/UI/Interaction Design (Solo Project)
+          #### **Role**
 
 
-          **Duration:** 5 days
+          UX/UI/Interaction Design (Solo Project)
 
 
-          **UX Techniques**
+          #### **Duration**
+
+
+          5 days
+
+
+          #### **UX Techniques**
 
 
           Competitive analysis | User interviews | User persona | Experience
@@ -94,13 +125,13 @@ row:
           guide
 
 
-          **Tools**
+          #### **Tools**
 
 
           Sketch | inVision | Photoshop
 
 
-          CHALLENGE:
+          #### CHALLENGE
 
 
           How to be more healthy and balance work with her personal life but
@@ -114,13 +145,19 @@ row:
     column:
       - content: '![](/img/mockup2.png)'
       - content: >-
-          **Role:** UX/UI/Interaction Design (Solo Project)
+          #### **Role**
 
 
-          **Duration:** 2 weeks
+          UX/UI/Interaction Design (Solo Project)
 
 
-          **UX Techniques**
+          #### **Duration**
+
+
+          2 weeks
+
+
+          #### **UX Techniques**
 
 
           Competitive analysis | User interviews | User persona | Experience
@@ -128,7 +165,7 @@ row:
           User testing
 
 
-          **Tools**
+          #### **Tools**
 
 
           Sketch | inVision | Photoshop | Pen and paper

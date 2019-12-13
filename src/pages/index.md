@@ -7,6 +7,35 @@ row:
     column:
       - content: '![](/img/home_transparent.png)'
     title: Optimising a Charity e-Commerce Experience
+  - backgroundColor: '#E2E2E2'
+    column:
+      - content: >-
+          CHALLENGES:
+
+
+          * Helping users better understand the products, including their
+          features, benefits and related advice
+
+          * Ensuring that their USP is clear, in the context of the competitive
+          landscape
+
+          * Improving the way that VAT / VAT relief information and options are
+          presented 
+
+          * Improvements to the overall UX and UI of the shop
+      - content: >-
+          **Role:** UX Researcher/UI Designer (Group Project)
+
+
+          **Duration:** 2 weeks
+
+
+          **UX Techniques:** User Research | Competitive Analysis | Data
+          Analysis | Screening survey | User interview | Sketching | Sitemaps |
+          User Flows | User Testing| Wireframing | Prototyping
+
+
+          **Tools:** Sketch | inVision | Photoshop | Pen and Paper
   - backgroundColor: '#FFFFFF'
     column:
       - content: '![](/img/lime_3.png)'

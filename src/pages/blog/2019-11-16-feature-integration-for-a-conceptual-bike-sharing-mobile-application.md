@@ -183,11 +183,11 @@ row:
           ### Discover Trends and Identify Problems
 
 
-          An **Affinity map** was generated with a large amount of data and
-          quotes from the user interviews and online reviews, a few common
-          trends and pain points were identified. After the problem statement
-          was formed, we were able to focus on finding solutions and opportunity
-          areas that guided our project.
+          An affinity map was generated with a large amount of data and quotes
+          from the user interviews and online reviews, a few common trends and
+          pain points were identified. After the problem statement was formed,
+          we were able to focus on finding solutions and opportunity areas that
+          guided our project.
   - backgroundColor: '#E2E2E2'
     column:
       - content: '![](/img/group_1-2.jpg)'

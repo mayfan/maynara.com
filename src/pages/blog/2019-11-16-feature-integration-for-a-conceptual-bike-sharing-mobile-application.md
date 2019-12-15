@@ -183,7 +183,7 @@ row:
           ### Discover Trends and Identify Problems
 
 
-          An affinity map was generated with a large amount of data and quotes
+          An Affinity Map was generated with a large amount of data and quotes
           from the user interviews and online reviews, a few common trends and
           pain points were identified. After the problem statement was formed,
           we were able to focus on finding solutions and opportunity areas that
@@ -222,7 +222,7 @@ row:
 
 
           To understand a bit more about our user’s pain points when hiring a
-          bike through a mobile app, we created an **Experience Map**.
+          bike through a mobile app, we created an Experience Map.
 
 
           ![](/img/expmap.png)

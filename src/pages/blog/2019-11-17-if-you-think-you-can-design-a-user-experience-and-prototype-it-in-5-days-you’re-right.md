@@ -11,19 +11,26 @@ row:
   - backgroundColor: '#FFF'
     column:
       - content: |-
-          **Role:** UX/UI/Interaction Design (Solo Project)
+          #### Role
 
-          **Duration:** 5 days
+          UX/UI/Interaction Design (Solo Project)
+
+          #### Duration
+          5 days
       - content: >-
-          **UX Techniques:** Competitive analysis | User interviews | User
-          persona | Experience mapping | User flows | Wire-flows| SiteMap |
-          Sketching | Prototyping | User testing | Brand Personality &
-          Statements | Elevator Pitch | Style guide
+          #### **UX Techniques** 
+
+          Competitive analysis | User interviews | User persona | Experience
+          mapping | User flows | Wire-flows| SiteMap | Sketching | Prototyping |
+          User testing | Brand Personality & Statements | Elevator Pitch | Style
+          guide
 
 
 
 
-          **Tools:** Sketch | inVision | Photoshop
+          #### **Tools**
+
+          Sketch | inVision | Photoshop
   - backgroundColor: '#E2E2E2'
     column:
       - content: >-
@@ -58,9 +65,6 @@ row:
   - backgroundColor: '#E2E2E2'
     column:
       - content: >-
-          ### Challenges
-
-
           After conducting the first round of open questions to know more about
           my user, I’ve got a few insights as opportunities to build something
           for Valeria:
@@ -68,6 +72,7 @@ row:
           * **VALERIA WANTS TO EXERCISE MORE + HAVE A PROPER ROUTINE**
           * **FIND GYM CLASSES/FITNESS ACTIVITIES NEARBY**
           * **TRACK FOOD + STEPS + SLEEP + WATER + MEDITATION TIME**
+    title: Challenges
   - backgroundColor: '#FFF'
     column:
       - content: >-

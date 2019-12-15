@@ -38,8 +38,8 @@ row:
 
 
           In just 5 days, develop a high-fidelity, fully interactive,
-          functioning prototype that solves a problem for a **user** – that was
-          also my **persona**.
+          functioning prototype that solves a problem for a user – that was also
+          my persona.
     title: >-
       Day 1 – 10AM: Understand the User, create the Persona, write the Problem
       Statement and create the Experience Map
@@ -50,11 +50,13 @@ row:
           healthy having a better work-life balance.
 
 
-          **Pain points:** She is often busy due to her daily activities and
-          spends a lot of time trying to find gym classes nearby as she usually
-          uses Google to search for places – having to make a decision between
-          all the open tabs on her browser on websites she is not registered
-          yet.
+          **Pain points**
+
+
+          She is often busy due to her daily activities and spends a lot of time
+          trying to find gym classes nearby as she usually uses Google to search
+          for places – having to make a decision between all the open tabs on
+          her browser on websites she is not registered yet.
       - content: >-
           ![](/img/profile.png)
 
@@ -65,6 +67,9 @@ row:
   - backgroundColor: '#E2E2E2'
     column:
       - content: >-
+          #### Challenges
+
+
           After conducting the first round of open questions to know more about
           my user, I’ve got a few insights as opportunities to build something
           for Valeria:
@@ -72,7 +77,7 @@ row:
           * **VALERIA WANTS TO EXERCISE MORE + HAVE A PROPER ROUTINE**
           * **FIND GYM CLASSES/FITNESS ACTIVITIES NEARBY**
           * **TRACK FOOD + STEPS + SLEEP + WATER + MEDITATION TIME**
-    title: Challenges
+    title: ''
   - backgroundColor: '#FFF'
     column:
       - content: >-
@@ -80,18 +85,18 @@ row:
           realised I would need to narrow my ideas to start solving one of her
           main problems.
       - content: >-
-          **My first learning: Focus on solving one of your user’s problems
+          My first learning: Focus on solving one of your user’s problems
           instead of all of them. It’s a way for you not to lose yourself during
           the process and also understanding which features will be necessary
           for an MVP. Users will usually bring many problems and expectations
           saying they know what they to solve (and how they want to do it) but
           you need to choose one topic and explore it to understand what the
-          user truly need.**
+          user truly need.
   - backgroundColor: '#E2E2E2'
     column:
       - content: >-
           The next step was to focus on the second bullet point above and came
-          up with the following **Problem Statement**:
+          up with the following Problem Statement:
 
 
           ### Valeria is trying to be more healthy and balance work with her
@@ -176,8 +181,8 @@ row:
       - content: >-
           Well, I wasn’t sure if I was on the right track after the changes I’ve
           done since Day #2 so I still had to validate my previous findings
-          applying all necessary changes to a new prototype and… **TEST TEST
-          TEST TEST**!
+          applying all necessary changes to a new prototype and… TEST TEST TEST
+          TEST!
 
 
           ![](/img/sketches_oldjpeg.jpg)

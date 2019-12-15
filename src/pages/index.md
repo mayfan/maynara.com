@@ -5,7 +5,13 @@ heading: 'I''m May, a UX Researcher/UI Designer based in London'
 row:
   - backgroundColor: '#E2E2E2'
     column:
-      - content: '![](/img/home_transparent.png)'
+      - content: >-
+          ![](/img/home_transparent.png)
+
+
+          In a two-week sprint, our team had to re-design the whole online shop
+          to attract customers to purchase daily living aids and increase the
+          revenue for the charity.
     title: Optimising a Charity e-Commerce Experience
   - backgroundColor: '#E2E2E2'
     column:
@@ -53,12 +59,12 @@ row:
       - content: '![](/img/lime_3.png)'
       - content: >-
           In a two-week sprint, I worked in a team of four to integrate a new
-          feature for the exiting Lime bike mobile application creating a hi-fi
-          clickable prototype. The new feature is added to help customers
-          creating a multi-point sightseeing tour, browse sight details for
-          major attractions, secure rental bikes nearby and a more personalised
-          app experience as a way to retain current customers and attract
-          potential users.
+          feature for the existing Lime bike mobile application creating a high
+          fidelity clickable prototype. The new feature is added to help
+          customers creating a multi-point sightseeing tour, browse sight
+          details for major attractions, secure rental bikes nearby and a more
+          personalised app experience as a way to retain current customers and
+          attract potential users.
 
 
           #### CHALLENGES

@@ -229,7 +229,8 @@ row:
   - backgroundColor: '#FFF'
     column:
       - content: >-
-          **Findings:**
+          ### **Findings**
+
 
           It was clear that stopping to check directions was the main
           opportunity for us to stand out as a product. When cycling, users need
@@ -238,6 +239,7 @@ row:
           also takes time to juggle between apps. If you look back to check the
           other competitors, they were not offering any alternatives when it
           comes to solving this problem either.
+    title: ''
   - backgroundColor: '#FFF'
     column:
       - content: >-
@@ -249,6 +251,7 @@ row:
 
 
           ![](/img/alex.jpg)
+    title: ''
   - backgroundColor: '#E2E2E2'
     column:
       - content: >-
@@ -305,24 +308,22 @@ row:
   - backgroundColor: '#FFF'
     column:
       - content: >-
-          ### Feature Prioritisation
-
-
           With the problem statement and our persona in mind, our team
           brainstormed for various potential solutions. Due to the balance of
           time and resources, we decided to do a feature prioritisation matrix,
           that has an impact axis and an effort axis. We plotted all of the
           ideas that were produce from the second design studio.
-    title: ''
+    title: Feature Prioritisation
   - backgroundColor: '#FFF'
     column:
-      - content: '![](/img/featprior.png)'
       - content: >-
           As a group, we placed the features on this matrix, and decided to use
           the features that were high impact for the MVP. These are shown in the
           top two quadrants (in green). These included:
 
 
+          ![](/img/featprior.png)
+      - content: >-
           * **Create route:** Provide a map with the option of creating a route
           with the full route so users can focus on their journey while cycling
           to reach their goal destination.
@@ -365,9 +366,6 @@ row:
   - backgroundColor: '#FFF'
     column:
       - content: >-
-          ### Usability Testing and Iterations
-
-
           Lo-fi clickable prototype was tested. The scenario given to users was
           the following:
       - content: >-
@@ -380,9 +378,10 @@ row:
 
           They had to complete 3 main tasks:
 
-          * Set up the App.
+          * Set up the app.
           * Plan a multi-point journey.
           * Book three bikes.
+    title: Usability Testing and Iterations
   - backgroundColor: '#FFF'
     column:
       - content: >-
@@ -405,10 +404,10 @@ row:
 
 
           To better understand all feedback we received from V1, we’ve done an
-          **Affinity Map** with the main issues and used post-its to find
-          patterns on the possible changes we would need to do. That was very
-          helpful when you have a lot of feedback and you want to put them
-          together to have a visual and better understanding of your next steps.
+          Affinity Map with the main issues and used post-its to find patterns
+          on the possible changes we would need to do. That was very helpful
+          when you have a lot of feedback and you want to put them together to
+          have a visual and better understanding of your next steps.
   - backgroundColor: '#FFF'
     column:
       - content: '![](/img/18.png)'

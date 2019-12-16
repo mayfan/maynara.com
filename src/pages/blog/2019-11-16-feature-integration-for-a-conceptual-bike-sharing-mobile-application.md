@@ -287,7 +287,7 @@ row:
           according to user’s feedback.
 
 
-          (The area highlighted in **black** (left) indicates the new feature we
+          (The area highlighted in black (left) indicates the new feature we
           designed for the app – and where it would sit according to the current
           app map.)
   - backgroundColor: '#FFF'

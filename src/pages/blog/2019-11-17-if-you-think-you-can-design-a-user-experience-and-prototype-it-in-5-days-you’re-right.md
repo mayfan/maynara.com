@@ -13,9 +13,10 @@ row:
       - content: |-
           #### Role
 
-          UX/UI/Interaction Design (Solo Project)
+          UX Researcher/UI Designer (Solo Project)
 
           #### Duration
+
           5 days
       - content: >-
           #### **UX Techniques** 

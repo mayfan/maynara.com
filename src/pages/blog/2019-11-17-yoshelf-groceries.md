@@ -7,18 +7,24 @@ row:
   - backgroundColor: '#FFF'
     column:
       - content: |-
-          **Role:** UX/UI/Interaction Design (Solo Project)
+          #### **Role** 
+          UX Researcher/UI Designer (Solo Project)
 
-          **Duration:** 2 weeks
+          #### **Duration** 
+          2 weeks
       - content: >-
-          **UX Techniques:** Competitor analysis | User interviews | User
-          persona | Experience mapping | User flows | Wire-flows| SiteMap |
-          Sketching | Prototyping | User testing
+          #### **UX Techniques** 
+
+          Competitor analysis | User interviews | User persona | Experience
+          mapping | User flows | Wire-flows| SiteMap | Sketching | Prototyping |
+          User testing
 
 
 
 
-          **Tools:** Sketch | inVision | Photoshop | Pen and paper
+          #### **Tools** 
+
+          Sketch | inVision | Photoshop | Pen and paper
   - backgroundColor: '#FFF'
     column:
       - content: >-
@@ -167,9 +173,9 @@ row:
 
 
           From my interviews, I’ve synthesised the data collected and created my
-          persona. **John** was based upon my research to represent the
-          different user types that might use our client’s service  —  helping
-          me to understand users’ needs, experiences, behaviours and goals.
+          persona. John was based upon my research to represent the different
+          user types that might use our client’s service  —  helping me to
+          understand users’ needs, experiences, behaviours and goals.
       - content: '![](/img/persona4.png)'
   - backgroundColor: '#FFF'
     column:
@@ -216,7 +222,7 @@ row:
     column:
       - content: '![](/img/cardsorting.jpg)'
       - content: >-
-          During a **card sorting** session, participants were asked to organise
+          During a card sorting session, participants were asked to organise
           products from the shop inventory into categories. This would later on
           be crucial to label these groups making all products more accessible
           and easy to find on the website.
@@ -249,8 +255,8 @@ row:
 
 
           My main learning from this session is that buying groceries is painful
-          for customers with dietary restrictions. So **why not change it so we
-          can make those users feel cared and respected?**
+          for customers with dietary restrictions. So why not change it so we
+          can make those users feel cared and considered?
   - backgroundColor: '#FFF'
     column:
       - content: >-
@@ -287,15 +293,15 @@ row:
   - backgroundColor: '#E2E2E2'
     column:
       - content: >-
-          During my testing sessions, I gave the users a scenario with **three
-          tasks** for them to complete :
+          During my testing sessions, I gave the users a scenario with three
+          tasks for them to complete :
       - content: '![](/img/tasks.png)'
   - backgroundColor: '#E2E2E2'
     column:
       - content: >-
-          After that, I created the **happy path** for John (otherwise known as
-          the critical path)  — steps he would need to take to complete all
-          given tasks according to the scenario:
+          After that, I created the happy path for John (otherwise known as the
+          critical path)  — steps he would need to take to complete all given
+          tasks according to the scenario:
 
 
           ![](/img/happypath2.png)

@@ -16,15 +16,20 @@ export const AboutPageTemplate = ({
 
   return (
     <div>
-      <section className="section section--gradient">
+      <section
+        className="section section--gradient"
+        style={{
+          backgroundColor: "#194239"
+        }}
+      >
         <div className="container">
           <div className="columns">
-            <div className="column is-10 is-offset-1">
-              <div className="section">
-                <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
+            <div className="column is-9">
+              <div className="content header">
+                <h1 className="is-size-3-mobile is-size-2-tablet is-size-1-widescreen">
                   {title}
-                </h2>
-                <PageContent className="content" content={content} />
+                </h1>
+                {PageContent}
               </div>
             </div>
           </div>

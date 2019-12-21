@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import ReactMarkdown from "react-markdown";
+import ReactMarkdown from "react-markdown/with-html";
 
 function Image(props) {
   return (
@@ -28,6 +28,7 @@ const Rows = ({ rows }) => {
                 ? column.map(({ content }) => (
                     <div className="column content" key={content}>
                       <ReactMarkdown
+                        escapeHtml={false}
                         source={content}
                         renderers={{ image: Image }}
                       />

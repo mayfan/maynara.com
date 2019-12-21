@@ -47,6 +47,13 @@ row:
 
           **Tools**:<br/>
           Sketch | inVision | Photoshop | Pen and Paper
+
+
+          <br/><br/>
+
+          [**Read more**](../blog/2019-12-12-ux-ui-case-study-optimising-a-charity-e-commerce-experience/)
+
+          <br/>
   - backgroundColor: "#FFFFFF"
     column:
       - content: "![](/img/lime_3.png)"
@@ -91,6 +98,13 @@ row:
 
           **Tools**:<br/>
           Sketch | inVision | Photoshop | Pen and Paper
+
+
+          <br/><br/>
+
+          [**Read more**](../blog/2019-11-16-feature-integration-for-a-conceptual-bike-sharing-mobile-application/)
+
+          <br/>
     title: New feature for Lime - an electric bike renting mobile app
   - backgroundColor: "#E2E2E2"
     column:
@@ -127,6 +141,12 @@ row:
           **Tools**:<br/>
           Sketch | inVision | Photoshop
 
+
+          <br/><br/>
+
+          [**Read more**](../blog/2019-11-17-if-you-think-you-can-design-a-user-experience-and-prototype-it-in-5-days-you’re-right/)
+
+          <br/>
       - content: "![](/img/wmo_7.png)"
     title: >-
       If you think you can design a User Experience and prototype it in 5 days,
@@ -151,5 +171,12 @@ row:
 
           **Tools**:<br/>
           Sketch | inVision | Photoshop | Pen and paper
+
+
+          <br/><br/>
+
+          [**Read more**](../blog/2019-11-17-yoshelf-groceries/)
+
+          <br/>
     title: "Yo-Shelf: designing an e-commerce website for a local groceries shop"
 ---

@@ -13,14 +13,22 @@ row:
   - backgroundColor: '#FFFFFF'
     column:
       - content: |-
-          **Role:** UX Researcher/UI Designer (Group Project)
+          #### **Role**
 
-          **Duration:** 2 weeks
+          UX Researcher/UI Designer (Group Project)
+
+          #### **Duration**
+
+          2 weeks
       - content: >-
-          **UX Techniques:** User Research | Competitive Analysis | Data
-          Analysis | Screening survey | User interview | Sketching | Sitemaps |
-          User Flows | User Testing| Wireframing | Prototyping
-      - content: '**Tools:** Sketch | inVision | Photoshop | Pen and Paper'
+          ####  **UX Techniques** 
+
+          User Research | Competitive Analysis | Data Analysis | Screening
+          survey | User interview | Sketching | Sitemaps | User Flows | User
+          Testing| Wireframing | Prototyping
+      - content: |-
+          #### **Tools** 
+          Sketch | inVision | Photoshop | Pen and Paper
   - backgroundColor: '#E2E2E2'
     column:
       - content: >-
@@ -167,9 +175,8 @@ row:
           * What would help to make their purchase decision?
 
 
-          We had **157 respondents** who have purchased from the online shop.
-          After filtering through the information collected, six points stood
-          out:
+          We had 157 respondents who have purchased from the online shop. After
+          filtering through the information collected, six points stood out:
 
 
           * Supporting the charity was the main reason why users chose to buy at
@@ -313,10 +320,8 @@ row:
       - content: '![Categories](/img/categories.png)'
   - backgroundColor: '#e2e2e2'
     column:
-      - content: |-
-          And that’s where they sit within the site map:
-
-          ![Site Map](/img/site-map.png)
+      - content: 'And that’s where they sit within the site map:'
+      - content: '![Site Map](/img/site-map.png)'
   - backgroundColor: '#FFF'
     column:
       - content: >-
@@ -395,7 +400,7 @@ row:
           * **Product detail page.** VAT relief and product key features were
           not clear to users.
 
-          * **Applying VAT relief:** It wasn’t intuitive and clear to users when
+          * **Applying VAT relief.** It wasn’t intuitive and clear to users when
           they should apply the information about the patient in order to get
           the VAT relief.
 

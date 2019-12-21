@@ -1,35 +1,27 @@
 ---
 templateKey: blog-post
-title: 'UX/UI Case Study: Optimising a Charity e-Commerce Experience'
+title: "UX/UI Case Study: Optimising a Charity e-Commerce Experience"
 date: 2019-12-12T14:24:48.093Z
 description: >-
   Re-designing the whole online shop to attract customers to purchase daily
   living aids and increase the revenue for the charity
 row:
-  - backgroundColor: '#FFFFFF'
+  - backgroundColor: "#FFFFFF"
     column:
-      - content: '![Alzheimer''s Society Statistics](/img/statistics-1.png)'
-      - content: '![Alzheimer''s Society Statistics](/img/statistics-2.png)'
-  - backgroundColor: '#FFFFFF'
+      - content: "![Alzheimer's Society Statistics](/img/statistics-1.png)"
+      - content: "![Alzheimer's Society Statistics](/img/statistics-2.png)"
+  - backgroundColor: "#FFFFFF"
     column:
       - content: |-
-          #### **Role**
+          **Role:** UX Researcher/UI Designer (Group Project)
 
-          UX Researcher/UI Designer (Group Project)
-
-          #### **Duration**
-
-          2 weeks
+          **Duration:** 2 weeks
       - content: >-
-          ####  **UX Techniques** 
-
-          User Research | Competitive Analysis | Data Analysis | Screening
-          survey | User interview | Sketching | Sitemaps | User Flows | User
-          Testing| Wireframing | Prototyping
-      - content: |-
-          #### **Tools** 
-          Sketch | inVision | Photoshop | Pen and Paper
-  - backgroundColor: '#E2E2E2'
+          **UX Techniques:** User Research | Competitive Analysis | Data
+          Analysis | Screening survey | User interview | Sketching | Sitemaps |
+          User Flows | User Testing| Wireframing | Prototyping
+      - content: "**Tools:** Sketch | inVision | Photoshop | Pen and Paper"
+  - backgroundColor: "#E2E2E2"
     column:
       - content: >-
           Dementia is the UK’s biggest killer. Someone develops it every three
@@ -46,7 +38,7 @@ row:
           people to live well with dementia. Alongside this, they sell a wide
           range of cards and gifts, branded merchandise and books on dementia.
     title: The client
-  - backgroundColor: '#FFFFFF'
+  - backgroundColor: "#FFFFFF"
     column:
       - content: >-
           * Helping users better understand the products, including their
@@ -72,7 +64,7 @@ row:
           * Any suggestions for improvements to the overall UX and UI of the
           shop.
     title: Brief and project objectives
-  - backgroundColor: '#FFFFFF'
+  - backgroundColor: "#FFFFFF"
     column:
       - content: >-
           “Alzheimer’s Society recognises the value that digital user experience
@@ -88,7 +80,7 @@ row:
           how we join-up people in crisis with products which would help people
           affected by dementia to live well and longer in their own homes.”
     title: Why this brief matters
-  - backgroundColor: '#E2E2E2'
+  - backgroundColor: "#E2E2E2"
     column:
       - content: >-
           Double Diamond is the name of a design process model developed by the
@@ -109,7 +101,7 @@ row:
           ![Double Diamond Approach - Alzheimer's Society UX
           project](/img/doubled.png)
     title: Double Diamond approach
-  - backgroundColor: '#FFFFFF'
+  - backgroundColor: "#FFFFFF"
     column:
       - content: >-
           ![Synthesising user research and previous data to communicate with
@@ -129,10 +121,10 @@ row:
           valuable insights to inform our final solution. I provided
           recommendations backed by real data and insights.
     title: Uncovering initial insights
-  - backgroundColor: '#FFFFFF'
+  - backgroundColor: "#FFFFFF"
     column:
-      - content: '![Alzheimer''s Society Insights](/img/insights.png)'
-  - backgroundColor: '#FFFFFF'
+      - content: "![Alzheimer's Society Insights](/img/insights.png)"
+  - backgroundColor: "#FFFFFF"
     column:
       - content: >-
           As a way to understand more about what competitors were doing when
@@ -140,7 +132,7 @@ row:
           don’ts. Competitive analysis helps us to understand and explore
           opportunities and gaps in the market.
     title: Competitive Landscape
-  - backgroundColor: '#FFFFFF'
+  - backgroundColor: "#FFFFFF"
     column:
       - content: |-
           Things competitors did **well**:
@@ -156,7 +148,7 @@ row:
           * Product information not clearly highlighted
 
           ![Competitors](/img/competitors2.png)
-  - backgroundColor: '#E2E2E2'
+  - backgroundColor: "#E2E2E2"
     column:
       - content: >-
           To validate the data shared by our client, we wanted to understand
@@ -175,8 +167,9 @@ row:
           * What would help to make their purchase decision?
 
 
-          We had 157 respondents who have purchased from the online shop. After
-          filtering through the information collected, six points stood out:
+          We had **157 respondents** who have purchased from the online shop.
+          After filtering through the information collected, six points stood
+          out:
 
 
           * Supporting the charity was the main reason why users chose to buy at
@@ -200,7 +193,7 @@ row:
           People who recently bought living-aid products gave us important
           feedback when it comes to purchasing with our client’s competitors.
     title: DISCOVERY
-  - backgroundColor: '#E2E2E2'
+  - backgroundColor: "#E2E2E2"
     column:
       - content: >-
           > _“My general thought about those sorts of sites (charities) its that
@@ -221,11 +214,11 @@ row:
           where we could see the main pain points. Users were asked to complete
           the purchase of a specific product and talk about the steps taken
           throughout.
-      - content: '![Affinity Map](/img/image0-s.jpg)'
-  - backgroundColor: '#E2E2E2'
+      - content: "![Affinity Map](/img/image0-s.jpg)"
+  - backgroundColor: "#E2E2E2"
     column:
-      - content: '![Customer Journey](/img/customer-journey.png)'
-  - backgroundColor: '#E2E2E2'
+      - content: "![Customer Journey](/img/customer-journey.png)"
+  - backgroundColor: "#E2E2E2"
     column:
       - content: >-
           * **Online shop not visible from the main website.** When visiting the
@@ -255,7 +248,7 @@ row:
           disappointed due to a long checkout process – especially because there
           was some confusion when it comes to applying for the VAT relief.
     title: Insights
-  - backgroundColor: '#FFFFFF'
+  - backgroundColor: "#FFFFFF"
     column:
       - content: >-
           To summarise all our research findings we created our persona – a
@@ -264,7 +257,7 @@ row:
 
           ![Persona](/img/persona.png)
     title: DEFINE
-  - backgroundColor: '#FFFFFF'
+  - backgroundColor: "#FFFFFF"
     column:
       - content: >-
           ## Let’s take a walk in Holly’s shoes
@@ -297,8 +290,8 @@ row:
 
           * Better display labels and sub-categories for products so Holly can
           easily find the right product?
-      - content: '![](/img/scene-living-room.png)'
-  - backgroundColor: '#E2E2E2'
+      - content: "![](/img/scene-living-room.png)"
+  - backgroundColor: "#E2E2E2"
     column:
       - content: >-
           According to our research, the categories were one of the main pain
@@ -310,19 +303,21 @@ row:
 
 
           Card sorting activity also helped us to create sub-categories.
-      - content: '![Card sorting](/img/cartsorting.jpeg)'
+      - content: "![Card sorting](/img/cartsorting.jpeg)"
     title: Card Sorting
-  - backgroundColor: '#e2e2e2'
+  - backgroundColor: "#e2e2e2"
     column:
       - content: >-
           13 users participated in the card sorting activity. From that, we
           simplifying the categories into:
-      - content: '![Categories](/img/categories.png)'
-  - backgroundColor: '#e2e2e2'
+      - content: "![Categories](/img/categories.png)"
+  - backgroundColor: "#e2e2e2"
     column:
-      - content: 'And that’s where they sit within the site map:'
-      - content: '![Site Map](/img/site-map.png)'
-  - backgroundColor: '#FFF'
+      - content: |-
+          And that’s where they sit within the site map:
+
+          ![Site Map](/img/site-map.png)
+  - backgroundColor: "#FFF"
     column:
       - content: >-
           ## Paper prototype
@@ -340,7 +335,7 @@ row:
 
           ![Paper prototype being tested](/img/paper-test-s2.jpg)
     title: DEVELOP
-  - backgroundColor: '#E2E2E2'
+  - backgroundColor: "#E2E2E2"
     column:
       - content: >-
           ## Affinity map – V1
@@ -382,7 +377,7 @@ row:
 
 
           ![Affinity map](/img/afmap2.png)
-  - backgroundColor: '#E2E2E2'
+  - backgroundColor: "#E2E2E2"
     column:
       - content: >-
           **User Testing Insights**
@@ -400,7 +395,7 @@ row:
           * **Product detail page.** VAT relief and product key features were
           not clear to users.
 
-          * **Applying VAT relief.** It wasn’t intuitive and clear to users when
+          * **Applying VAT relief:** It wasn’t intuitive and clear to users when
           they should apply the information about the patient in order to get
           the VAT relief.
 
@@ -408,8 +403,8 @@ row:
           After collecting all feedback from testing sessions, we iterated the
           prototype making the changes that would make the flow smoother to
           users.
-      - content: '![Paper changes](/img/paper-changes.jpg)'
-  - backgroundColor: '#FFF'
+      - content: "![Paper changes](/img/paper-changes.jpg)"
+  - backgroundColor: "#FFF"
     column:
       - content: >-
 
@@ -509,7 +504,7 @@ row:
           see where they would need to apply the information to get the VAT
           relief applied to their purchase.
     title: How did we improve the homepage?
-  - backgroundColor: '#E2E2E2'
+  - backgroundColor: "#E2E2E2"
     column:
       - content: >-
           ## Design Elements
@@ -525,7 +520,7 @@ row:
 
           ![Style Guide](/img/styleguide.png)
     title: DELIVER
-  - backgroundColor: '#E2E2E2'
+  - backgroundColor: "#E2E2E2"
     column:
       - content: >-
           We added grey to the colour palette to counterbalance the bright
@@ -536,8 +531,8 @@ row:
 
           To use the coral pink as an accent colour, we reviewed the typography
           styles and sizes to make it accessible changing the font size to 18px.
-      - content: '![Colours](/img/colours.png)'
-  - backgroundColor: '#FFF'
+      - content: "![Colours](/img/colours.png)"
+  - backgroundColor: "#FFF"
     column:
       - content: >-
           To connect with Holly’s problem and help her achieve her goal we
@@ -550,7 +545,7 @@ row:
           ![Tasks](/img/tasksas.png)
 
 
-          [InVision Prototype](<InVision Prototype: https://bit.ly/2sjpuQE>)
+          [InVision Prototype](https://bit.ly/2sjpuQE)
 
 
           ## Homepage – Mobile version
@@ -574,7 +569,7 @@ row:
           * Improve visibility of shop on mobile from the main Alzheimer's
           Society homepage.
     title: Final Prototype
-  - backgroundColor: '#E2E2E2'
+  - backgroundColor: "#E2E2E2"
     column:
       - content: >-
           Working with the Alzheimer’s Society was very rewarding for me. I’ve
@@ -592,4 +587,5 @@ row:
           people living with the disease and everyone around them.
     title: What I've learnt...
 ---
+
 ![Alzheimer's Society UX project](/img/home.png)

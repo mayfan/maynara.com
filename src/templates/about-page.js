@@ -1,9 +1,10 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { graphql } from "gatsby";
-import Layout from "../components/Layout";
 
 import Content, { HTMLContent } from "../components/Content";
+import Header from "../components/Header";
+import Layout from "../components/Layout";
 import Rows from "../components/Rows";
 
 export const AboutPageTemplate = ({
@@ -16,25 +17,7 @@ export const AboutPageTemplate = ({
 
   return (
     <div>
-      <section
-        className="section section--gradient"
-        style={{
-          backgroundColor: "#194239"
-        }}
-      >
-        <div className="container">
-          <div className="columns">
-            <div className="column is-9">
-              <div className="content header">
-                <h1 className="is-size-3-mobile is-size-2-tablet is-size-1-widescreen">
-                  {title}
-                </h1>
-                {PageContent}
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
+      <Header title={title} />
       {row && row.length ? <Rows rows={row} /> : null}
     </div>
   );

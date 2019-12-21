@@ -2,6 +2,15 @@
 templateKey: about-page
 title: May Fanucci
 row:
+  - backgroundColor: '#FFFFFF'
+    column:
+      - content: |-
+          ### UX Researcher/UI Designer
+
+          [LinkedIn](https://www.linkedin.com/in/maynara-fanucci/)
+
+          hello@maynara.com
+      - content: '![](/img/may6.png)'
   - backgroundColor: '#E2E2E2'
     column:
       - content: |-
@@ -92,8 +101,4 @@ row:
           E-commerce website for a small local grocery shop. Maintaining their
           brand values and showcasing their best hand-picked selections.
 ---
-### UX/UI Designer
-
-[maynara.com/linkedin](https://maynara.com/linkedin)
-
-hello@maynara.com
+###

@@ -2,6 +2,14 @@ import React from "react";
 import PropTypes from "prop-types";
 import ReactMarkdown from "react-markdown";
 
+function Image(props) {
+  return (
+    <p className="center-image">
+      <img {...props} />
+    </p>
+  );
+}
+
 const Rows = ({ rows }) => {
   return (
     <div>
@@ -19,7 +27,10 @@ const Rows = ({ rows }) => {
               {column && column.length
                 ? column.map(({ content }) => (
                     <div className="column content" key={content}>
-                      <ReactMarkdown source={content} />
+                      <ReactMarkdown
+                        source={content}
+                        renderers={{ image: Image }}
+                      />
                     </div>
                   ))
                 : null}

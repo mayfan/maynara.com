@@ -1,14 +1,13 @@
 ---
 templateKey: index-page
 title: May Fanucci - UX/UI Designer
-heading: "I'm May, a UX Researcher/UI Designer based in London"
+heading: 'I''m May, a UX Researcher/UI Designer based in London'
 row:
-  - backgroundColor: "#E2E2E2"
+  - backgroundColor: '#E2E2E2'
     column:
-      - content: >-
-          ![](/img/home_transparent.png)
+      - content: '![](/img/home_highres.png)'
     title: Optimising a Charity e-Commerce Experience
-  - backgroundColor: "#E2E2E2"
+  - backgroundColor: '#E2E2E2'
     column:
       - content: >-
           In a two-week sprint, our team had to re-design the whole online shop
@@ -31,32 +30,29 @@ row:
 
           * Improvements to the overall UX and UI of the shop
       - content: >-
-          **Role**:<br/>
-          UX Researcher/UI Designer (Group Project)
+          **Role**:<br/> UX Researcher/UI Designer (Group Project)
 
 
-          **Duration**:<br/>
-          2 weeks
+          **Duration**:<br/> 2 weeks
 
 
-          **UX Techniques**:<br/>
-          User Research | Competitive Analysis | Data Analysis | Screening
-          survey | User interview | Sketching | Sitemaps | User Flows | User
-          Testing| Wireframing | Prototyping
+          **UX Techniques**:<br/> User Research | Competitive Analysis | Data
+          Analysis | Screening survey | User interview | Sketching | Sitemaps |
+          User Flows | User Testing| Wireframing | Prototyping
 
 
-          **Tools**:<br/>
-          Sketch | inVision | Photoshop | Pen and Paper
+          **Tools**:<br/> Sketch | inVision | Photoshop | Pen and Paper
 
 
           <br/><br/>
 
-          [**Read more**](../blog/2019-12-12-ux-ui-case-study-optimising-a-charity-e-commerce-experience/)
+          [**Read
+          more**](../blog/2019-12-12-ux-ui-case-study-optimising-a-charity-e-commerce-experience/)
 
           <br/>
-  - backgroundColor: "#FFFFFF"
+  - backgroundColor: '#FFFFFF'
     column:
-      - content: "![](/img/lime_3.png)"
+      - content: '![](/img/lime_3.png)'
       - content: >-
           In a two-week sprint, I worked in a team of four to integrate a new
           feature for the existing Lime bike mobile application creating a high
@@ -83,30 +79,28 @@ row:
           <br/><br/>
 
 
-          **Role**:<br/>
-          UX/UI/Interaction Design (Group Project)
+          **Role**:<br/> UX/UI/Interaction Design (Group Project)
 
 
-          **Duration**:<br/>
-          2 weeks
+          **Duration**:<br/> 2 weeks
 
 
-          **UX Techniques**:<br/>
-          User Research | Competitive Analysis | Sketching | Sitemaps | User
-          Flows | User Testing| Wireframing | Prototyping
+          **UX Techniques**:<br/> User Research | Competitive Analysis |
+          Sketching | Sitemaps | User Flows | User Testing| Wireframing |
+          Prototyping
 
 
-          **Tools**:<br/>
-          Sketch | inVision | Photoshop | Pen and Paper
+          **Tools**:<br/> Sketch | inVision | Photoshop | Pen and Paper
 
 
           <br/><br/>
 
-          [**Read more**](../blog/2019-11-16-feature-integration-for-a-conceptual-bike-sharing-mobile-application/)
+          [**Read
+          more**](../blog/2019-11-16-feature-integration-for-a-conceptual-bike-sharing-mobile-application/)
 
           <br/>
     title: New feature for Lime - an electric bike renting mobile app
-  - backgroundColor: "#E2E2E2"
+  - backgroundColor: '#E2E2E2'
     column:
       - content: >-
           A UX case study on improving the User’s Experience when booking gym
@@ -123,54 +117,47 @@ row:
 
           <br/><br/>
 
-          **Role**:<br/>
-          UX/UI/Interaction Design (Solo Project)
+          **Role**:<br/> UX/UI/Interaction Design (Solo Project)
 
 
-          **Duration**:<br/>
-          5 days
+          **Duration**:<br/> 5 days
 
 
-          **UX Techniques**:<br/>
-          Competitive analysis | User interviews | User persona | Experience
-          mapping | User flows | Wire-flows| SiteMap | Sketching | Prototyping |
-          User testing | Brand Personality & Statements | Elevator Pitch | Style
-          guide
+          **UX Techniques**:<br/> Competitive analysis | User interviews | User
+          persona | Experience mapping | User flows | Wire-flows| SiteMap |
+          Sketching | Prototyping | User testing | Brand Personality &
+          Statements | Elevator Pitch | Style guide
 
 
-          **Tools**:<br/>
-          Sketch | inVision | Photoshop
+          **Tools**:<br/> Sketch | inVision | Photoshop
 
 
           <br/><br/>
 
-          [**Read more**](../blog/2019-11-17-if-you-think-you-can-design-a-user-experience-and-prototype-it-in-5-days-you’re-right/)
+          [**Read
+          more**](../blog/2019-11-17-if-you-think-you-can-design-a-user-experience-and-prototype-it-in-5-days-you’re-right/)
 
           <br/>
-      - content: "![](/img/wmo_7.png)"
+      - content: '![](/img/wmo_7.png)'
     title: >-
       If you think you can design a User Experience and prototype it in 5 days,
       you’re right
-  - backgroundColor: "#FFF"
+  - backgroundColor: '#FFF'
     column:
-      - content: "![](/img/mockup2.png)"
+      - content: '![](/img/mockup2.png)'
       - content: >-
-          **Role**:<br/>
-          UX/UI/Interaction Design (Solo Project)
+          **Role**:<br/> UX/UI/Interaction Design (Solo Project)
 
 
-          **Duration**:<br/>
-          2 weeks
+          **Duration**:<br/> 2 weeks
 
 
-          **UX Techniques**:<br/>
-          Competitive analysis | User interviews | User persona | Experience
-          mapping | User flows | Wire-flows| SiteMap | Sketching | Prototyping |
-          User testing
+          **UX Techniques**:<br/> Competitive analysis | User interviews | User
+          persona | Experience mapping | User flows | Wire-flows| SiteMap |
+          Sketching | Prototyping | User testing
 
 
-          **Tools**:<br/>
-          Sketch | inVision | Photoshop | Pen and paper
+          **Tools**:<br/> Sketch | inVision | Photoshop | Pen and paper
 
 
           <br/><br/>
@@ -178,5 +165,6 @@ row:
           [**Read more**](../blog/2019-11-17-yoshelf-groceries/)
 
           <br/>
-    title: "Yo-Shelf: designing an e-commerce website for a local groceries shop"
+    title: 'Yo-Shelf: designing an e-commerce website for a local groceries shop'
 ---
+

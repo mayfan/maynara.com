@@ -52,7 +52,7 @@ row:
           <br/>
   - backgroundColor: '#FFFFFF'
     column:
-      - content: '![](/img/lime_3.png)'
+      - content: '![](/img/lime_home.png)'
       - content: >-
           In a two-week sprint, I worked in a team of four to integrate a new
           feature for the existing Lime bike mobile application creating a high

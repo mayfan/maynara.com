@@ -12,32 +12,50 @@ row:
           [E-mail me](mailto:hello@maynara.com)
   - backgroundColor: '#E2E2E2'
     column:
-      - content: |-
+      - content: >-
           ## **UX/UI Experience**
 
+
           **NIIT Technologies** (December 2019 - present)<br/>
+
           _Senior Associate - UX Design_
 
-          UI Design for clients, communicating with stakeholders.
+
+          UX/UI Design for clients, communicating with stakeholders,
+          facilitating meetings.
+
 
           <br/>
+
 
           **Elpis** (June 2018 - present)<br/>
+
           _Co-Founder/UX/UI Designer_
 
+
           Early stage social media platform. Responsible for user research
+
           (qualitative and quantitative), brand identity, prototyping, user
+
           testing and content creation. Product design sprint run for early
+
           iteration.
 
+
           <br/>
+
 
           ## **Creative Industry Experience**
 
+
           * Eight years of professional experience in the Creative Industry
+
           * Social Media Content Producer (Instagram & Facebook)
+
           * Community Builder
+
           * Video and Image Post-Production Coordinator
+
           * Integrated Video and Advertising Producer/Project Manager
       - content: >-
           ## Projects 

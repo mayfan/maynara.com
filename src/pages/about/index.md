@@ -18,11 +18,15 @@ row:
 
           **NIIT Technologies** (December 2019 - present)<br/>
 
-          _Senior Associate - UX Design_
+          _UX/UI Designer_
 
 
-          UX/UI Design for clients, communicating with stakeholders,
-          facilitating meetings.
+          Agile/Lean UX environment working with Designers and Product Managers.
+
+
+          Producing wireframes and interactive prototypes. Presenting findings
+          internally and to clients. Defining user journeys and the IA of
+          systems. 
 
 
           <br/>

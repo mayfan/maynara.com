@@ -1,8 +1,25 @@
 ---
 templateKey: index-page
-title: May Fanucci - UX/UI Designer
-heading: 'I''m May, a UX Researcher/UI Designer based in London'
+title: May Fanucci - UX/Product Designer
+heading: 'I''m May, a UX/Product Designer based in London'
 row:
+  - backgroundColor: FFFFFF
+    column:
+      - content: '![May - UX/Product Designer](/img/may.png)'
+      - content: >-
+          Everyone has a story to tell and here is why design and I go well
+          together. I'm May, a passionate Product Designer based in London with
+          over nine years’ experience - of which eight were spent working in the
+          Creative Industry. Prior to my Product Design career, I’ve had
+          experience as a Project Manager having worked across broadcast,
+          digital & print. Now, working in global organisations as a Product
+          Designer, I've been collaborating with the design team and
+          stakeholders to define a consistent and user-centered design strategy,
+          offering both creative and technical-based solutions. I’ve built
+          relationships with people of different backgrounds, ages, cultures,
+          and perspectives – both professionally and personally. Please feel
+          free to talk to me on all things related to design, cats, coffee,
+          yoga, dinosaurs and nature.
   - backgroundColor: '#E2E2E2'
     column:
       - content: '![](/img/home_highres.png)'

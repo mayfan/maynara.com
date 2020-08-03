@@ -14,7 +14,7 @@ row:
           experience as a Project Manager having worked across broadcast,
           digital & print. Now, working in global organisations as a Product
           Designer, I've been collaborating with the design team and
-          stakeholders to define a consistent and user-centered design strategy,
+          stakeholders to define a consistent and user-centred design strategy,
           offering both creative and technical-based solutions. I’ve built
           relationships with people of different backgrounds, ages, cultures,
           and perspectives – both professionally and personally. Please feel

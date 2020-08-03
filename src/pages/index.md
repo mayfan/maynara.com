@@ -22,8 +22,8 @@ row:
           and personally. 
 
 
-          Chat to talk to me on all things related to design, psychology, cats,
-          coffee, yoga, dinosaurs and nature.
+          Chat to me on all things related to design, psychology, cats, coffee,
+          yoga, dinosaurs and nature.
   - backgroundColor: '#E2E2E2'
     column:
       - content: '![](/img/home_highres.png)'

@@ -4,14 +4,55 @@ title: About Me
 row:
   - backgroundColor: '#FFFFFF'
     column:
-      - content: |-
+      - content: >-
           # May Fanucci
+
 
           # UX/Product Designer
 
+
           [LinkedIn](https://www.linkedin.com/in/maynara-fanucci/)
 
+
           [E-mail me](mailto:hello@maynara.com)
+
+
+          ## My beliefs as a Product Designer and what I can bring to your team
+
+
+          **Creative & Innovative:** Produce new ideas or insights creating
+          innovative products and designs. Seek opportunities for organisational
+          improvement. How can we creatively approach the solution to this
+          problem?
+
+
+          **Working with people:** the importance of being empathetic and having
+          a true interest in an understanding of others. Recognise and reward
+          the contribution of others. Listen and communicate proactively. Being
+          open to listen and learn.
+
+
+          **Persuading and Influencing:** Make effective and positive use of
+          political processes to influence and persuade others. Onboard and
+          commit a team to pursue the same goal. Convince and negotiate
+          expectations.
+
+
+          **Presenting and communicating information:** Be clear when expressing
+          key points. Respond quickly to the needs and feedback of an audience. 
+
+
+          **Delivering & Meeting customer expectations:** Focus on customer
+          needs balancing with business goals. Set high standards for quality.
+          Monitor and maintain quality and productivity. Be systematic and
+          methodical when necessary. Consistency is a key point to achieve
+          project goals.
+
+
+          **Adapting & Responding to change:** Adapt to changing circumstances
+          is fundamental. Accepting new ideas and embracing changes. Adapt
+          interpersonal style to suit different people or situations. Deal with
+          ambiguity, making positive use of opportunities.
       - content: '![May Fanucci](/img/may.png)'
   - backgroundColor: '#F8ECE5'
     column:

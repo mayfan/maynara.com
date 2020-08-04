@@ -24,6 +24,10 @@ row:
 
           Chat to me on all things related to design, cats, coffee, yoga,
           dinosaurs and nature.
+
+
+          > "Design is content with intent. Content without intent is noise.
+          Intent without content is decoration."
   - backgroundColor: '#F8ECE5'
     column:
       - content: >-

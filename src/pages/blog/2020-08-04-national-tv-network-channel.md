@@ -53,4 +53,4 @@ row:
           * Facilitated workshops and final design sessions.
     title: My main contributions as a Product Designer
 ---
-![National TV Network Channel](/img/screen_2.png)
+![National TV Network Channel](/img/screen_4.png)

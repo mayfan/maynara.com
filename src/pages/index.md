@@ -30,14 +30,13 @@ row:
           ##### 2019-2020 / Web
 
 
-          Weekly design sprints in a Scrum/Agile environment. Took the lead as a
-          Product Designer working closely with stakeholders to better
-          understand user and business requirements. I was responsible for
-          running workshops, translating needs and goals into designs and flows,
-          working closely with developers to understand the tech constraints,
-          research with users and stakeholders, creating and updating style
-          guides and design systems, producing hi-fidelity prototypes and
-          deliverables, testing and iterating prototypes.
+          Took the lead as a Product Designer working closely with stakeholders
+          to better understand user and business requirements. I was responsible
+          for running workshops, translating needs and goals into designs and
+          flows, working closely with developers to understand the tech
+          constraints, research with users and stakeholders, creating and
+          updating style guides and design systems, producing hi-fidelity
+          prototypes and deliverables, testing and iterating prototypes.
 
 
           I’ve worked on two main projects:

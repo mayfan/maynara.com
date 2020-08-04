@@ -60,10 +60,20 @@ row:
   - backgroundColor: '#FFFFFF'
     column:
       - content: '![National Library](/img/screen_3.png)'
-      - content: |-
+      - content: >-
           ##### 2020 / Web + Mobile
 
-          Text
+
+          The National Library has 28,000 pages of content and they lack
+          consistency across them, most weren’t either accessible or
+          user-friendly. Besides the extensive amount of pages, they were
+          divided as a specific number of templates that were replicated
+          throughout the whole website. Their previous product had hundreds of
+          controls that were built on top of each other, never considering a
+          user-centered experience or even their functionality. They were
+          originally designed based on the website’s content and on what
+          internal stakeholders (e.g. content producers) wanted - which is not
+          necessarily what users need.
     title: National Library
   - backgroundColor: '#E2E2E2'
     column:

@@ -7,9 +7,8 @@ row:
   - backgroundColor: '#F8ECE5'
     column:
       - content: >-
-          **Weekly design sprints in a Scrum/Agile environment.** I took the
-          lead as a Product Designer working closely with stakeholders to better
-          understand the user and business requirements.
+          I took the lead as a Product Designer working closely with
+          stakeholders to better understand the user and business requirements.
       - content: ' I was responsible for running workshops, translating needs and goals into designs and flows, working closely with developers to understand the tech constraints, research with users and stakeholders, creating and updating style guides and design systems, producing hi-fidelity prototypes and deliverables, testing and iterating prototypes.'
   - backgroundColor: '#FFFFFF'
     column:

@@ -52,6 +52,10 @@ row:
 
           * An internal system that communicates sales decisions between teams
           from the above system.
+
+
+          [Read
+          more](https://www.maynara.com/blog/2020-08-04-national-tv-network-channel/)
     title: National TV Network Channel
   - backgroundColor: '#FFFFFF'
     column:

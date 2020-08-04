@@ -26,7 +26,7 @@ row:
           dinosaurs and nature.
   - backgroundColor: '#F8ECE5'
     column:
-      - content: Image
+      - content: '![National TV Network Channel](/img/screen_1.png)'
       - content: >-
           ##### 2019-2020 / Web
 

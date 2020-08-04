@@ -59,7 +59,7 @@ row:
           ##### 2020 / Web + Mobile
 
           Text
-      - content: Image
+      - content: '![National Library](/img/screen_3.png)'
     title: National Library
   - backgroundColor: '#E2E2E2'
     column:

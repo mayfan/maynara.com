@@ -8,7 +8,7 @@ row:
       - content: '![May - UX/Product Designer](/img/may.png)'
       - content: >-
           **Everyone has a story to tell and here is why design and I go well
-          together.** I'm May, a passionate product designer based in London
+          together.** I'm May, a passionate Product Designer based in London
           with over nine years’ experience in the Creative Industry. Prior to my
           Product Design career, I worked as a Project Manager across broadcast,
           digital & print. 

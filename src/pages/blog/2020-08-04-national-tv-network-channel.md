@@ -18,17 +18,15 @@ row:
   - backgroundColor: '#FFFFFF'
     column:
       - content: >-
-          I’ve worked on two main projects:
-
-
           * A platform that services over 3,000 outside media agencies and
           provides programme purchase options, allocation of TV commercials,
           budget management and ROI reports on media allocated. The portal
           itself comprises highly complex journeys for media planning,
-          purchasing inventory management and commerce. 
-
+          purchasing inventory management and commerce.
+      - content: >-
           * An internal system that communicates sales decisions between teams
-          from the above system.
+          from the previously mentioned platform.
+    title: I’ve worked on two main projects
   - backgroundColor: '#F8ECE5'
     column:
       - content: >-

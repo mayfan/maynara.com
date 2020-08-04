@@ -59,11 +59,11 @@ row:
     title: National TV Network Channel
   - backgroundColor: '#FFFFFF'
     column:
+      - content: '![National Library](/img/screen_3.png)'
       - content: |-
           ##### 2020 / Web + Mobile
 
           Text
-      - content: '![National Library](/img/screen_3.png)'
     title: National Library
   - backgroundColor: '#E2E2E2'
     column:

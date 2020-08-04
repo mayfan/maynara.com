@@ -24,6 +24,43 @@ row:
 
           Chat to me on all things related to design, cats, coffee, yoga,
           dinosaurs and nature.
+  - backgroundColor: '#F8ECE5'
+    column:
+      - content: Image
+      - content: >-
+          ##### 2019-2020 / Web
+
+
+          Weekly design sprints in a Scrum/Agile environment. Took the lead as a
+          Product Designer working closely with stakeholders to better
+          understand user and business requirements. I was responsible for
+          running workshops, translating needs and goals into designs and flows,
+          working closely with developers to understand the tech constraints,
+          research with users and stakeholders, creating and updating style
+          guides and design systems, producing hi-fidelity prototypes and
+          deliverables, testing and iterating prototypes.
+
+
+          I’ve worked on two main projects:
+
+
+          * A platform that services over 3,000 outside media agencies and
+          provides programme purchase options, allocation of TV commercials,
+          budget management and ROI reports on media allocated. The portal
+          itself comprises highly complex journeys for media planning,
+          purchasing inventory management and commerce. 
+
+          * An internal system that communicates sales decisions between teams
+          from the above system.
+    title: National TV Network Channel
+  - backgroundColor: '#FFFFFF'
+    column:
+      - content: |-
+          ##### 2020 / Web + Mobile
+
+          Text
+      - content: Image
+    title: National Library
   - backgroundColor: '#E2E2E2'
     column:
       - content: '![](/img/home_highres.png)'

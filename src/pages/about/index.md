@@ -5,28 +5,58 @@ row:
   - backgroundColor: '#FFFFFF'
     column:
       - content: |-
-          # May Fanucci - UX Researcher/UI Designer
+          # May Fanucci
+
+          # UX/Product Designer
 
           [LinkedIn](https://www.linkedin.com/in/maynara-fanucci/)
 
           [E-mail me](mailto:hello@maynara.com)
-  - backgroundColor: '#E2E2E2'
+      - content: '![May Fanucci](/img/may.png)'
+  - backgroundColor: '#F8ECE5'
     column:
       - content: >-
           ## **UX/UI Experience**
 
 
-          **NIIT Technologies** (December 2019 - present)<br/>
+          **NIIT Technologies** (November 2019 - present)<br/>
 
-          _UX/UI Designer_
-
-
-          Agile/Lean UX environment working with Designers and Product Managers.
+          _UX/Product Designer_
 
 
-          Producing wireframes and interactive prototypes. Presenting findings
-          internally and to clients. Defining user journeys and the IA of
-          systems. 
+          I led the Product Design work for several of the company’s largest
+          digital clients, including a National Library, where I’ve been driving
+          the new multi-channel UX/UI/Visual design for their public facing
+          website that spans over 28,000+ pages. Prior to that project, I led
+          the redesign of a National TV Network Channel’s highly complex and
+          highly transactions agency/media purchasing portal servicing over
+          3,000+ media agencies. In addition to these two highly complex
+          initiatives I’ve been the driving UX/UI/Visual design force behind
+          NIIT’s newest industry-leading banking/mortgage design introducing
+          hyper-personalisation.
+
+
+          * Defined user journeys and stories.
+
+          * Produced high-fidelity wireframes, interactive prototypes (that were
+          also used as part of usability testing sessions) and visual designs.
+
+          * Conducted interviews with end-users and internal stakeholders to
+          understand business requirements.
+
+          * Completed competitor/market analysis as part of the research phase
+          before wireframing.
+
+          * Complied with style guides and component library requirements to
+          maintain the digital brand.
+
+          * Created user-centred experiences that met WCAG AA standards.
+
+          * Co-ordinated with development and testing teams to ensure all UX/UI
+          and visual design requirements are being developed, tested and
+          delivered.
+
+          * Facilitated workshops and final design sessions.
 
 
           <br/>

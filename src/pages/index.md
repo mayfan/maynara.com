@@ -7,23 +7,23 @@ row:
     column:
       - content: '![May - UX/Product Designer](/img/may.png)'
       - content: >-
-          Everyone has a story to tell and here is why design and I go well
-          together. I'm May, a passionate Product Designer based in London with
-          over nine years’ experience in the Creative Industry. Prior to my
+          **Everyone has a story to tell and here is why design and I go well
+          together.** I'm May, a passionate product designer based in London
+          with over nine years’ experience in the Creative Industry. Prior to my
           Product Design career, I worked as a Project Manager across broadcast,
           digital & print. 
 
 
           Now, working in global organisations as a Product Designer, I've been
-          collaborating with designers and stakeholders to define a consistent
-          and user-centred approach, offering both creative and technical-based
+          collaborating with design and stakeholders to define a consistent and
+          user-centered approach, offering both creative and technical-based
           solutions. I’ve built relationships with people of different
           backgrounds, ages, cultures, and perspectives – both professionally
           and personally. 
 
 
-          Chat to me on all things related to design, psychology, cats, coffee,
-          yoga, dinosaurs and nature.
+          Chat to me on all things related to design, cats, coffee, yoga,
+          dinosaurs and nature.
   - backgroundColor: '#E2E2E2'
     column:
       - content: '![](/img/home_highres.png)'

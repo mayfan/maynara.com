@@ -26,7 +26,6 @@ row:
           dinosaurs and nature.
   - backgroundColor: '#F8ECE5'
     column:
-      - content: '![National TV Network Channel](/img/screen_1.png)'
       - content: >-
           ##### 2019-2020 / Web
 
@@ -56,6 +55,7 @@ row:
 
           [Read
           more](https://www.maynara.com/blog/2020-08-04-national-tv-network-channel/)
+      - content: '![National TV Network Channel](/img/screen_1.png)'
     title: National TV Network Channel
   - backgroundColor: '#FFFFFF'
     column:

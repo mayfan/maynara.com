@@ -1,6 +1,21 @@
 @import "~bulma/sass/utilities/initial-variables"
-@import url('https://fonts.googleapis.com/css?family=Lora&display=swap')
-@import url('https://fonts.googleapis.com/css?family=Cabin:500,500i&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Roboto')
+@import url('https://fonts.googleapis.com/css2?family=Raleway')
+
+@import "~bulma"
+
+// responsiveness
++tablet-only
+  .blog-list-item .featured-thumbnail
+    flex-basis: 50%
+
++mobile
+  .blog-list-item header
+    display: block
+  .blog-list-item .featured-thumbnail
+    text-align: center
+    max-width: 70%
+    margin: 0 0 1em
 
 // Config vars
 // Kaldi logo brand color: #FD461E
@@ -9,48 +24,48 @@ $kaldi-red-invert: #fff
 
 $body-color: #333 
 $black: #2b2523 
-$feature-color: #194239
+$feature-color: #1a5461
+$highlight-color: #F8ECE5
+$link-color: #05192D
+$link-hover-color: #278092
 $pink: #E86A92 
 $primary: $kaldi-red 
 $primary-invert: $kaldi-red-invert 
-$yellow: #ffdb97 
+$underline-color: #9e005a
+
+a
+  color: $link-color
+
+a:hover
+  color: $link-hover-color
 
 .content
   a
-    border-bottom: solid 4px $pink
+    border-bottom: solid 4px $underline-color
     padding-bottom: 2px
     margin-bottom: 4px
 
-    :hover
-      border-bottom: solid 2px $pink
-      padding-bottom: 4px
-
-a:hover
-  color: $pink
-
 body
-  font-family: 'Cabin', sans-serif
+  font-family: 'Roboto', sans-serif
 
 h1, h2, h3, h4, h5, h6
-  font-family: 'Lora', serif
+  font-family: 'Raleway', serif
   font-weight: normal
 
 .header
   h1
-    color: $yellow !important
+    color: $feature-color !important
 
 .navbar .navbar-menu
   box-shadow: none !important
-  a:hover, a:active
-    border-bottom: solid 2px $pink
-    color: $pink
 
-.content
-  p
-    a
-      color: $black !important
-    a:hover
-      color: $pink !important
+  a:hover
+    color: $link-hover-color
+    border-bottom: solid 2px $underline-color
+
+  [aria-current="page"]
+    color: $link-hover-color
+    border-bottom: solid 2px $underline-color
 
 p.center-image
   display: flex
@@ -167,7 +182,7 @@ $menu-label-color: $white-ter
   margin: 0 1.5em 0 0
 
 .coloured-header
-  background-color: $feature-color
+  background-color: $highlight-color
 
 .contact
   p
@@ -175,35 +190,17 @@ $menu-label-color: $white-ter
     display: block
     margin-bottom: 0.5em
 
-    a
-      color: white !important
-    a:hover
-      color: $pink
-
 .portfolio-item
   h1
     font-size: 3em
-  a
-    color: $black
-  a:hover
-    color: $pink
 
 .blog-summary
   p
     a
-      border: 0
+      background: auto !important
+      color: $feature-color !important
+      line-height: 1.6em
+      text-decoration: none !important
 
-@import "~bulma"
-
-// responsiveness
-+tablet-only
-  .blog-list-item .featured-thumbnail
-    flex-basis: 50%
-
-+mobile
-  .blog-list-item header
-    display: block
-  .blog-list-item .featured-thumbnail
-    text-align: center
-    max-width: 70%
-    margin: 0 0 1em
+    a:hover
+      color: $link-hover-color !important

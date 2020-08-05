@@ -3,12 +3,7 @@ import React from "react";
 import Contact from "./Contact";
 
 const Header = ({ title }) => (
-  <section
-    className="section section--gradient"
-    style={{
-      backgroundColor: "#194239"
-    }}
-  >
+  <section className="section section--gradient coloured-header">
     <div className="container">
       <div className="columns">
         <div className="column is-3 is-offset-9 content">

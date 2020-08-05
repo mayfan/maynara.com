@@ -12,27 +12,15 @@ class BlogRoll extends React.Component {
         {posts &&
           posts.map(({ node: post }) => (
             <div className="is-parent column is-6 blog-summary" key={post.id}>
-              <article
-                className={`blog-list-item tile is-child box notification`}
-              >
+              <article className={`blog-list-item tile is-child notification`}>
                 <header>
-                  <p className="post-meta">
-                    <Link
-                      className="title has-text-primary is-size-4"
-                      to={post.fields.slug}
-                    >
+                  <p>
+                    <Link className="title is-size-4" to={post.fields.slug}>
                       {post.frontmatter.title}
                     </Link>
                   </p>
                 </header>
-                <p>
-                  {post.excerpt}
-                  <br />
-                  <br />
-                  <Link className="" to={post.fields.slug}>
-                    Keep Reading →
-                  </Link>
-                </p>
+                <p>{post.excerpt}</p>
               </article>
             </div>
           ))}
@@ -44,9 +32,9 @@ class BlogRoll extends React.Component {
 BlogRoll.propTypes = {
   data: PropTypes.shape({
     allMarkdownRemark: PropTypes.shape({
-      edges: PropTypes.array
-    })
-  })
+      edges: PropTypes.array,
+    }),
+  }),
 };
 
 export default () => (

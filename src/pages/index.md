@@ -219,6 +219,10 @@ row:
           My client was YoShelf groceries. They’ve been the City’s neighbourhood
           grocery store since 1998. Located near Liverpool Street Station, they
           are proud of being part of a dynamic community.
+
+
+          [Read
+          more](https://www.maynara.com/blog/2019-11-17-yoshelf-groceries/)
     title: 'Yo-Shelf: designing an e-commerce website for a local groceries shop'
 ---
 

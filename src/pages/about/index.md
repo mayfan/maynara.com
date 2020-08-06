@@ -1,13 +1,10 @@
 ---
 templateKey: about-page
-title: About Me
+title: May Fanucci
 row:
   - backgroundColor: '#FFFFFF'
     column:
       - content: >-
-          # May Fanucci
-
-
           # UX/Product Designer
 
 

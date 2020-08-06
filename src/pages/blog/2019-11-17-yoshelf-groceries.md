@@ -388,4 +388,4 @@ row:
           the client with our findings and had to find a way to incorporate user
           insights with the brief.
 ---
-![](/img/mockup2.png)
+![YoShelf](/img/yoshelf_page.png)

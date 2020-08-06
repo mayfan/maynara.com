@@ -5,12 +5,6 @@ row:
   - backgroundColor: '#FFFFFF'
     column:
       - content: >-
-          [LinkedIn](https://www.linkedin.com/in/maynara-fanucci/)
-
-
-          [E-mail me](mailto:hello@maynara.com)
-
-
           ## My beliefs as a UX/Product Designer and what I can bring to your
           team
 

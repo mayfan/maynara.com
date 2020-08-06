@@ -224,5 +224,14 @@ row:
           [Read
           more](https://www.maynara.com/blog/2019-11-17-yoshelf-groceries/)
     title: 'Yo-Shelf: designing an e-commerce website for a local groceries shop'
+  - backgroundColor: '#F8ECE5'
+    column:
+      - content: '![](/img/cp_1.png "Yoga app (TV)")'
+      - content: '![](/img/cp_2.png "FlexiPay")'
+    title: UI Conceptual Projects
+  - backgroundColor: '#F8ECE5'
+    column:
+      - content: '![](/img/cp_3.png)'
+      - content: '![](/img/cp_4.png)'
 ---
 

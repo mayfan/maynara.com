@@ -213,10 +213,6 @@ row:
   - backgroundColor: '#F8ECE5'
     column:
       - content: '![](/img/cp_3.png "Bike/Run")'
-      - content: '![](/img/cp_4.png "Bike/Run")'
-  - backgroundColor: '#F8ECE5'
-    column:
-      - content: '![](/img/cp_6.png "Mortgage Banking")'
-      - content: '![](/img/cp_7.png "Mortgage Banking")'
+      - content: '![](/img/cp_6.png "Bike/Run")'
 ---
 

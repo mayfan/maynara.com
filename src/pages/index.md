@@ -81,18 +81,19 @@ row:
 
           [Read more](https://www.maynara.com/blog/2020-08-04-national-library/)
     title: National Library
-  - backgroundColor: '#E2E2E2'
+  - backgroundColor: '#F8ECE5'
     column:
       - content: '![](/img/home_highres.png)'
     title: Optimising a Charity e-Commerce Experience
-  - backgroundColor: '#E2E2E2'
+  - backgroundColor: '#F8ECE5'
     column:
       - content: >-
-          In a two-week sprint, our team had to re-design the whole online shop
-          to attract customers to purchase daily living aids and increase the
-          revenue for the charity.
+          Pro-bono project. In a two-week sprint, our team had to re-design the
+          whole online shop to attract customers to purchase daily living aids
+          and increase the revenue for the charity.
 
           <br/><br/>
+
 
           #### CHALLENGES
 
@@ -108,12 +109,6 @@ row:
 
           * Improvements to the overall UX and UI of the shop
       - content: >-
-          **Role**:<br/> UX Researcher/UI Designer (Group Project)
-
-
-          **Duration**:<br/> 2 weeks
-
-
           **UX Techniques**:<br/> User Research | Competitive Analysis | Data
           Analysis | Screening survey | User interview | Sketching | Sitemaps |
           User Flows | User Testing| Wireframing | Prototyping
@@ -153,15 +148,7 @@ row:
           * Ability to choose or create a multi-point sightseeing tour
 
           * Ability to view/browse sight details for major attractions
-
-          <br/><br/>
-
-
-          **Role**:<br/> UX/UI/Interaction Design (Group Project)
-
-
-          **Duration**:<br/> 2 weeks
-
+            <br/><br/>
 
           **UX Techniques**:<br/> User Research | Competitive Analysis |
           Sketching | Sitemaps | User Flows | User Testing| Wireframing |
@@ -178,7 +165,7 @@ row:
 
           <br/>
     title: New feature for Lime - an electric bike renting mobile app
-  - backgroundColor: '#E2E2E2'
+  - backgroundColor: '#F8ECE5'
     column:
       - content: >-
           A UX case study on improving the User’s Experience when booking gym

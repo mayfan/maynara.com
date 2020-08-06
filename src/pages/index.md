@@ -83,10 +83,6 @@ row:
     title: National Library
   - backgroundColor: '#F8ECE5'
     column:
-      - content: '![](/img/home_highres.png)'
-    title: Optimising a Charity e-Commerce Experience
-  - backgroundColor: '#F8ECE5'
-    column:
       - content: >-
           Pro-bono project. In a two-week sprint, our team had to re-design the
           whole online shop to attract customers to purchase daily living aids
@@ -108,13 +104,6 @@ row:
           presented 
 
           * Improvements to the overall UX and UI of the shop
-      - content: >-
-          **UX Techniques**:<br/> User Research | Competitive Analysis | Data
-          Analysis | Screening survey | User interview | Sketching | Sitemaps |
-          User Flows | User Testing| Wireframing | Prototyping
-
-
-          **Tools**:<br/> Sketch | inVision | Photoshop | Pen and Paper
 
 
           <br/><br/>
@@ -123,6 +112,8 @@ row:
           more**](../blog/2019-12-12-ux-ui-case-study-optimising-a-charity-e-commerce-experience/)
 
           <br/>
+      - content: '![](/img/alzheimer_landing.png)'
+    title: Optimising a Charity e-Commerce Experience
   - backgroundColor: '#FFFFFF'
     column:
       - content: '![](/img/lime_landing.png)'

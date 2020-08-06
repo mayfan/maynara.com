@@ -125,7 +125,7 @@ row:
           <br/>
   - backgroundColor: '#FFFFFF'
     column:
-      - content: '![](/img/lime_3.png)'
+      - content: '![](/img/lime_landing.png)'
       - content: >-
           In a two-week sprint, I worked in a team of four to integrate a new
           feature for the existing Lime bike mobile application creating a high
@@ -203,9 +203,13 @@ row:
     title: 'Yo-Shelf: designing an e-commerce website for a local groceries shop'
   - backgroundColor: '#F8ECE5'
     column:
-      - content: '![](/img/cp_1.png "Yoga app (TV)")'
-      - content: '![](/img/cp_2.png "FlexiPay")'
+      - content: '![](/img/cp_1_2.png "Yoga App (TV)")'
     title: UI Conceptual Projects
+  - backgroundColor: '#F8ECE5'
+    column:
+      - content: '![](/img/cp_1_3.png "E-Learning")'
+      - content: '![](/img/cp_2.png "FlexiPay")'
+    title: ''
   - backgroundColor: '#F8ECE5'
     column:
       - content: '![](/img/cp_3.png "Bike/Run")'

@@ -112,15 +112,17 @@ row:
           ## **Creative Industry Experience**
 
 
-          * Eight years of professional experience in the Creative Industry
+          * Nine years of professional experience in the Creative Industry
 
-          * Social Media Content Producer (Instagram & Facebook)
+          * Social Media Content Producer
 
           * Community Builder
 
           * Video and Image Post-Production Coordinator
 
           * Integrated Video and Advertising Producer/Project Manager
+
+          * Experience across broadcast, digital and print
       - content: >-
           ## Projects 
 

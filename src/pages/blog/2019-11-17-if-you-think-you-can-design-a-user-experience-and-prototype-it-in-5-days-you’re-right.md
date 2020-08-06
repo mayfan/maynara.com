@@ -337,4 +337,4 @@ row:
       - content: '![](/img/wmo_10.png)'
     title: Final Prototype
 ---
-![](/img/wmo_7.png)
+![](/img/wmo_landing.png)

@@ -209,7 +209,7 @@ row:
       you’re right
   - backgroundColor: '#FFF'
     column:
-      - content: '![](/img/mockup2.png)'
+      - content: '![YoShelf](/img/yoshelf_landing.png)'
       - content: >-
           **Role**:<br/> UX/UI/Interaction Design (Solo Project)
 

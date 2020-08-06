@@ -148,14 +148,6 @@ row:
           * Ability to choose or create a multi-point sightseeing tour
 
           * Ability to view/browse sight details for major attractions
-            <br/><br/>
-
-          **UX Techniques**:<br/> User Research | Competitive Analysis |
-          Sketching | Sitemaps | User Flows | User Testing| Wireframing |
-          Prototyping
-
-
-          **Tools**:<br/> Sketch | inVision | Photoshop | Pen and Paper
 
 
           <br/><br/>
@@ -173,6 +165,7 @@ row:
 
           <br/><br/>
 
+
           #### CHALLENGE
 
 
@@ -182,22 +175,6 @@ row:
 
           <br/><br/>
 
-          **Role**:<br/> UX/UI/Interaction Design (Solo Project)
-
-
-          **Duration**:<br/> 5 days
-
-
-          **UX Techniques**:<br/> Competitive analysis | User interviews | User
-          persona | Experience mapping | User flows | Wire-flows| SiteMap |
-          Sketching | Prototyping | User testing | Brand Personality &
-          Statements | Elevator Pitch | Style guide
-
-
-          **Tools**:<br/> Sketch | inVision | Photoshop
-
-
-          <br/><br/>
 
           [**Read
           more**](../blog/2019-11-17-if-you-think-you-can-design-a-user-experience-and-prototype-it-in-5-days-you’re-right/)
@@ -231,7 +208,11 @@ row:
     title: UI Conceptual Projects
   - backgroundColor: '#F8ECE5'
     column:
-      - content: '![](/img/cp_3.png)'
-      - content: '![](/img/cp_4.png)'
+      - content: '![](/img/cp_3.png "Bike/Run")'
+      - content: '![](/img/cp_4.png "Bike/Run")'
+  - backgroundColor: '#F8ECE5'
+    column:
+      - content: '![](/img/cp_6.png "Mortgage Banking")'
+      - content: '![](/img/cp_7.png "Mortgage Banking")'
 ---
 

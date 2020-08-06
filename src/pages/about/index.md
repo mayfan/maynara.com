@@ -5,16 +5,14 @@ row:
   - backgroundColor: '#FFFFFF'
     column:
       - content: >-
-          # UX/Product Designer
-
-
           [LinkedIn](https://www.linkedin.com/in/maynara-fanucci/)
 
 
           [E-mail me](mailto:hello@maynara.com)
 
 
-          ## My beliefs as a Product Designer and what I can bring to your team
+          ## My beliefs as a UX/Product Designer and what I can bring to your
+          team
 
 
           **Creative & Innovative:** Produce new ideas or insights creating

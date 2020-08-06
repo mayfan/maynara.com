@@ -211,25 +211,14 @@ row:
     column:
       - content: '![YoShelf](/img/yoshelf_landing.png)'
       - content: >-
-          **Role**:<br/> UX/UI/Interaction Design (Solo Project)
+          For my second concept project as part of the User Experience course at
+          General Assembly in London, I was tasked with creating an e-commerce
+          website for a local independent grocery shop.
 
 
-          **Duration**:<br/> 2 weeks
-
-
-          **UX Techniques**:<br/> Competitive analysis | User interviews | User
-          persona | Experience mapping | User flows | Wire-flows| SiteMap |
-          Sketching | Prototyping | User testing
-
-
-          **Tools**:<br/> Sketch | inVision | Photoshop | Pen and paper
-
-
-          <br/><br/>
-
-          [**Read more**](../blog/2019-11-17-yoshelf-groceries/)
-
-          <br/>
+          My client was YoShelf groceries. They’ve been the City’s neighbourhood
+          grocery store since 1998. Located near Liverpool Street Station, they
+          are proud of being part of a dynamic community.
     title: 'Yo-Shelf: designing an e-commerce website for a local groceries shop'
 ---
 

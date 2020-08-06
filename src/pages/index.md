@@ -203,7 +203,7 @@ row:
           more**](../blog/2019-11-17-if-you-think-you-can-design-a-user-experience-and-prototype-it-in-5-days-you’re-right/)
 
           <br/>
-      - content: '![](/img/wmo_7.png)'
+      - content: '![WMO](/img/wmo_landing.png)'
     title: >-
       If you think you can design a User Experience and prototype it in 5 days,
       you’re right

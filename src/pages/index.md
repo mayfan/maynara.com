@@ -18,23 +18,11 @@ row:
           to effortlessly switch between either methodology.
 
 
-          **Everyone has a story to tell and here is why design and I go well
-          together.** I'm May, a passionate Product Designer based in London
-          with over nine years’ experience in the Creative Industry. Prior to my
-          Product Design career, I worked as a Project Manager across broadcast,
-          digital & print. 
-
-
-          Now, working in global organisations as a Product Designer, I've been
-          collaborating with design and stakeholders to define a consistent and
-          user-centered approach, offering both creative and technical-based
-          solutions. I’ve built relationships with people of different
-          backgrounds, ages, cultures, and perspectives – both professionally
-          and personally. 
-
-
-          Chat to me on all things related to design, cats, coffee, yoga,
-          dinosaurs and nature.
+          I've been collaborating with companies, designers and stakeholders to
+          define a consistent and user-centred approach, offering both creative
+          and technical-based solutions. I’ve built relationships with people of
+          different backgrounds, ages, cultures, and perspectives – both
+          professionally and personally. 
 
 
           > "Design is content with intent. Content without intent is noise.

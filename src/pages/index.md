@@ -1,12 +1,23 @@
 ---
 templateKey: index-page
 title: May Fanucci - UX/Product Designer
-heading: 'I''m May, a UX/Product Designer based in London'
+heading: >-
+  I'm May, a UX/Product Designer & Problem Solver helping real companies
+  implement real solutions
 row:
   - backgroundColor: FFFFFF
     column:
       - content: '![May - UX/Product Designer](/img/may.png)'
       - content: >-
+          My philosophy is to iterate and recommend based on a project’s unique
+          requirements. To provide design that stands the tests of time and
+          technology.
+
+
+          Whether your team’s work style is waterfall or agile-based, I’m able
+          to effortlessly switch between either methodology.
+
+
           **Everyone has a story to tell and here is why design and I go well
           together.** I'm May, a passionate Product Designer based in London
           with over nine years’ experience in the Creative Industry. Prior to my

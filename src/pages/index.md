@@ -25,8 +25,8 @@ row:
           professionally and personally. 
 
 
-          > "Design is content with intent. Content without intent is noise.
-          Intent without content is decoration."
+          > **"Design is content with intent. Content without intent is noise.
+          Intent without content is decoration."**
   - backgroundColor: '#F8ECE5'
     column:
       - content: >-

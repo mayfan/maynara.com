@@ -42,7 +42,27 @@ row:
           is fundamental. Accepting new ideas and embracing changes. Adapt
           interpersonal style to suit different people or situations. Deal with
           ambiguity, making positive use of opportunities.
-      - content: '![May Fanucci](/img/may.png)'
+      - content: >-
+          ![May Fanucci](/img/may.png)
+
+
+          **Everyone has a story to tell and here is why design and I go well
+          together.** I'm May, a passionate Product Designer based in London
+          with over nine years’ experience in the Creative Industry. Prior to my
+          Product Design career, I worked as a Project Manager across broadcast,
+          digital & print. 
+
+
+          Now, working in global organisations as a Product Designer, I've been
+          collaborating with design and stakeholders to define a consistent and
+          user-centred approach, offering both creative and technical-based
+          solutions. I’ve built relationships with people of different
+          backgrounds, ages, cultures, and perspectives – both professionally
+          and personally. 
+
+
+          Chat to me on all things related to design, cats, coffee, yoga,
+          dinosaurs and nature.
   - backgroundColor: '#F8ECE5'
     column:
       - content: >-

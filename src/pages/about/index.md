@@ -54,8 +54,8 @@ row:
 
 
           Now, working in global organisations as a Product Designer, I've been
-          collaborating with design and stakeholders to define a consistent and
-          user-centred approach, offering both creative and technical-based
+          collaborating with designers and stakeholders to define a consistent
+          and user-centred approach, offering both creative and technical-based
           solutions. I’ve built relationships with people of different
           backgrounds, ages, cultures, and perspectives – both professionally
           and personally. 

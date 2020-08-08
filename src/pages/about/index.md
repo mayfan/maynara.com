@@ -128,7 +128,7 @@ row:
           Channel](https://www.maynara.com/blog/2020-08-04-national-tv-network-channel/)’s
           highly complex and highly transactions agency/media purchasing portal
           servicing over 3,000+ media agencies. In addition to these two highly
-          complex initiatives, I’ve been the driving UX/UI/Visual design force
+          complex initiatives, I’ve been the driving the product design force
           behind NIIT’s newest industry-leading banking/mortgage design
           introducing hyper-personalisation.
 

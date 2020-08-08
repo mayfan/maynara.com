@@ -66,67 +66,33 @@ row:
   - backgroundColor: '#F8ECE5'
     column:
       - content: >-
-          ## **UX/UI Experience**
+          ## **Services Design, development, and strategy**
 
 
-          **NIIT Technologies** (November 2019 - present)<br/>
-
-          _UX/Product Designer_
-
-
-          I led the Product Design work for several of the company’s largest
-          digital clients, including a National Library, where I’ve been driving
-          the new multi-channel UX/UI/Visual design for their public facing
-          website that spans over 28,000+ pages. Prior to that project, I led
-          the redesign of a National TV Network Channel’s highly complex and
-          highly transactions agency/media purchasing portal servicing over
-          3,000+ media agencies. In addition to these two highly complex
-          initiatives I’ve been the driving UX/UI/Visual design force behind
-          NIIT’s newest industry-leading banking/mortgage design introducing
-          hyper-personalisation.
+          **Agile Team Philosophy** Involve users early and often. Learn from
+          your users, learn from your team, and iterate. Your process will
+          mature and you’ll be able to run through it easier and faster on each
+          pass. Being agile is to be set up to react to new information fast.
 
 
-          * Defined user journeys and stories.
-
-          * Produced high-fidelity wireframes, interactive prototypes (that were
-          also used as part of usability testing sessions) and visual designs.
-
-          * Conducted interviews with end-users and internal stakeholders to
-          understand business requirements.
-
-          * Completed competitor/market analysis as part of the research phase
-          before wireframing.
-
-          * Complied with style guides and component library requirements to
-          maintain the digital brand.
-
-          * Created user-centred experiences that met WCAG AA standards.
-
-          * Co-ordinated with development and testing teams to ensure all UX/UI
-          and visual design requirements are being developed, tested and
-          delivered.
-
-          * Facilitated workshops and final design sessions.
+          **Design Strategy** Movement does not mean progress. It’s just as
+          important to focus on the medium and long term as it is to have a
+          well-designed product. 
 
 
-          <br/>
+          **Design Sprints** Rapidly save time, money and reduce risk.
 
 
-          **Elpis** (June 2018 - present)<br/>
-
-          _Co-Founder/UX/UI Designer_
-
-
-          Early stage social media platform. Responsible for user research
-
-          (qualitative and quantitative), brand identity, prototyping, user
-
-          testing and content creation. Product design sprint run for early
-
-          iteration.
+          **Design Systems** Efficiency is the key to a well-functioning design
+          team. 
 
 
-          <br/>
+          **Web and Mobile App Design**  The end product. Learn more about how I
+          arrive at the final solution by checking my case studies.
+
+
+          **Workshop Facilitation** When a Design Sprint isn’t suitable,
+          sometimes a workshop will suffice.
 
 
           ## **Creative Industry Experience**

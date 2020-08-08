@@ -110,60 +110,86 @@ row:
 
           * Experience across broadcast, digital and print
       - content: >-
-          ## Projects 
-
-          **Alzheimer’s Society UK** (2 weeks project)<br/> _UX/UI Designer_
+          ## Professional Experience
 
 
-          Attracting customers to their online shop to purchase daily living
-          aids. Optimising users’ experience so they are able to choose the
-          right product for them or the person they care for.
+          **NIIT Technologies** (November 2019 - present)
 
 
-          [**Read case
-          study**](../blog/2019-12-12-ux-ui-case-study-optimising-a-charity-e-commerce-experience/)
+          UX/Product Designer
 
 
-          <br/>
+          I led the Product Design work for several of the company’s largest
+          digital clients, including a [National
+          Library](https://www.maynara.com/blog/2020-08-04-national-library/),
+          where I’ve been driving the new multi-channel UX/UI/Visual design for
+          their public facing website that spans over 28,000+ pages. Prior to
+          that project, I led the redesign of a [National TV Network
+          Channel](https://www.maynara.com/blog/2020-08-04-national-tv-network-channel/)’s
+          highly complex and highly transactions agency/media purchasing portal
+          servicing over 3,000+ media agencies. In addition to these two highly
+          complex initiatives, I’ve been the driving UX/UI/Visual design force
+          behind NIIT’s newest industry-leading banking/mortgage design
+          introducing hyper-personalisation.
+
+
+          * Defined user journeys and stories.
+
+          * Produced high-fidelity wireframes, interactive prototypes (that were
+          also used as part of usability testing sessions) and visual designs.
+
+          * Conducted interviews with end-users and internal stakeholders to
+          understand business requirements.
+
+          * Completed competitor/market analysis as part of the research phase
+          before wireframing.
+
+          * Complied with style guides and component library requirements to
+          maintain the digital brand.
+
+          * Created user-centred experiences that met WCAG AA standards.
+
+          * Co-ordinated with development and testing teams to ensure all UX/UI
+          and visual design requirements are being developed, tested and
+          delivered.
+
+          * Facilitated workshops and final design sessions.
+
+
+          ## Side Project
+
+
+          **Elpis** (June 2018 - present)
+
+
+          _Co-Founder/UX/UI Designer_
+
+
+          Early stage social media platform. Responsible for user research
+          (qualitative and quantitative), brand identity, prototyping, user
+          testing and content creation. Product design sprint run for early
+          iteration.
+
+
+          ## Pro-bono Project
+
+
+          [**Alzheimer’s Society
+          UK**](../blog/2019-12-12-ux-ui-case-study-optimising-a-charity-e-commerce-experience/)
 
 
           ## Conceptual Projects
 
 
-          **Lime Bikes** (2 weeks project)<br/> _UX/UI Designer_
+          [**Lime
+          Bikes**](../blog/2019-11-16-feature-integration-for-a-conceptual-bike-sharing-mobile-application/)
 
 
-          A new feature for a bike-sharing mobile app to improve how and when
-          customers use it. All stages from research to high fidelity prototype.
+          [**Work Me
+          Out**](../blog/2019-11-17-if-you-think-you-can-design-a-user-experience-and-prototype-it-in-5-days-you’re-right/)
 
 
-          [**Read case
-          study**](../blog/2019-11-16-feature-integration-for-a-conceptual-bike-sharing-mobile-application/)
-
-
-          <br/><br/>
-
-          **WorkMeOut** (1 week project)<br/> _UX/UI Designer_
-
-
-          A mobile app to improve the user experience of booking gym classes
-          nearby. Designed the experience and prototyped it in five days.
-
-
-          [**Read case
-          study**](../blog/2019-11-17-if-you-think-you-can-design-a-user-experience-and-prototype-it-in-5-days-you’re-right/)
-
-
-          <br/><br/>
-
-          **YoShelf E-commerce** (2 weeks project)<br/> _UX/UI Designer_
-
-
-          E-commerce website for a small local grocery shop. Maintaining their
-          brand values and showcasing their best hand-picked selections.
-
-
-          [**Read case study**](../blog/2019-11-17-yoshelf-groceries/)
+          [**YoShelf E-commerce**](../blog/2019-11-17-yoshelf-groceries/)
     title: ''
 ---
 

@@ -110,7 +110,7 @@ row:
 
           * Experience across broadcast, digital and print
       - content: >-
-          ## Professional Experience
+          ## UX/Product Design Experience
 
 
           **NIIT Technologies** (November 2019 - present)

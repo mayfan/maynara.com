@@ -43,7 +43,8 @@ row:
           ![Image source: Eigen
           Technologies](/img/screenshot-2022-01-29-at-21.09.35.png)
       - content: >-
-          **2021-2022 / SaaS Platform (B2B)**
+          ##### 2021-2022 / Machine Learning/Artificial Inteligence Saas
+          Platform (B2B)
 
 
           Leading Senior Product Designer responsible for the end-to-end

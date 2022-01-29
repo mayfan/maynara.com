@@ -4,7 +4,7 @@ title: May Fanucci - UX/Product Designer
 heading: >-
   I'm May, a Senior Product Designer. I create user-centric, simple, delightful,
   and human experiences. I'm passionate about all things related to Design
-  Systems and mentoring other designers. 
+  Systems, strategy and mentoring other designers. 
 row:
   - backgroundColor: FFFFFF
     column:
@@ -39,6 +39,10 @@ row:
           Intent without content is decoration."**
   - backgroundColor: '#F8ECE5'
     column:
+      - content: How easy can
+    title: 'NLP tool '
+  - backgroundColor: '#FFFFFF'
+    column:
       - content: >-
           ##### 2019-2020 / Web
 
@@ -69,7 +73,7 @@ row:
           more](https://www.maynara.com/blog/2020-08-04-national-tv-network-channel/)
       - content: '![National TV Network Channel](/img/screen_1.png)'
     title: National TV Network Channel
-  - backgroundColor: '#FFFFFF'
+  - backgroundColor: '#F8ECE5'
     column:
       - content: '![National Library](/img/screen_3.png)'
       - content: >-
@@ -90,7 +94,7 @@ row:
 
           [Read more](https://www.maynara.com/blog/2020-08-04-national-library/)
     title: National Library
-  - backgroundColor: '#F8ECE5'
+  - backgroundColor: '#FFFFFF'
     column:
       - content: >-
           Pro-bono project. In a two-week sprint, our team had to re-design the
@@ -123,7 +127,7 @@ row:
           <br/>
       - content: '![](/img/alzheimer_landing.png)'
     title: Optimising a Charity e-Commerce Experience
-  - backgroundColor: '#FFFFFF'
+  - backgroundColor: '#F8ECE5'
     column:
       - content: '![](/img/lime_landing.png)'
       - content: >-
@@ -157,7 +161,7 @@ row:
 
           <br/>
     title: New feature for Lime - an electric bike renting mobile app
-  - backgroundColor: '#F8ECE5'
+  - backgroundColor: '#FFFFFF'
     column:
       - content: >-
           A UX case study on improving the User’s Experience when booking gym
@@ -184,7 +188,7 @@ row:
     title: >-
       If you think you can design a User Experience and prototype it in 5 days,
       you’re right
-  - backgroundColor: '#FFF'
+  - backgroundColor: '#F8ECE5'
     column:
       - content: '![YoShelf](/img/yoshelf_landing.png)'
       - content: >-
@@ -201,16 +205,16 @@ row:
           [Read
           more](https://www.maynara.com/blog/2019-11-17-yoshelf-groceries/)
     title: 'Yo-Shelf: designing an e-commerce website for a local groceries shop'
-  - backgroundColor: '#F8ECE5'
+  - backgroundColor: '#FFFFFF'
     column:
       - content: '![](/img/cp_1_2.png "Yoga App (TV)")'
     title: UI Conceptual Projects
-  - backgroundColor: '#F8ECE5'
+  - backgroundColor: '#FFFFFF'
     column:
       - content: '![](/img/cp_1_3.png "E-Learning")'
       - content: '![](/img/cp_2.png "FlexiPay")'
     title: ''
-  - backgroundColor: '#F8ECE5'
+  - backgroundColor: '#FFFFFF'
     column:
       - content: '![](/img/cp_3.png "Bike/Run")'
       - content: '![](/img/cp_6.png "Bike/Run")'

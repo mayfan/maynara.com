@@ -39,8 +39,14 @@ row:
           Intent without content is decoration."**
   - backgroundColor: '#F8ECE5'
     column:
-      - content: How easy can
-    title: 'NLP tool '
+      - content: Image
+      - content: >-
+          A tool to help users get structured insights in seconds by simply
+          asking questions.
+
+
+          Read more
+    title: Natural Language Processing Tool
   - backgroundColor: '#FFFFFF'
     column:
       - content: >-

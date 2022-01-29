@@ -9,24 +9,29 @@ row:
     column:
       - content: '![May - UX/Product Designer](/img/may.png)'
       - content: >-
-          My philosophy is to iterate and recommend based on a project’s unique
-          requirements. To provide design that stands the tests of time and
-          technology.
+          ## Ship fast, learn and iterate. 
 
 
-          Whether your team’s work style is waterfall or agile-based, I’m able
-          to effortlessly switch between either methodology.
+          I help companies define, design and launch world-class digital
+          products following Agile principles. I learn and grow, working from an
+          initial need, betting on the right solution, questioning assumptions.
+          By addressing all the details during the process, I make independent
+          and data-driven decisions when needed. I encourage making user-centred
+          experiences for users to drive business outcomes. Eager to identify
+          work to do and learn; focused on finding solid solutions to problems.
 
 
-          I've been collaborating with companies, designers and stakeholders to
-          define a consistent and user-centred approach, offering both creative
-          and technical-based solutions. I’ve built relationships with people of
-          different backgrounds, ages, cultures, and perspectives – both
-          professionally and personally. 
+          * Collaboration and feedback believer, with clear & consistent
+          communication
 
+          * In-house product development experience
 
-          > **"Design is content with intent. Content without intent is noise.
-          Intent without content is decoration."**
+          * Consultancy agency scaling up teams & products being delivery
+          focused
+
+          * Ownership of the end-to-end design process
+
+          * Machine Learning & AI, B2B, B2C, start-up experience
   - backgroundColor: '#F8ECE5'
     column:
       - content: >-

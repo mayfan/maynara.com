@@ -2,8 +2,9 @@
 templateKey: index-page
 title: May Fanucci - UX/Product Designer
 heading: >-
-  I'm May, a UX/Product Designer & Problem Solver. I enjoy creating
-  user-centric, simple, delightful, and human experiences. 
+  I'm May, a Senior Product Designer & Problem Solver. I enjoy creating
+  user-centric, simple, delightful, and human experiences. Passionate about all
+  things related to Design Systems and mentoring other designers. 
 row:
   - backgroundColor: FFFFFF
     column:

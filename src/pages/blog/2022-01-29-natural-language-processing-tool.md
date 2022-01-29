@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Natural Language Processing Tool
 date: 2022-01-29T21:02:22.638Z
-description: Leading Senior Product Designer responsible for the end-to-end process.
+description: 2021-2022 / Machine Learning/Artificial Inteligence Saas Platform (BSB)
 row:
   - backgroundColor: '#F8ECE5'
     column:
@@ -23,3 +23,7 @@ row:
           progress) Design System.
 ---
 ![](/img/screenshot-2022-01-29-at-21.09.35.png)
+
+Leading Senior Product Designer responsible for the end-to-end process.
+
+_Image Source: Eigen Technologies_

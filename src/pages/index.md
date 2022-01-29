@@ -8,7 +8,7 @@ heading: >-
 row:
   - backgroundColor: FFFFFF
     column:
-      - content: '![May - UX/Product Designer](/img/may.png)'
+      - content: '![May - UX/Product Designer](/img/may_experience_1.png)'
       - content: >-
           ## Ship fast, learn and iterate. 
 

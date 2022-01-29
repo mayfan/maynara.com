@@ -113,7 +113,30 @@ row:
           ## UX/Product Design Experience
 
 
-          **NIIT Technologies** (November 2019 - present)
+          **Eigen Technologies** (January 2021 - _present_)
+
+
+          Senior Product Designer
+
+
+          Accountable for in-house product development, playing a critical role
+          within the Product team, collaborating directly with Engineers,
+          Product Managers, Customer Success Managers, Sales and wider business,
+          taking ownership of the entire product experience.
+
+
+          * **Tactical:** Creation and implementation of a Design System
+          uplifting the product’s usability and accessibility
+
+          * **Strategic:** Building and scaling up a design team while being
+          part of the roadmap strategy definition
+
+          * **Commercial:** Expanding features and product’s capabilities,
+          filling and identifying market gaps
+
+
+          **Coforge (Erstwhile NIIT Technologies)** (November 2019 - January
+          2021)
 
 
           UX/Product Designer

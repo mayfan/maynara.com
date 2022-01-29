@@ -41,8 +41,20 @@ row:
     column:
       - content: Image
       - content: >-
-          A tool to help users get structured insights in seconds by simply
-          asking questions.
+          **2021-2022 / SaaS Platform (B2B)**
+
+
+          Leading Senior Product Designer responsible for the end-to-end
+          process. A tool to help users get structured insights in seconds by
+          simply asking questions. 
+
+
+          * Solved complex and intricate problems by validating assumptions and
+          conducing user research with various stakeholders.
+
+          * Executed on UI/UX design tasks, helping to define and improve
+          processes, implementing reusable components as part of a (work in
+          progress) Design System. 
 
 
           Read more

@@ -32,6 +32,10 @@ row:
           * Ownership of the end-to-end design process
 
           * Machine Learning & AI, B2B, B2C, start-up experience
+
+
+          **"Design is content with intent. Content without intent is noise.
+          Intent without content is decoration."**
   - backgroundColor: '#F8ECE5'
     column:
       - content: >-

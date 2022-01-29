@@ -65,7 +65,8 @@ row:
           progress) Design System. 
 
 
-          Read more
+          [Read
+          more](https://www.maynara.com/blog/2022-01-29-natural-language-processing-tool/)
     title: Natural Language Processing Tool
   - backgroundColor: '#FFFFFF'
     column:

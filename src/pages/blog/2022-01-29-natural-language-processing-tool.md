@@ -21,6 +21,12 @@ row:
           * Executed on UI/UX design tasks, helping to define and improve
           processes, implementing reusable components as part of a (work in
           progress) Design System.
+
+
+
+
+          # To know more details about this project, please get in touch:
+          _hello@maynara.com_
 ---
 ![](/img/screenshot-2022-01-29-at-21.09.35.png)
 

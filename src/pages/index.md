@@ -39,14 +39,21 @@ row:
           Intent without content is decoration."**
   - backgroundColor: '#F8ECE5'
     column:
-      - content: Image
+      - content: >-
+          ![Image source: Eigen
+          Technologies](/img/screenshot-2022-01-29-at-21.09.35.png)
       - content: >-
           **2021-2022 / SaaS Platform (B2B)**
 
 
           Leading Senior Product Designer responsible for the end-to-end
           process. A tool to help users get structured insights in seconds by
-          simply asking questions. 
+          simply asking questions. A SaaS Product built to quickly and
+          accurately extract, classify and interpret virtually any information
+          from any document to make smarter business decisions, eliminate manual
+          processing and optimise data flow. A no-code AI platform where
+          business users can easily extract data, answer questions and retrieve
+          information. 
 
 
           * Solved complex and intricate problems by validating assumptions and

@@ -16,14 +16,18 @@ row:
           questions. A no-code AI platform where business users can easily
           extract data, answer questions and retrieve information.
       - content: >-
+          ![Source: Eigen
+          Technologies](/img/screenshot-2022-01-30-at-20.41.42.png)
+  - backgroundColor: FFFFFF
+    column:
+      - content: '![](/img/screenshot-2022-01-30-at-20.41.57.png)'
+      - content: >-
           * Solved complex and intricate problems by validating assumptions and
           conducing user research with various stakeholders.
 
           * Executed on UI/UX design tasks, helping to define and improve
           processes, implementing reusable components as part of a (work in
           progress) Design System.
-
-
 
 
           # To know more details about this project, please get in touch:

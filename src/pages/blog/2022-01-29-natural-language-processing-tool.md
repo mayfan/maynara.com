@@ -15,12 +15,10 @@ row:
           tool help users get structured insights in seconds by simply asking
           questions. A no-code AI platform where business users can easily
           extract data, answer questions and retrieve information.
-      - content: >-
-          ![Source: Eigen
-          Technologies](/img/screenshot-2022-01-30-at-20.41.42.png)
+      - content: '![Source: Eigen Technologies](/img/eigen_3.png)'
   - backgroundColor: FFFFFF
     column:
-      - content: '![](/img/screenshot-2022-01-30-at-20.41.57.png)'
+      - content: '![](/img/eigen_2.png)'
       - content: >-
           * Solved complex and intricate problems by validating assumptions and
           conducing user research with various stakeholders.
@@ -33,7 +31,7 @@ row:
           # To know more details about this project, please get in touch:
           _hello@maynara.com_
 ---
-![](/img/screenshot-2022-01-29-at-21.09.35.png)
+![](/img/eigen_1.png)
 
 Leading Senior Product Designer responsible for the end-to-end process.
 

@@ -43,7 +43,7 @@ row:
           ![Image source: Eigen
           Technologies](/img/screenshot-2022-01-29-at-21.09.35.png)
       - content: >-
-          ##### 2021-2022 / Machine Learning/Artificial Inteligence Saas
+          ##### 2021-2022 / Machine Learning/Artificial Inteligence SaaS
           Platform (B2B)
 
 

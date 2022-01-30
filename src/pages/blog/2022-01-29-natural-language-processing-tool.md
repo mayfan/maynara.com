@@ -7,14 +7,32 @@ row:
   - backgroundColor: '#F8ECE5'
     column:
       - content: >-
-          Leading Senior Product Designer responsible for the end-to-end process
-          in multiple features in the core platform - built to quickly and
-          accurately extract, classify and interpret virtually any information
-          from any document to make smarter business decisions, eliminate manual
-          processing and optimise data flow. This Natural Language Processing
-          tool help users get structured insights in seconds by simply asking
-          questions. A no-code AI platform where business users can easily
-          extract data, answer questions and retrieve information.
+          **Leading Senior Product Designer:** responsible for the end-to-end
+          process for multiple features in the core platform - built to quickly
+          and accurately extract, classify and interpret virtually any
+          information from any document to make smarter business decisions,
+          eliminate manual processing and optimise data flow. This Natural
+          Language Processing tool helps users get structured insights in
+          seconds by simply asking questions. A no-code AI platform where
+          business users can easily extract data, answer questions and retrieve
+          information. Some of the capabilities are:
+
+
+          * The user labels the relevant data fields for extraction. The
+          platform uses this information to build a machine learning model.
+
+          * The model analyses all documents to retrieve the correct data points
+          and evaluates the accuracy, giving the user a performance percentage
+          score.
+
+          * The user can easily apply logic and add rules to make the data
+          output instantly understandable and actionable.
+
+          * The platform guides users to verify any low-confidence answers,
+          which can be used to further improve accuracy where necessary.
+
+          * The user can review and, if required, retrain answers before
+          exporting the resulting data or sending it other systems.
       - content: '![Source: Eigen Technologies](/img/eigen_3.png)'
   - backgroundColor: FFFFFF
     column:

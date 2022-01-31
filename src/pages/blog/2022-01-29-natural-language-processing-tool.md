@@ -38,12 +38,24 @@ row:
     column:
       - content: '![](/img/eigen_2.png)'
       - content: >-
-          * Solved complex and intricate problems by validating assumptions and
-          conducing user research with various stakeholders.
+          As the leading Senior Product Designer, I've been accountable for
+          in-house product development, playing a critical role within the
+          Product team, collaborating directly with Engineers, Product Managers,
+          Customer Success Managers, Sales and wider business, taking ownership
+          of the entire product experience.
 
-          * Executed on UI/UX design tasks, helping to define and improve
+
+          For some core features, my contributions included:
+
+
+          * Solving complex and intricate problems by validating assumptions and
+          conducting user research with various stakeholders.
+
+          * Executing on UI/UX design tasks, helping to define and improve
           processes, implementing reusable components as part of a (work in
-          progress) Design System.
+          progress) Design System - abiding to WCAG 2.1 AA regulations
+          implemented, allowing us to win more contracts and improve consistency
+          and usability across the product
 
 
           # To know more details about this project, please get in touch:

@@ -47,18 +47,21 @@ row:
           Platform (B2B)
 
 
-          Leading Senior Product Designer responsible for the end-to-end process
-          in multiple features in the core platform - built to quickly and
-          accurately extract, classify and interpret virtually any information
-          from any document to make smarter business decisions, eliminate manual
+          As a Senior Product Designer, I've been accountable for in-house
+          product development, playing a critical role within the Product team,
+          collaborating directly with Engineers, Product Managers, Customer
+          Success Managers, Sales and wider business, taking ownership of the
+          entire product experience. The platform quickly and accurately
+          extracts, classifies and interprets virtually any information from any
+          document to make smarter business decisions, eliminate manual
           processing and optimise data flow. This Natural Language Processing
-          tool help users get structured insights in seconds by simply asking
+          tool helps users get structured insights in seconds by simply asking
           questions. A no-code AI platform where business users can easily
           extract data, answer questions and retrieve information. 
 
 
           * Solved complex and intricate problems by validating assumptions and
-          conducing user research with various stakeholders.
+          conducting user research with various stakeholders.
 
           * Executed on UI/UX design tasks, helping to define and improve
           processes, implementing reusable components as part of a (work in

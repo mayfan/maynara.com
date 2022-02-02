@@ -2,9 +2,10 @@
 templateKey: index-page
 title: May Fanucci - UX/Product Designer
 heading: >-
-  I'm May, a Senior Product Designer. I create user-centric, simple, delightful,
-  and human experiences. I'm passionate about all things related to Design
-  Systems, strategy and mentoring other designers. 
+  I'm May, a Senior Product Designer, a lover of complex systems and fluid
+  interfaces. I create user-centric, simple, delightful, and human experiences.
+  I'm passionate about all things related to Design Systems, strategy and
+  mentoring other designers. 
 row:
   - backgroundColor: FFFFFF
     column:

@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Natural Language Processing Tool
 date: 2022-01-29T21:02:22.638Z
-description: 2021-2022 / Machine Learning/Artificial Inteligence SaaS Platform (BSB)
+description: 2021-2022 / Machine Learning/Artificial Inteligence SaaS Platform (B2B)
 row:
   - backgroundColor: '#F8ECE5'
     column:

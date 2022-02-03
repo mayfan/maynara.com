@@ -41,8 +41,11 @@ row:
   - backgroundColor: '#F8ECE5'
     column:
       - content: >-
-          ![Image source: Eigen
-          Technologies](/img/screenshot-2022-01-29-at-21.09.35.png)
+          ![](/img/screenshot-2022-01-29-at-21.09.35.png)
+
+
+          _Image Source: The image here was taken from the main website and do
+          not reflect the real prototype or disclose sensitive information._
       - content: >-
           ##### 2021-2022 / Machine Learning/Artificial Inteligence SaaS
           Platform (B2B)
@@ -67,10 +70,6 @@ row:
           * Executed on UI/UX design tasks, helping to define and improve
           processes, implementing reusable components as part of a (work in
           progress) Design System. 
-
-
-          _Image Source: The image here were taken from the main website and do
-          not reflect the real prototype or disclose sensitive information._
 
 
           [Read

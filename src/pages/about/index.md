@@ -116,7 +116,7 @@ row:
           **Eigen Technologies** (January 2021 - _present_)
 
 
-          Senior Product Designer
+          Product Designer
 
 
           Accountable for in-house product development, playing a critical role
@@ -125,11 +125,11 @@ row:
           taking ownership of the entire product experience.
 
 
-          * **Tactical:** Creation and implementation of a Design System
-          uplifting the product’s usability and accessibility
+          * **Tactical:** Creation of a Design System uplifting the product’s
+          usability and accessibility
 
-          * **Strategic:** Building and scaling up a design team while being
-          part of the roadmap strategy definition
+          * **Strategic:** Helping in the process of building and scaling up a
+          design team while being part of the roadmap strategy definition
 
           * **Commercial:** Expanding features and product’s capabilities,
           filling and identifying market gaps

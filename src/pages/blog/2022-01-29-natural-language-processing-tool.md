@@ -7,15 +7,15 @@ row:
   - backgroundColor: '#F8ECE5'
     column:
       - content: >-
-          **Leading Senior Product Designer:** responsible for the end-to-end
-          process for multiple features in the core platform - built to quickly
-          and accurately extract, classify and interpret virtually any
-          information from any document to make smarter business decisions,
-          eliminate manual processing and optimise data flow. This Natural
-          Language Processing tool helps users get structured insights in
-          seconds by simply asking questions. A no-code AI platform where
-          business users can easily extract data, answer questions and retrieve
-          information. Some of the capabilities are:
+          **Leading Product Designer:** responsible for the end-to-end process
+          for multiple features in the core platform - built to quickly and
+          accurately extract, classify and interpret virtually any information
+          from any document to make smarter business decisions, eliminate manual
+          processing and optimise data flow. This Natural Language Processing
+          tool helps users get structured insights in seconds by simply asking
+          questions. A no-code AI platform where business users can easily
+          extract data, answer questions and retrieve information. Some of the
+          capabilities are:
 
 
           * The user labels the relevant data fields for extraction. The
@@ -63,6 +63,6 @@ row:
 ---
 ![](/img/eigen_1.png)
 
-Leading Senior Product Designer responsible for the end-to-end process.
+Leading Product Designer responsible for the end-to-end process.
 
-_Image Source: Eigen Technologies_
+_Image Source: The images here are taken from the main website and do not reflect the real prototype or disclose sensitive information._

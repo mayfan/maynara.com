@@ -48,8 +48,8 @@ row:
           Platform (B2B)
 
 
-          As a Senior Product Designer, I've been accountable for in-house
-          product development, playing a critical role within the Product team,
+          As a Product Designer, I've been accountable for in-house product
+          development, playing a critical role within the Product team,
           collaborating directly with Engineers, Product Managers, Customer
           Success Managers, Sales and wider business, taking ownership of the
           entire product experience. The platform quickly and accurately
@@ -67,6 +67,10 @@ row:
           * Executed on UI/UX design tasks, helping to define and improve
           processes, implementing reusable components as part of a (work in
           progress) Design System. 
+
+
+          _Image Source: The image here were taken from the main website and do
+          not reflect the real prototype or disclose sensitive information._
 
 
           [Read

@@ -44,8 +44,9 @@ row:
           ![](/img/screenshot-2022-01-29-at-21.09.35.png)
 
 
-          _Image Source: The image here was taken from the main website and do
-          not reflect the real prototype or disclose sensitive information._
+          _Image Source: The image presented here is taken from the main website
+          and do not reflect the real prototype nor disclose sensitive
+          information._
       - content: >-
           ##### 2021-2022 / Machine Learning/Artificial Inteligence SaaS
           Platform (B2B)

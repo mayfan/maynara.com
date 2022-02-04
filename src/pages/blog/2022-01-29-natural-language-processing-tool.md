@@ -65,4 +65,4 @@ row:
 
 Leading Product Designer responsible for the end-to-end process.
 
-_Image Source: The images presented here are taken from the main website and do not reflect the real prototype neither disclose sensitive information._
+_Image Source: The images presented here are taken from the main website and do not reflect the real prototype nor disclose sensitive information._
